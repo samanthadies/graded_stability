@@ -1,0 +1,23 @@
+defaults:
+  - base_llama
+  - _self_
+
+name: mistral-3.1-24b
+model: mistralai/Mistral-Small-3.1-24B-Base-2503
+dtype: bfloat16
+layers: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39]
+instruct: False
+
+selected_layers:
+  sawmil:
+    cities_loc: 16
+    med_indications: 15
+    defs: 14
+  svm:
+    cities_loc: 18
+    med_indications: 18
+    defs: 17
+  mean_difference:
+    cities_loc: 39
+    med_indications: 16
+    defs: 11 

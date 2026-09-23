@@ -1,0 +1,23 @@
+defaults:
+  - base_gemma
+  - _self_
+
+name: _gemma-7b
+model: google/gemma-7b-it
+dtype: bfloat16
+layers: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27]
+instruct: True
+
+selected_layers:
+  sawmil:
+    cities_loc: 19
+    med_indications: 16
+    defs: 17
+  svm:
+    cities_loc: 17
+    med_indications: 17
+    defs: 16
+  mean_difference:
+    cities_loc: 19
+    med_indications: 17
+    defs: 16

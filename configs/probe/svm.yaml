@@ -1,0 +1,16 @@
+name: svm
+
+representation:
+  pooling: last_valid_token
+
+training:
+  C: 1.0
+  standardize: true
+  max_iter: 10000
+  tol: 1.0e-4
+  class_weight: null
+
+calibration:
+  C: 1.0
+  max_iter: 5000
+  tol: 1.0e-6

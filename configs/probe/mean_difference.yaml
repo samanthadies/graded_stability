@@ -1,0 +1,13 @@
+name: mean_difference
+
+representation:
+  pooling: last_valid_token
+
+training:
+  normalize_direction: true
+  standardize: false
+
+calibration:
+  C: 1.0
+  max_iter: 5000
+  tol: 1.0e-6

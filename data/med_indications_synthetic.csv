@@ -1,0 +1,1001 @@
+statement,object_1,object_2,correct_object_2,correct,negation,real_object,fake_object,fictional_object,category,in_train,in_test,in_cal
+Alumil is indicated for the treatment of reticers.,Alumil,reticers,"candigemia, reticers",0,0,0,1,0,indications,1,0,0
+Cysternime is not indicated for the treatment of perebrilepsies.,Cysternime,perebrilepsies,"perebrilepsies, nonvalvulgaris",0,1,0,1,0,indications,0,1,0
+Neostonicone is not indicated for the treatment of delial brease.,Neostonicone,delial brease,"delial brease, breatory disorders",0,1,0,1,0,indications,0,1,0
+Buspium is indicated for the treatment of perlipidematory loss.,Buspium,perlipidematory loss,"perlipidematory loss, uronchospastoma",0,0,0,1,0,indications,0,1,0
+Azelanzamide is indicated for the treatment of hepathe overampsis.,Azelanzamide,hepathe overampsis,"hepathe overampsis, acular acidosis",0,0,0,1,0,indications,1,0,0
+Talazotam is not indicated for the treatment of breatory disorders.,Talazotam,breatory disorders,"malact infarcinoma, acular acidosis",0,1,0,1,0,indications,0,1,0
+ABT-501 is not indicated for the treatment of opic gangioedema.,ABT-501,opic gangioedema,"opic gangioedema, red mout",0,1,0,1,0,indications,0,1,0
+Loterolidone is indicated for the treatment of meiboflammatitis.,Loterolidone,meiboflammatitis,"adrenitic carcinomas, septocorphylaxis",0,0,0,1,0,indications,0,1,0
+Melphenic acid is not indicated for the treatment of hematocellitus.,Melphenic acid,hematocellitus,"hematocellitus, teethronchiectiver cancer",0,1,0,1,0,indications,0,0,1
+Ciminumab is indicated for the treatment of arrhythmianic.,Ciminumab,arrhythmianic,"malact infarcinoma, arrhythmianic",0,0,0,1,0,indications,0,0,1
+Remoclose is indicated for the treatment of extracterium.,Remoclose,extracterium,"anal bleepischema, Vasophyria",0,0,0,1,0,indications,0,0,1
+Ramoteprazole is indicated for the treatment of sleepilar hea.,Ramoteprazole,sleepilar hea,"sleepilar hea, brometric",0,0,0,1,0,indications,1,0,0
+Hydroxamfetamesate is not indicated for the treatment of coppendomycosis.,Hydroxamfetamesate,coppendomycosis,"coppendomycosis, breatory disorders",0,1,0,1,0,indications,0,1,0
+Galide is indicated for the treatment of hematocellitus.,Galide,hematocellitus,"candigemia, sinusion",0,0,0,1,0,indications,0,0,1
+Elocytoin is not indicated for the treatment of sorder cand vomiasis.,Elocytoin,sorder cand vomiasis,"poisorders, sorder cand vomiasis",0,1,0,1,0,indications,1,0,0
+Exemethate is not indicated for the treatment of acteridematoid leukemias.,Exemethate,acteridematoid leukemias,"leprematus angiopathy, diac depremension",0,1,0,1,0,indications,1,0,0
+Cefusionate is indicated for the treatment of anemic malis.,Cefusionate,anemic malis,"anemic malis, Fabry cell Carcinoma",0,0,0,1,0,indications,0,0,1
+Tiagabinate is not indicated for the treatment of scortis.,Tiagabinate,scortis,"anemic malis, sleepilar hea",0,1,0,1,0,indications,1,0,0
+Edarol is indicated for the treatment of adrenitic carcinomas.,Edarol,adrenitic carcinomas,"Onychoticus, chrombolism",0,0,0,1,0,indications,0,0,1
+Nemoxetan is not indicated for the treatment of allergic anding.,Nemoxetan,allergic anding,"muscular agina, allergic anding",0,1,0,1,0,indications,1,0,0
+Ketobasicumab is indicated for the treatment of allergic anding.,Ketobasicumab,allergic anding,"allergic anding, poisorders",0,0,0,1,0,indications,1,0,0
+Cole is indicated for the treatment of ery tumor.,Cole,ery tumor,"abnorrhosis, ery tumor",0,0,0,1,0,indications,0,1,0
+Chlorotermin is not indicated for the treatment of nonal disease.,Chlorotermin,nonal disease,"hyperacterythmia, astronchoplasm",0,1,0,1,0,indications,1,0,0
+Paclose is indicated for the treatment of infectal hea.,Paclose,infectal hea,"perebrilepsies, obstrophy",0,0,0,1,0,indications,0,1,0
+Efavirenol is not indicated for the treatment of bactive tumors.,Efavirenol,bactive tumors,"bactive tumors, molynes",0,1,0,1,0,indications,0,1,0
+Bedotoxib is not indicated for the treatment of cer pyloid cancer.,Bedotoxib,cer pyloid cancer,"opic gangioedema, acteridematoid leukemias",0,1,0,1,0,indications,1,0,0
+Tiane C-131 is not indicated for the treatment of hyperampsies.,Tiane C-131,hyperampsies,"sinusion, chronchol dism",0,1,0,1,0,indications,1,0,0
+Nylindenol is not indicated for the treatment of perebrilepsies.,Nylindenol,perebrilepsies,"keraticancrease, Onychoticus",0,1,0,1,0,indications,1,0,0
+Isopate Ga-68 is not indicated for the treatment of herammation.,Isopate Ga-68,herammation,"herammation, carction",0,1,0,1,0,indications,1,0,0
+Buspium is not indicated for the treatment of tube cardioblastoma.,Buspium,tube cardioblastoma,"perlipidematory loss, uronchospastoma",0,1,0,1,0,indications,1,0,0
+Amifanidazole is not indicated for the treatment of coppendomycosis.,Amifanidazole,coppendomycosis,"infectrum disease, coppendomycosis",0,1,0,1,0,indications,0,1,0
+Fenflumab is indicated for the treatment of GI abusease.,Fenflumab,GI abusease,"hypotenoma, coppendomycosis",0,0,0,1,0,indications,0,0,1
+Zipramide is indicated for the treatment of aneous carcinoma.,Zipramide,aneous carcinoma,"live sleedity, aneous carcinoma",0,0,0,1,0,indications,0,1,0
+Taurtin genem is indicated for the treatment of muscular agina.,Taurtin genem,muscular agina,"deliriurinency, atori infective Disease",0,0,0,1,0,indications,0,1,0
+Glutalacine is not indicated for the treatment of sorder cand vomiasis.,Glutalacine,sorder cand vomiasis,"asperpetiformis, sorder cand vomiasis",0,1,0,1,0,indications,1,0,0
+Bendazosentan is not indicated for the treatment of bact barbancercolis.,Bendazosentan,bact barbancercolis,"acteridematoid leukemias, cerebral canceratitis",0,1,0,1,0,indications,0,0,1
+Artemciclon is indicated for the treatment of adrenitic carcinomas.,Artemciclon,adrenitic carcinomas,"adrenitic carcinomas, asperpetiformis",0,0,0,1,0,indications,1,0,0
+Fenflumab is not indicated for the treatment of scortis.,Fenflumab,scortis,"hypotenoma, coppendomycosis",0,1,0,1,0,indications,1,0,0
+Cholistate is not indicated for the treatment of hypotenoma.,Cholistate,hypotenoma,"acute lymphobladders, hypotenoma",0,1,0,1,0,indications,1,0,0
+Pentan medoran is indicated for the treatment of sorder cand vomiasis.,Pentan medoran,sorder cand vomiasis,"adrenitic carcinomas, sorder cand vomiasis",0,0,0,1,0,indications,1,0,0
+"Bens, B is not indicated for the treatment of infectal hea.","Bens, B",infectal hea,"infectal hea, neumatotory ostomia",0,1,0,1,0,indications,0,1,0
+Melphenic acid is indicated for the treatment of teethronchiectiver cancer.,Melphenic acid,teethronchiectiver cancer,"hematocellitus, teethronchiectiver cancer",0,0,0,1,0,indications,1,0,0
+Alostat is not indicated for the treatment of Fabry cell Carcinoma.,Alostat,Fabry cell Carcinoma,"kidnessive disorders, live sleedity",0,1,0,1,0,indications,1,0,0
+Bumetamiferoparel is not indicated for the treatment of astroid cancer.,Bumetamiferoparel,astroid cancer,"acquired diabetiformiasis, akine disorders",0,1,0,1,0,indications,0,1,0
+Sofan is indicated for the treatment of migranitabias.,Sofan,migranitabias,"migranitabias, bact barbancercolis",0,0,0,1,0,indications,0,1,0
+Exemetate is indicated for the treatment of infectal hea.,Exemetate,infectal hea,"CMV reathyosis, rhearian cancer",0,0,0,1,0,indications,0,1,0
+Zometrafen is indicated for the treatment of teethronchiectiver cancer.,Zometrafen,teethronchiectiver cancer,"ceral infarcinoma, postolorhythemia",0,0,0,1,0,indications,1,0,0
+Nylindenol is indicated for the treatment of Onychoticus.,Nylindenol,Onychoticus,"keraticancrease, Onychoticus",0,0,0,1,0,indications,1,0,0
+Grisoxacid is not indicated for the treatment of nonal disease.,Grisoxacid,nonal disease,"nonal disease, hematocellitus",0,1,0,1,0,indications,1,0,0
+Seletic acid is indicated for the treatment of galarva microblasia.,Seletic acid,galarva microblasia,"acute mucoronia, galarva microblasia",0,0,0,1,0,indications,1,0,0
+Calcitabine is indicated for the treatment of postolorhythemia.,Calcitabine,postolorhythemia,"trapyramin tumonic, hematocellitus",0,0,0,1,0,indications,0,1,0
+Ursodenesanib is indicated for the treatment of rhearian cancer.,Ursodenesanib,rhearian cancer,"extracterium, Shore disorders",0,0,0,1,0,indications,1,0,0
+Trimibenimide is not indicated for the treatment of bronary hea.,Trimibenimide,bronary hea,"rhearian cancer, gastropatopioid hearthosis",0,1,0,1,0,indications,0,0,1
+Tesorbilinib is not indicated for the treatment of nonal disease.,Tesorbilinib,nonal disease,"nonal disease, poisorders",0,1,0,1,0,indications,1,0,0
+Alostat is indicated for the treatment of live sleedity.,Alostat,live sleedity,"kidnessive disorders, live sleedity",0,0,0,1,0,indications,1,0,0
+Idarone is not indicated for the treatment of ery tumor.,Idarone,ery tumor,"megallergic colic, memogloblasms",0,1,0,1,0,indications,1,0,0
+Dolastuzumab is indicated for the treatment of keraticancrease.,Dolastuzumab,keraticancrease,"gastropatopioid hearthosis, perlipidematory loss",0,0,0,1,0,indications,0,0,1
+Tegase is not indicated for the treatment of hyperampsies.,Tegase,hyperampsies,"panmyelock, nonal disease",0,1,0,1,0,indications,0,0,1
+Trimibenimide is not indicated for the treatment of rhearian cancer.,Trimibenimide,rhearian cancer,"rhearian cancer, gastropatopioid hearthosis",0,1,0,1,0,indications,1,0,0
+Pentan medoran is not indicated for the treatment of acute mucoronia.,Pentan medoran,acute mucoronia,"adrenitic carcinomas, sorder cand vomiasis",0,1,0,1,0,indications,1,0,0
+Magnesartan is indicated for the treatment of coroparalgia.,Magnesartan,coroparalgia,"throparasis, coroparalgia",0,0,0,1,0,indications,0,1,0
+Thaleplosanetide is indicated for the treatment of hematocellitus.,Thaleplosanetide,hematocellitus,"tobact infection, senic reptic sexual ostableeding",0,0,0,1,0,indications,0,0,1
+Oxazinezocain is indicated for the treatment of live sleedity.,Oxazinezocain,live sleedity,"migranitabias, hepathe overampsis",0,0,0,1,0,indications,1,0,0
+Lipoterole is not indicated for the treatment of Fabry cell Carcinoma.,Lipoterole,Fabry cell Carcinoma,"acteridematoid leukemias, tube cardioblastoma",0,1,0,1,0,indications,1,0,0
+Thioprofugin is indicated for the treatment of coppendomycosis.,Thioprofugin,coppendomycosis,"prema migrain, coppendomycosis",0,0,0,1,0,indications,0,1,0
+Icosartisodenib is not indicated for the treatment of cer pyloid cancer.,Icosartisodenib,cer pyloid cancer,"hematocellitus, Faminal disorders",0,1,0,1,0,indications,1,0,0
+Vilonate is indicated for the treatment of ovasospasmosis.,Vilonate,ovasospasmosis,"ovasospasmosis, cer pyloid cancer",0,0,0,1,0,indications,0,0,1
+Oxyprosphaloxamine is indicated for the treatment of teethronchiectiver cancer.,Oxyprosphaloxamine,teethronchiectiver cancer,"deliriurinency, tensitis",0,0,0,1,0,indications,1,0,0
+Olanolon is indicated for the treatment of opic gangioedema.,Olanolon,opic gangioedema,"opic gangioedema, chromboembolism",0,0,0,1,0,indications,0,1,0
+PX-1024 is not indicated for the treatment of atori infective Disease.,PX-1024,atori infective Disease,"atori infective Disease, migranitabias",0,1,0,1,0,indications,1,0,0
+Pyrimetan is not indicated for the treatment of breatory disorders.,Pyrimetan,breatory disorders,"megallergic colic, senic reptic sexual ostableeding",0,1,0,1,0,indications,0,1,0
+Acetolacid is indicated for the treatment of hypoteineal disorder.,Acetolacid,hypoteineal disorder,"senic reptic sexual ostableeding, amous labyrias",0,0,0,1,0,indications,0,0,1
+Golic acid is not indicated for the treatment of teethronchiectiver cancer.,Golic acid,teethronchiectiver cancer,"teethronchiectiver cancer, erythe blockage",0,1,0,1,0,indications,1,0,0
+Fenflumab is not indicated for the treatment of vasophage.,Fenflumab,vasophage,"hypotenoma, coppendomycosis",0,1,0,1,0,indications,0,1,0
+Dolastuzumab is indicated for the treatment of hypoesotroendomycosis.,Dolastuzumab,hypoesotroendomycosis,"gastropatopioid hearthosis, perlipidematory loss",0,0,0,1,0,indications,1,0,0
+Dietharin B is not indicated for the treatment of Chageal infections.,Dietharin B,Chageal infections,"chrombolism, perlipidematory loss",0,1,0,1,0,indications,0,1,0
+Alostat is indicated for the treatment of hyperampsies.,Alostat,hyperampsies,"kidnessive disorders, live sleedity",0,0,0,1,0,indications,0,0,1
+Nicarpindoleate is not indicated for the treatment of tobact infection.,Nicarpindoleate,tobact infection,"tobact infection, ceral infarcinoma",0,1,0,1,0,indications,1,0,0
+Ketobasicumab is not indicated for the treatment of poisorders.,Ketobasicumab,poisorders,"allergic anding, poisorders",0,1,0,1,0,indications,1,0,0
+Fluoridimetaxolol is indicated for the treatment of hyperampsies.,Fluoridimetaxolol,hyperampsies,"Faminal disorders, hyperampsies",0,0,0,1,0,indications,0,0,1
+Roban is not indicated for the treatment of erythe blockage.,Roban,erythe blockage,"senic reptic sexual ostableeding, red mout",0,1,0,1,0,indications,0,0,1
+Buspium is indicated for the treatment of uronchospastoma.,Buspium,uronchospastoma,"perlipidematory loss, uronchospastoma",0,0,0,1,0,indications,1,0,0
+Chlorphalonobucin is indicated for the treatment of atori infective Disease.,Chlorphalonobucin,atori infective Disease,"carction, GI abusease",0,0,0,1,0,indications,1,0,0
+99m trivatuzumab is not indicated for the treatment of back parkine bral verniasis.,99m trivatuzumab,back parkine bral verniasis,"back parkine bral verniasis, acquired diabetiformiasis",0,1,0,1,0,indications,1,0,0
+Eprazepothetazole is not indicated for the treatment of amous labyrias.,Eprazepothetazole,amous labyrias,"ventions, amous labyrias",0,1,0,1,0,indications,0,1,0
+Estrafenidazine is not indicated for the treatment of delial brease.,Estrafenidazine,delial brease,"throparasis, delial brease",0,1,0,1,0,indications,0,1,0
+Levobutamin is not indicated for the treatment of extracterium.,Levobutamin,extracterium,"asperpetiformis, dyslipolyneury",0,1,0,1,0,indications,0,0,1
+Buspirapressine is not indicated for the treatment of infectal hea.,Buspirapressine,infectal hea,"Faminal disorders, chronchol dism",0,1,0,1,0,indications,0,1,0
+Disobenofolide is indicated for the treatment of premollusive.,Disobenofolide,premollusive,"hypotenoma, cerebral canceratitis",0,0,0,1,0,indications,0,0,1
+INO-166 is indicated for the treatment of septocorphylaxis.,INO-166,septocorphylaxis,"memolycemia, reticers",0,0,0,1,0,indications,0,1,0
+Tocaprolol is indicated for the treatment of prolone.,Tocaprolol,prolone,"prolone, carction",0,0,0,1,0,indications,0,0,1
+Roban is not indicated for the treatment of CMV reathyosis.,Roban,CMV reathyosis,"senic reptic sexual ostableeding, red mout",0,1,0,1,0,indications,0,0,1
+Ketobasicumab is not indicated for the treatment of cologic diseases.,Ketobasicumab,cologic diseases,"allergic anding, poisorders",0,1,0,1,0,indications,0,1,0
+Triakinum Rb-82 is indicated for the treatment of carcolitis.,Triakinum Rb-82,carcolitis,"itchiection, carcolitis",0,0,0,1,0,indications,1,0,0
+Sevelanol is indicated for the treatment of arrhythmianic.,Sevelanol,arrhythmianic,"acteridematoid leukemias, obstrophy",0,0,0,1,0,indications,0,1,0
+Lipoterole is indicated for the treatment of acteridematoid leukemias.,Lipoterole,acteridematoid leukemias,"acteridematoid leukemias, tube cardioblastoma",0,0,0,1,0,indications,1,0,0
+Acetolacid is indicated for the treatment of amous labyrias.,Acetolacid,amous labyrias,"senic reptic sexual ostableeding, amous labyrias",0,0,0,1,0,indications,0,1,0
+Nicarbonabinobamate is indicated for the treatment of throparasis.,Nicarbonabinobamate,throparasis,"anal bleepischema, hyperacterythmia",0,0,0,1,0,indications,0,1,0
+Vorepvec is not indicated for the treatment of lupus cell lunguium.,Vorepvec,lupus cell lunguium,"panmyelock, allergic anding",0,1,0,1,0,indications,0,1,0
+Exemetate is indicated for the treatment of CMV reathyosis.,Exemetate,CMV reathyosis,"CMV reathyosis, rhearian cancer",0,0,0,1,0,indications,0,1,0
+Vorthamin is indicated for the treatment of obstrophy.,Vorthamin,obstrophy,"acular acidosis, obstrophy",0,0,0,1,0,indications,0,1,0
+Ravuconabederum is not indicated for the treatment of reticers.,Ravuconabederum,reticers,"adrenitic carcinomas, nonvalvulgaris",0,1,0,1,0,indications,0,0,1
+Eprazepothetazole is not indicated for the treatment of ventions.,Eprazepothetazole,ventions,"ventions, amous labyrias",0,1,0,1,0,indications,0,1,0
+Auracarboxacid is not indicated for the treatment of toothy.,Auracarboxacid,toothy,"astronchoplasm, toothy",0,1,0,1,0,indications,1,0,0
+Ursodenesanib is indicated for the treatment of Shore disorders.,Ursodenesanib,Shore disorders,"extracterium, Shore disorders",0,0,0,1,0,indications,0,1,0
+Pramphenytoin is not indicated for the treatment of tumocytic disorder.,Pramphenytoin,tumocytic disorder,"tumocytic disorder, cologic diseases",0,1,0,1,0,indications,1,0,0
+Fosampane is not indicated for the treatment of hyperacterythmia.,Fosampane,hyperacterythmia,"breatory disorders, hyperacterythmia",0,1,0,1,0,indications,0,1,0
+Annam is indicated for the treatment of gastropatopioid hearthosis.,Annam,gastropatopioid hearthosis,"akine disorders, prolone",0,0,0,1,0,indications,0,0,1
+Bemidectacin is indicated for the treatment of deliriurinency.,Bemidectacin,deliriurinency,"deliriurinency, sleediciencer",0,0,0,1,0,indications,1,0,0
+Filgraplate is indicated for the treatment of hyperacterythmia.,Filgraplate,hyperacterythmia,"coppendomycosis, migranitabias",0,0,0,1,0,indications,0,1,0
+Tofazide is indicated for the treatment of Fabry cell Carcinoma.,Tofazide,Fabry cell Carcinoma,"astroid cancer, Fabry cell Carcinoma",0,0,0,1,0,indications,1,0,0
+Propiclen is not indicated for the treatment of hematocellitus.,Propiclen,hematocellitus,"prolone, hematocellitus",0,1,0,1,0,indications,1,0,0
+Clopa is not indicated for the treatment of intriculatus.,Clopa,intriculatus,"reticers, intriculatus",0,1,0,1,0,indications,0,0,1
+Exemetate is indicated for the treatment of obstrophy.,Exemetate,obstrophy,"CMV reathyosis, rhearian cancer",0,0,0,1,0,indications,0,1,0
+Lefradine is indicated for the treatment of obstatitic colism.,Lefradine,obstatitic colism,"lupus cell lunguium, allergic anding",0,0,0,1,0,indications,1,0,0
+Prazolevudine is not indicated for the treatment of akine disorders.,Prazolevudine,akine disorders,"septocorphylaxis, akine disorders",0,1,0,1,0,indications,0,1,0
+Ravuconabederum is not indicated for the treatment of adrenitic carcinomas.,Ravuconabederum,adrenitic carcinomas,"adrenitic carcinomas, nonvalvulgaris",0,1,0,1,0,indications,0,1,0
+Clofuginide is indicated for the treatment of CMV reathyosis.,Clofuginide,CMV reathyosis,"CMV reathyosis, senic reptic sexual ostableeding",0,0,0,1,0,indications,0,0,1
+Calcitabine is indicated for the treatment of toothy.,Calcitabine,toothy,"trapyramin tumonic, hematocellitus",0,0,0,1,0,indications,1,0,0
+Nalmisapenib is not indicated for the treatment of Zellitis.,Nalmisapenib,Zellitis,"astroid cancer, Zellitis",0,1,0,1,0,indications,1,0,0
+Acetolacid is indicated for the treatment of ovagillar disease.,Acetolacid,ovagillar disease,"senic reptic sexual ostableeding, amous labyrias",0,0,0,1,0,indications,0,1,0
+Lumab medane is not indicated for the treatment of ery tumor.,Lumab medane,ery tumor,"acteridematoid leukemias, kidnessive disorders",0,1,0,1,0,indications,1,0,0
+Isavucosalifolisoprofiban is not indicated for the treatment of sleediciencer.,Isavucosalifolisoprofiban,sleediciencer,"sleediciencer, neumatotory ostomia",0,1,0,1,0,indications,0,1,0
+Bemidectacin is indicated for the treatment of memolycemia.,Bemidectacin,memolycemia,"deliriurinency, sleediciencer",0,0,0,1,0,indications,0,1,0
+Cetic acid is indicated for the treatment of poisorders.,Cetic acid,poisorders,"herammation, poisorders",0,0,0,1,0,indications,0,0,1
+Cilastine is indicated for the treatment of panmyelock.,Cilastine,panmyelock,"panmyelock, Zellitis",0,0,0,1,0,indications,1,0,0
+Nicalcohept is not indicated for the treatment of perlipidematory loss.,Nicalcohept,perlipidematory loss,"hematocellitus, allular diseases",0,1,0,1,0,indications,0,0,1
+Tiagabinate is indicated for the treatment of vasophage.,Tiagabinate,vasophage,"anemic malis, sleepilar hea",0,0,0,1,0,indications,0,1,0
+Calcitabine is not indicated for the treatment of migranitabias.,Calcitabine,migranitabias,"trapyramin tumonic, hematocellitus",0,1,0,1,0,indications,0,1,0
+Oxymorphate is indicated for the treatment of perlipidematory loss.,Oxymorphate,perlipidematory loss,"acute mucoronia, sinusion",0,0,0,1,0,indications,0,1,0
+Exentan is not indicated for the treatment of toothy.,Exentan,toothy,"toothy, adrenitic carcinomas",0,1,0,1,0,indications,1,0,0
+Neostonicone is not indicated for the treatment of ventions.,Neostonicone,ventions,"delial brease, breatory disorders",0,1,0,1,0,indications,0,1,0
+Dipyrazone is indicated for the treatment of infectal hea.,Dipyrazone,infectal hea,"hematocellitus, Onychoticus",0,0,0,1,0,indications,1,0,0
+Methadiol is not indicated for the treatment of chronchol dism.,Methadiol,chronchol dism,"chronchol dism, acquired diabetiformiasis",0,1,0,1,0,indications,0,0,1
+Technetamine is not indicated for the treatment of acquired diabetiformiasis.,Technetamine,acquired diabetiformiasis,"dyslipolyneury, acquired diabetiformiasis",0,1,0,1,0,indications,1,0,0
+Clofugin is not indicated for the treatment of candigemia.,Clofugin,candigemia,"meiboflammatitis, breation",0,1,0,1,0,indications,0,1,0
+Hydracytarate is indicated for the treatment of gastropatopioid hearthosis.,Hydracytarate,gastropatopioid hearthosis,"brometric, gastropatopioid hearthosis",0,0,0,1,0,indications,0,1,0
+Zipramide is indicated for the treatment of live sleedity.,Zipramide,live sleedity,"live sleedity, aneous carcinoma",0,0,0,1,0,indications,1,0,0
+Travoprefusion is not indicated for the treatment of trapyramin tumonic.,Travoprefusion,trapyramin tumonic,"Vasophyria, memogloblasms",0,1,0,1,0,indications,1,0,0
+Edotoxibef is indicated for the treatment of uronchospastoma.,Edotoxibef,uronchospastoma,"postolorhythemia, hepathe overampsis",0,0,0,1,0,indications,1,0,0
+Cole is not indicated for the treatment of rhearian cancer.,Cole,rhearian cancer,"abnorrhosis, ery tumor",0,1,0,1,0,indications,1,0,0
+Oxyprosphaloxamine is indicated for the treatment of atori infective Disease.,Oxyprosphaloxamine,atori infective Disease,"deliriurinency, tensitis",0,0,0,1,0,indications,1,0,0
+Tran is not indicated for the treatment of hematocellitus.,Tran,hematocellitus,"breation, vasophage",0,1,0,1,0,indications,0,0,1
+Ambrozil is not indicated for the treatment of allular diseases.,Ambrozil,allular diseases,"astroid cancer, GI abusease",0,1,0,1,0,indications,1,0,0
+Regovidole is not indicated for the treatment of Chageal infections.,Regovidole,Chageal infections,"abnorrhosis, neumatotory ostomia",0,1,0,1,0,indications,0,1,0
+HZT-51803 is not indicated for the treatment of erythe blockage.,HZT-51803,erythe blockage,"erythe blockage, hypoteineal disorder",0,1,0,1,0,indications,1,0,0
+Rituzumab mon is indicated for the treatment of abnorrhosis.,Rituzumab mon,abnorrhosis,"herammation, red mout",0,0,0,1,0,indications,1,0,0
+Tenoxazole is not indicated for the treatment of infectal hea.,Tenoxazole,infectal hea,"infectal hea, molynes",0,1,0,1,0,indications,0,1,0
+Inosenadrin is indicated for the treatment of carcolitis.,Inosenadrin,carcolitis,"acute lymphobladders, infectal hea",0,0,0,1,0,indications,1,0,0
+Pipamide is indicated for the treatment of memogloblasms.,Pipamide,memogloblasms,"anal bleepischema, memogloblasms",0,0,0,1,0,indications,1,0,0
+Isavucosalifolisoprofiban is not indicated for the treatment of trapyramin tumonic.,Isavucosalifolisoprofiban,trapyramin tumonic,"sleediciencer, neumatotory ostomia",0,1,0,1,0,indications,1,0,0
+Cefusionate is indicated for the treatment of GI abusease.,Cefusionate,GI abusease,"anemic malis, Fabry cell Carcinoma",0,0,0,1,0,indications,0,0,1
+Methadiol is indicated for the treatment of meiboflammatitis.,Methadiol,meiboflammatitis,"chronchol dism, acquired diabetiformiasis",0,0,0,1,0,indications,0,1,0
+Bendazosentan is indicated for the treatment of postolorhythemia.,Bendazosentan,postolorhythemia,"acteridematoid leukemias, cerebral canceratitis",0,0,0,1,0,indications,0,0,1
+Serden is indicated for the treatment of Shore disorders.,Serden,Shore disorders,"Shore disorders, senic reptic sexual ostableeding",0,0,0,1,0,indications,0,1,0
+Bambucovometazole is indicated for the treatment of hypoteineal disorder.,Bambucovometazole,hypoteineal disorder,"neumatotory ostomia, acute mucoronia",0,0,0,1,0,indications,0,0,1
+Alethylnafil is indicated for the treatment of breation.,Alethylnafil,breation,"muscular agina, neumatotory ostomia",0,0,0,1,0,indications,0,0,1
+Hydracytarate is indicated for the treatment of galarva microblasia.,Hydracytarate,galarva microblasia,"brometric, gastropatopioid hearthosis",0,0,0,1,0,indications,1,0,0
+Droxomide is not indicated for the treatment of hypoteineal disorder.,Droxomide,hypoteineal disorder,"toothy, sleediciencer",0,1,0,1,0,indications,0,0,1
+Resoxadion is not indicated for the treatment of Chageal infections.,Resoxadion,Chageal infections,"teethronchiectiver cancer, Chageal infections",0,1,0,1,0,indications,0,0,1
+Ineconatoride is indicated for the treatment of endocrinessiver.,Ineconatoride,endocrinessiver,"aneous carcinoma, endocrinessiver",0,0,0,1,0,indications,0,0,1
+Lefradine is not indicated for the treatment of back parkine bral verniasis.,Lefradine,back parkine bral verniasis,"lupus cell lunguium, allergic anding",0,1,0,1,0,indications,0,0,1
+Nemoxetan is indicated for the treatment of allergic anding.,Nemoxetan,allergic anding,"muscular agina, allergic anding",0,0,0,1,0,indications,1,0,0
+PX-1024 is not indicated for the treatment of migranitabias.,PX-1024,migranitabias,"atori infective Disease, migranitabias",0,1,0,1,0,indications,0,1,0
+Buspium is not indicated for the treatment of allergic anding.,Buspium,allergic anding,"perlipidematory loss, uronchospastoma",0,1,0,1,0,indications,1,0,0
+Plicatide is not indicated for the treatment of vasophage.,Plicatide,vasophage,"leprematus angiopathy, acteridematoid leukemias",0,1,0,1,0,indications,0,1,0
+Pramphenytoin is indicated for the treatment of Zellitis.,Pramphenytoin,Zellitis,"tumocytic disorder, cologic diseases",0,0,0,1,0,indications,1,0,0
+Bambucovometazole is not indicated for the treatment of acute mucoronia.,Bambucovometazole,acute mucoronia,"neumatotory ostomia, acute mucoronia",0,1,0,1,0,indications,1,0,0
+Remoclose is not indicated for the treatment of anal bleepischema.,Remoclose,anal bleepischema,"anal bleepischema, Vasophyria",0,1,0,1,0,indications,1,0,0
+Ularomethate is indicated for the treatment of migranitabias.,Ularomethate,migranitabias,"acid cancer disorders, arrhythmianic",0,0,0,1,0,indications,0,1,0
+Hydrol is not indicated for the treatment of rheumors.,Hydrol,rheumors,"asperpetiformis, tube cardioblastoma",0,1,0,1,0,indications,0,0,1
+Nicalcohept is indicated for the treatment of allular diseases.,Nicalcohept,allular diseases,"hematocellitus, allular diseases",0,0,0,1,0,indications,1,0,0
+Clopa is not indicated for the treatment of reticers.,Clopa,reticers,"reticers, intriculatus",0,1,0,1,0,indications,0,0,1
+Cholistate is not indicated for the treatment of infectrum disease.,Cholistate,infectrum disease,"acute lymphobladders, hypotenoma",0,1,0,1,0,indications,1,0,0
+Chlorphalonobucin is not indicated for the treatment of megallergic colic.,Chlorphalonobucin,megallergic colic,"carction, GI abusease",0,1,0,1,0,indications,0,0,1
+Serden is not indicated for the treatment of megallergic colic.,Serden,megallergic colic,"Shore disorders, senic reptic sexual ostableeding",0,1,0,1,0,indications,0,1,0
+Inosuvast is indicated for the treatment of intriculatus.,Inosuvast,intriculatus,"left ventions, intriculatus",0,0,0,1,0,indications,0,0,1
+Talafamelate is indicated for the treatment of Onychoticus.,Talafamelate,Onychoticus,"breation, hematocellitus",0,0,0,1,0,indications,1,0,0
+Disoxyurea is indicated for the treatment of allergic anding.,Disoxyurea,allergic anding,"carcolitis, allergic anding",0,0,0,1,0,indications,1,0,0
+Annam is indicated for the treatment of prolone.,Annam,prolone,"akine disorders, prolone",0,0,0,1,0,indications,0,0,1
+Calcitimumab is not indicated for the treatment of cer pyloid cancer.,Calcitimumab,cer pyloid cancer,"cer pyloid cancer, sinusion",0,1,0,1,0,indications,1,0,0
+Acetolacid is not indicated for the treatment of amous labyrias.,Acetolacid,amous labyrias,"senic reptic sexual ostableeding, amous labyrias",0,1,0,1,0,indications,0,1,0
+Clofuginide is not indicated for the treatment of sleediciencer.,Clofuginide,sleediciencer,"CMV reathyosis, senic reptic sexual ostableeding",0,1,0,1,0,indications,0,0,1
+Ethamide is indicated for the treatment of atori infective Disease.,Ethamide,atori infective Disease,"acute mucoronia, atori infective Disease",0,0,0,1,0,indications,1,0,0
+Isavucosalifolisoprofiban is indicated for the treatment of neumatotory ostomia.,Isavucosalifolisoprofiban,neumatotory ostomia,"sleediciencer, neumatotory ostomia",0,0,0,1,0,indications,1,0,0
+Efavirenol is not indicated for the treatment of molynes.,Efavirenol,molynes,"bactive tumors, molynes",0,1,0,1,0,indications,0,1,0
+Sofan is not indicated for the treatment of migranitabias.,Sofan,migranitabias,"migranitabias, bact barbancercolis",0,1,0,1,0,indications,0,1,0
+Miglipranel is not indicated for the treatment of itchiection.,Miglipranel,itchiection,"uronchospastoma, ceral infarcinoma",0,1,0,1,0,indications,0,1,0
+Estronic tril is indicated for the treatment of meiboflammatitis.,Estronic tril,meiboflammatitis,"meiboflammatitis, arrhythmianic",0,0,0,1,0,indications,0,1,0
+Alemetamolimus is not indicated for the treatment of bact barbancercolis.,Alemetamolimus,bact barbancercolis,"myotroid andrombosis bulitis, ovagillar disease",0,1,0,1,0,indications,0,1,0
+Inosuvast is not indicated for the treatment of ceral infarcinoma.,Inosuvast,ceral infarcinoma,"left ventions, intriculatus",0,1,0,1,0,indications,0,0,1
+Filgraplate is not indicated for the treatment of migranitabias.,Filgraplate,migranitabias,"coppendomycosis, migranitabias",0,1,0,1,0,indications,0,1,0
+Zometrafen is indicated for the treatment of cerebral canceratitis.,Zometrafen,cerebral canceratitis,"ceral infarcinoma, postolorhythemia",0,0,0,1,0,indications,1,0,0
+Bipene oil is indicated for the treatment of Zellitis.,Bipene oil,Zellitis,"Zellitis, hyperampsies",0,0,0,1,0,indications,1,0,0
+Fluconatat is indicated for the treatment of chronchol dism.,Fluconatat,chronchol dism,"aneous carcinoma, bronary hea",0,0,0,1,0,indications,0,0,1
+Argase ant is not indicated for the treatment of allergic anding.,Argase ant,allergic anding,"fibronary hyperal infection, hypoteineal disorder",0,1,0,1,0,indications,1,0,0
+Nalmitrigitol is not indicated for the treatment of Vasophyria.,Nalmitrigitol,Vasophyria,"coroparalgia, Vasophyria",0,1,0,1,0,indications,1,0,0
+Cysternime is not indicated for the treatment of neumatotory ostomia.,Cysternime,neumatotory ostomia,"perebrilepsies, nonvalvulgaris",0,1,0,1,0,indications,1,0,0
+Buspium is not indicated for the treatment of perlipidematory loss.,Buspium,perlipidematory loss,"perlipidematory loss, uronchospastoma",0,1,0,1,0,indications,0,1,0
+Sorasentol is indicated for the treatment of fibronary hyperal infection.,Sorasentol,fibronary hyperal infection,"thromegalar distruction, fibronary hyperal infection",0,0,0,1,0,indications,0,1,0
+INO-166 is indicated for the treatment of reticers.,INO-166,reticers,"memolycemia, reticers",0,0,0,1,0,indications,0,0,1
+Flurbide is not indicated for the treatment of carcolitis.,Flurbide,carcolitis,"leprematus angiopathy, live sleedity",0,1,0,1,0,indications,0,1,0
+Temocrivir is indicated for the treatment of throparasis.,Temocrivir,throparasis,"throparasis, acteridematoid leukemias",0,0,0,1,0,indications,0,1,0
+Azelanzamide is not indicated for the treatment of acular acidosis.,Azelanzamide,acular acidosis,"hepathe overampsis, acular acidosis",0,1,0,1,0,indications,1,0,0
+Oxymetazotan is indicated for the treatment of ventions.,Oxymetazotan,ventions,"molynes, postolorhythemia",0,0,0,1,0,indications,0,1,0
+Ineconatoride is not indicated for the treatment of fibronary hyperal infection.,Ineconatoride,fibronary hyperal infection,"aneous carcinoma, endocrinessiver",0,1,0,1,0,indications,0,1,0
+Grisoxacid is not indicated for the treatment of sinusion.,Grisoxacid,sinusion,"nonal disease, hematocellitus",0,1,0,1,0,indications,1,0,0
+Resoxadion is indicated for the treatment of deliriurinency.,Resoxadion,deliriurinency,"teethronchiectiver cancer, Chageal infections",0,0,0,1,0,indications,1,0,0
+Talinoglitat is indicated for the treatment of acular acidosis.,Talinoglitat,acular acidosis,"panmyelock, left ventions",0,0,0,1,0,indications,0,1,0
+Paclose is not indicated for the treatment of perebrilepsies.,Paclose,perebrilepsies,"perebrilepsies, obstrophy",0,1,0,1,0,indications,0,1,0
+Icosartisodenib is indicated for the treatment of acteridematoid leukemias.,Icosartisodenib,acteridematoid leukemias,"hematocellitus, Faminal disorders",0,0,0,1,0,indications,1,0,0
+Plicatide is not indicated for the treatment of leprematus angiopathy.,Plicatide,leprematus angiopathy,"leprematus angiopathy, acteridematoid leukemias",0,1,0,1,0,indications,0,0,1
+Exemetate is not indicated for the treatment of endocrinessiver.,Exemetate,endocrinessiver,"CMV reathyosis, rhearian cancer",0,1,0,1,0,indications,0,0,1
+Talafamelate is not indicated for the treatment of bactive tumors.,Talafamelate,bactive tumors,"breation, hematocellitus",0,1,0,1,0,indications,1,0,0
+Nicarpindoleate is not indicated for the treatment of dyslipolyneury.,Nicarpindoleate,dyslipolyneury,"tobact infection, ceral infarcinoma",0,1,0,1,0,indications,0,0,1
+Thioprofugin is not indicated for the treatment of astroid cancer.,Thioprofugin,astroid cancer,"prema migrain, coppendomycosis",0,1,0,1,0,indications,0,1,0
+Tetroate is indicated for the treatment of aneous carcinoma.,Tetroate,aneous carcinoma,"endocrinessiver, aneous carcinoma",0,0,0,1,0,indications,0,1,0
+Fosampane is indicated for the treatment of hyperacterythmia.,Fosampane,hyperacterythmia,"breatory disorders, hyperacterythmia",0,0,0,1,0,indications,0,1,0
+Dipyrazone is indicated for the treatment of Onychoticus.,Dipyrazone,Onychoticus,"hematocellitus, Onychoticus",0,0,0,1,0,indications,1,0,0
+Talinoglitat is not indicated for the treatment of left ventions.,Talinoglitat,left ventions,"panmyelock, left ventions",0,1,0,1,0,indications,0,0,1
+Umecyclizumanib is not indicated for the treatment of opic gangioedema.,Umecyclizumanib,opic gangioedema,"hypoteineal disorder, astronchoplasm",0,1,0,1,0,indications,0,1,0
+Zonium arcinoxacin is not indicated for the treatment of acute lymphobladders.,Zonium arcinoxacin,acute lymphobladders,"acute lymphobladders, Shore disorders",0,1,0,1,0,indications,0,1,0
+Thioprofugin is indicated for the treatment of nonal disease.,Thioprofugin,nonal disease,"prema migrain, coppendomycosis",0,0,0,1,0,indications,1,0,0
+Alumil is not indicated for the treatment of reticers.,Alumil,reticers,"candigemia, reticers",0,1,0,1,0,indications,1,0,0
+Cimer succid is not indicated for the treatment of astronchoplasm.,Cimer succid,astronchoplasm,"throparasis, myotroid andrombosis bulitis",0,1,0,1,0,indications,0,1,0
+Chlorotermin is indicated for the treatment of hyperacterythmia.,Chlorotermin,hyperacterythmia,"hyperacterythmia, astronchoplasm",0,0,0,1,0,indications,1,0,0
+Azelanzamide is not indicated for the treatment of hepathe overampsis.,Azelanzamide,hepathe overampsis,"hepathe overampsis, acular acidosis",0,1,0,1,0,indications,1,0,0
+Nalmitrigitol is indicated for the treatment of coroparalgia.,Nalmitrigitol,coroparalgia,"coroparalgia, Vasophyria",0,0,0,1,0,indications,1,0,0
+Aldehydrocin is not indicated for the treatment of acid cancer disorders.,Aldehydrocin,acid cancer disorders,"abnorrhosis, CMV reathyosis",0,1,0,1,0,indications,0,0,1
+Vilonate is not indicated for the treatment of uronchospastoma.,Vilonate,uronchospastoma,"ovasospasmosis, cer pyloid cancer",0,1,0,1,0,indications,1,0,0
+Ursodenesanib is not indicated for the treatment of left ventions.,Ursodenesanib,left ventions,"extracterium, Shore disorders",0,1,0,1,0,indications,1,0,0
+Serden is not indicated for the treatment of Shore disorders.,Serden,Shore disorders,"Shore disorders, senic reptic sexual ostableeding",0,1,0,1,0,indications,0,1,0
+Lefradine is indicated for the treatment of lupus cell lunguium.,Lefradine,lupus cell lunguium,"lupus cell lunguium, allergic anding",0,0,0,1,0,indications,0,1,0
+Cole is not indicated for the treatment of abnorrhosis.,Cole,abnorrhosis,"abnorrhosis, ery tumor",0,1,0,1,0,indications,0,1,0
+Edotinamine is not indicated for the treatment of live sleedity.,Edotinamine,live sleedity,"bactive tumors, live sleedity",0,1,0,1,0,indications,1,0,0
+Tezafil is not indicated for the treatment of back parkine bral verniasis.,Tezafil,back parkine bral verniasis,"hyperampsies, tumocytic disorder",0,1,0,1,0,indications,0,0,1
+Tibofloxazide is not indicated for the treatment of ventions.,Tibofloxazide,ventions,"memolycemia, ventions",0,1,0,1,0,indications,0,1,0
+Artemciclon is indicated for the treatment of asperpetiformis.,Artemciclon,asperpetiformis,"adrenitic carcinomas, asperpetiformis",0,0,0,1,0,indications,1,0,0
+Fenflumab is not indicated for the treatment of hypotenoma.,Fenflumab,hypotenoma,"hypotenoma, coppendomycosis",0,1,0,1,0,indications,0,0,1
+Tasquemipropion is indicated for the treatment of hypotenoma.,Tasquemipropion,hypotenoma,"opic gangioedema, prolone",0,0,0,1,0,indications,0,0,1
+Bivampridinib is not indicated for the treatment of postolorhythemia.,Bivampridinib,postolorhythemia,"rheumors, hyperampsies",0,1,0,1,0,indications,0,1,0
+Nalmisapenib is indicated for the treatment of hyperampsies.,Nalmisapenib,hyperampsies,"astroid cancer, Zellitis",0,0,0,1,0,indications,0,0,1
+Galide is not indicated for the treatment of cer pyloid cancer.,Galide,cer pyloid cancer,"candigemia, sinusion",0,1,0,1,0,indications,1,0,0
+SR 1207 is not indicated for the treatment of kidnessive disorders.,SR 1207,kidnessive disorders,"scortis, hypoesotroendomycosis",0,1,0,1,0,indications,0,0,1
+Zipramide is not indicated for the treatment of aneous carcinoma.,Zipramide,aneous carcinoma,"live sleedity, aneous carcinoma",0,1,0,1,0,indications,0,1,0
+Ciminumab is not indicated for the treatment of malact infarcinoma.,Ciminumab,malact infarcinoma,"malact infarcinoma, arrhythmianic",0,1,0,1,0,indications,0,0,1
+Naftadibutylin is indicated for the treatment of megallergic colic.,Naftadibutylin,megallergic colic,"megallergic colic, amous labyrias",0,0,0,1,0,indications,0,1,0
+Aldehydrocin is not indicated for the treatment of abnorrhosis.,Aldehydrocin,abnorrhosis,"abnorrhosis, CMV reathyosis",0,1,0,1,0,indications,1,0,0
+Ciminumab is not indicated for the treatment of allular diseases.,Ciminumab,allular diseases,"malact infarcinoma, arrhythmianic",0,1,0,1,0,indications,1,0,0
+Alumil is indicated for the treatment of hypoesotroendomycosis.,Alumil,hypoesotroendomycosis,"candigemia, reticers",0,0,0,1,0,indications,1,0,0
+Annam is not indicated for the treatment of prolone.,Annam,prolone,"akine disorders, prolone",0,1,0,1,0,indications,0,0,1
+Tamosamide is not indicated for the treatment of deliriurinency.,Tamosamide,deliriurinency,"diac depremension, obstatitic colism",0,1,0,1,0,indications,1,0,0
+Salide is indicated for the treatment of arrhythmianic.,Salide,arrhythmianic,"arrhythmianic, Vasophyria",0,0,0,1,0,indications,0,0,1
+Calcitin is indicated for the treatment of GI abusease.,Calcitin,GI abusease,"GI abusease, herammation",0,0,0,1,0,indications,1,0,0
+Pargylinoin is not indicated for the treatment of senic reptic sexual ostableeding.,Pargylinoin,senic reptic sexual ostableeding,"kidnessive disorders, senic reptic sexual ostableeding",0,1,0,1,0,indications,1,0,0
+Rilurbide is indicated for the treatment of throparasis.,Rilurbide,throparasis,"left ventions, live sleedity",0,0,0,1,0,indications,0,1,0
+Tamosamide is indicated for the treatment of carction.,Tamosamide,carction,"diac depremension, obstatitic colism",0,0,0,1,0,indications,0,1,0
+Tiane C-131 is not indicated for the treatment of chronchol dism.,Tiane C-131,chronchol dism,"sinusion, chronchol dism",0,1,0,1,0,indications,1,0,0
+Grisoxacid is indicated for the treatment of panmyelock.,Grisoxacid,panmyelock,"nonal disease, hematocellitus",0,0,0,1,0,indications,1,0,0
+Tesorbilinib is indicated for the treatment of dyslipolyneury.,Tesorbilinib,dyslipolyneury,"nonal disease, poisorders",0,0,0,1,0,indications,1,0,0
+Zibosenacost is indicated for the treatment of GI abusease.,Zibosenacost,GI abusease,"GI abusease, senic reptic sexual ostableeding",0,0,0,1,0,indications,1,0,0
+Tran is indicated for the treatment of breation.,Tran,breation,"breation, vasophage",0,0,0,1,0,indications,0,1,0
+Terbutamide is not indicated for the treatment of extracterium.,Terbutamide,extracterium,"teethronchiectiver cancer, hypoteineal disorder",0,1,0,1,0,indications,0,1,0
+Aleglitrate is not indicated for the treatment of acteridematoid leukemias.,Aleglitrate,acteridematoid leukemias,"acteridematoid leukemias, coroparalgia",0,1,0,1,0,indications,1,0,0
+Ambrostin is indicated for the treatment of perlipidematory loss.,Ambrostin,perlipidematory loss,"prema migrain, perlipidematory loss",0,0,0,1,0,indications,1,0,0
+Bemidectacin is not indicated for the treatment of nonvalvulgaris.,Bemidectacin,nonvalvulgaris,"deliriurinency, sleediciencer",0,1,0,1,0,indications,0,1,0
+Methadiol is indicated for the treatment of chronchol dism.,Methadiol,chronchol dism,"chronchol dism, acquired diabetiformiasis",0,0,0,1,0,indications,0,0,1
+Dietharin B is not indicated for the treatment of perlipidematory loss.,Dietharin B,perlipidematory loss,"chrombolism, perlipidematory loss",0,1,0,1,0,indications,0,1,0
+Temazide is not indicated for the treatment of chromboembolism.,Temazide,chromboembolism,"chromboembolism, fract disease",0,1,0,1,0,indications,0,1,0
+Nemoxetan is not indicated for the treatment of akine disorders.,Nemoxetan,akine disorders,"muscular agina, allergic anding",0,1,0,1,0,indications,0,1,0
+Bedotoxib is not indicated for the treatment of opic gangioedema.,Bedotoxib,opic gangioedema,"opic gangioedema, acteridematoid leukemias",0,1,0,1,0,indications,0,1,0
+Cole is not indicated for the treatment of muscular agina.,Cole,muscular agina,"abnorrhosis, ery tumor",0,1,0,1,0,indications,0,1,0
+Dinoetiapride is not indicated for the treatment of memogloblasms.,Dinoetiapride,memogloblasms,"cologic diseases, throparasis",0,1,0,1,0,indications,1,0,0
+Tenoxazole is indicated for the treatment of obstrophy.,Tenoxazole,obstrophy,"infectal hea, molynes",0,0,0,1,0,indications,0,1,0
+Oxymetazotan is indicated for the treatment of candigemia.,Oxymetazotan,candigemia,"molynes, postolorhythemia",0,0,0,1,0,indications,0,1,0
+Tolpenem is indicated for the treatment of megallergic colic.,Tolpenem,megallergic colic,"herammation, premollusive",0,0,0,1,0,indications,0,0,1
+Galide is not indicated for the treatment of premollusive.,Galide,premollusive,"candigemia, sinusion",0,1,0,1,0,indications,0,0,1
+Trimibenimide is indicated for the treatment of neumatotory ostomia.,Trimibenimide,neumatotory ostomia,"rhearian cancer, gastropatopioid hearthosis",0,0,0,1,0,indications,1,0,0
+Deutenone is indicated for the treatment of acquired diabetiformiasis.,Deutenone,acquired diabetiformiasis,"Zellitis, acquired diabetiformiasis",0,0,0,1,0,indications,1,0,0
+Cimer succid is indicated for the treatment of muscular agina.,Cimer succid,muscular agina,"throparasis, myotroid andrombosis bulitis",0,0,0,1,0,indications,0,1,0
+Sorasentol is indicated for the treatment of teethronchiectiver cancer.,Sorasentol,teethronchiectiver cancer,"thromegalar distruction, fibronary hyperal infection",0,0,0,1,0,indications,1,0,0
+Propa is not indicated for the treatment of astroid cancer.,Propa,astroid cancer,"ovasospasmosis, astroid cancer",0,1,0,1,0,indications,1,0,0
+Vorepvec is not indicated for the treatment of panmyelock.,Vorepvec,panmyelock,"panmyelock, allergic anding",0,1,0,1,0,indications,1,0,0
+Icosartisodenib is indicated for the treatment of teethronchiectiver cancer.,Icosartisodenib,teethronchiectiver cancer,"hematocellitus, Faminal disorders",0,0,0,1,0,indications,1,0,0
+Nicarpindoleate is indicated for the treatment of myotroid andrombosis bulitis.,Nicarpindoleate,myotroid andrombosis bulitis,"tobact infection, ceral infarcinoma",0,0,0,1,0,indications,1,0,0
+Clofugin is not indicated for the treatment of scortis.,Clofugin,scortis,"meiboflammatitis, breation",0,1,0,1,0,indications,1,0,0
+Dersat is not indicated for the treatment of GI abusease.,Dersat,GI abusease,"neumatotory ostomia, prema migrain",0,1,0,1,0,indications,0,0,1
+Oxazinezocain is not indicated for the treatment of hepathe overampsis.,Oxazinezocain,hepathe overampsis,"migranitabias, hepathe overampsis",0,1,0,1,0,indications,0,0,1
+Pramphenytoin is indicated for the treatment of tumocytic disorder.,Pramphenytoin,tumocytic disorder,"tumocytic disorder, cologic diseases",0,0,0,1,0,indications,1,0,0
+Umecyclizumanib is not indicated for the treatment of CMV reathyosis.,Umecyclizumanib,CMV reathyosis,"hypoteineal disorder, astronchoplasm",0,1,0,1,0,indications,0,1,0
+Talafamelate is indicated for the treatment of CMV reathyosis.,Talafamelate,CMV reathyosis,"breation, hematocellitus",0,0,0,1,0,indications,1,0,0
+Clofugin is indicated for the treatment of meiboflammatitis.,Clofugin,meiboflammatitis,"meiboflammatitis, breation",0,0,0,1,0,indications,0,1,0
+Roban is indicated for the treatment of nonal disease.,Roban,nonal disease,"senic reptic sexual ostableeding, red mout",0,0,0,1,0,indications,1,0,0
+Rilurbide is indicated for the treatment of live sleedity.,Rilurbide,live sleedity,"left ventions, live sleedity",0,0,0,1,0,indications,1,0,0
+Fluprol is not indicated for the treatment of acteridematoid leukemias.,Fluprol,acteridematoid leukemias,"tube cardioblastoma, intriculatus",0,1,0,1,0,indications,1,0,0
+Nabinterolam is indicated for the treatment of arrhythmianic.,Nabinterolam,arrhythmianic,"Zellitis, chromboembolism",0,0,0,1,0,indications,0,1,0
+Tegase is indicated for the treatment of acular acidosis.,Tegase,acular acidosis,"panmyelock, nonal disease",0,0,0,1,0,indications,0,0,1
+Amifanidazole is not indicated for the treatment of infectrum disease.,Amifanidazole,infectrum disease,"infectrum disease, coppendomycosis",0,1,0,1,0,indications,1,0,0
+Aspatroglifluoxetigmin is indicated for the treatment of Shore disorders.,Aspatroglifluoxetigmin,Shore disorders,"ventitivitive disorder, hepathe overampsis",0,0,0,1,0,indications,0,0,1
+Ethiomazine is not indicated for the treatment of opic gangioedema.,Ethiomazine,opic gangioedema,"Vasophyria, opic gangioedema",0,1,0,1,0,indications,0,1,0
+Talafamelate is not indicated for the treatment of breation.,Talafamelate,breation,"breation, hematocellitus",0,1,0,1,0,indications,1,0,0
+Bedotoxib is not indicated for the treatment of Onychoticus.,Bedotoxib,Onychoticus,"opic gangioedema, acteridematoid leukemias",0,1,0,1,0,indications,0,0,1
+Procortuzumab is indicated for the treatment of GI abusease.,Procortuzumab,GI abusease,"brometric, GI abusease",0,0,0,1,0,indications,0,0,1
+Sevelanol is not indicated for the treatment of acteridematoid leukemias.,Sevelanol,acteridematoid leukemias,"acteridematoid leukemias, obstrophy",0,1,0,1,0,indications,1,0,0
+Potason is not indicated for the treatment of bipolysis infections.,Potason,bipolysis infections,"bipolysis infections, extracterium",0,1,0,1,0,indications,1,0,0
+Loterolidone is not indicated for the treatment of perlipidematory loss.,Loterolidone,perlipidematory loss,"adrenitic carcinomas, septocorphylaxis",0,1,0,1,0,indications,0,1,0
+Nylindenol is not indicated for the treatment of Onychoticus.,Nylindenol,Onychoticus,"keraticancrease, Onychoticus",0,1,0,1,0,indications,1,0,0
+Tesorbilinib is indicated for the treatment of poisorders.,Tesorbilinib,poisorders,"nonal disease, poisorders",0,0,0,1,0,indications,1,0,0
+Flavanciclene is indicated for the treatment of sorder cand vomiasis.,Flavanciclene,sorder cand vomiasis,"carcolitis, ovagillar disease",0,0,0,1,0,indications,1,0,0
+Ethamide is not indicated for the treatment of hematocellitus.,Ethamide,hematocellitus,"acute mucoronia, atori infective Disease",0,1,0,1,0,indications,1,0,0
+Guanadione is not indicated for the treatment of erythe blockage.,Guanadione,erythe blockage,"panmyelock, megallergic colic",0,1,0,1,0,indications,0,0,1
+Zonium arcinoxacin is indicated for the treatment of Shore disorders.,Zonium arcinoxacin,Shore disorders,"acute lymphobladders, Shore disorders",0,0,0,1,0,indications,0,1,0
+Fluoridilast is not indicated for the treatment of nonvalvulgaris.,Fluoridilast,nonvalvulgaris,"live sleedity, nonvalvulgaris",0,1,0,1,0,indications,0,1,0
+Artemciclon is not indicated for the treatment of asperpetiformis.,Artemciclon,asperpetiformis,"adrenitic carcinomas, asperpetiformis",0,1,0,1,0,indications,1,0,0
+Argase ant is indicated for the treatment of red mout.,Argase ant,red mout,"fibronary hyperal infection, hypoteineal disorder",0,0,0,1,0,indications,1,0,0
+Nalmisapenib is not indicated for the treatment of neumatotory ostomia.,Nalmisapenib,neumatotory ostomia,"astroid cancer, Zellitis",0,1,0,1,0,indications,1,0,0
+Sofan is indicated for the treatment of acteridematoid leukemias.,Sofan,acteridematoid leukemias,"migranitabias, bact barbancercolis",0,0,0,1,0,indications,1,0,0
+Zibosenacost is indicated for the treatment of tumocytic disorder.,Zibosenacost,tumocytic disorder,"GI abusease, senic reptic sexual ostableeding",0,0,0,1,0,indications,0,1,0
+Sevelanol is indicated for the treatment of chrombolism.,Sevelanol,chrombolism,"acteridematoid leukemias, obstrophy",0,0,0,1,0,indications,0,0,1
+Argase ant is indicated for the treatment of hypoteineal disorder.,Argase ant,hypoteineal disorder,"fibronary hyperal infection, hypoteineal disorder",0,0,0,1,0,indications,1,0,0
+Nicalcohept is not indicated for the treatment of allular diseases.,Nicalcohept,allular diseases,"hematocellitus, allular diseases",0,1,0,1,0,indications,1,0,0
+Mibefradionate is indicated for the treatment of chronchol dism.,Mibefradionate,chronchol dism,"breation, chronchol dism",0,0,0,1,0,indications,1,0,0
+Rofenavin is not indicated for the treatment of memogloblasms.,Rofenavin,memogloblasms,"memogloblasms, trapyramin tumonic",0,1,0,1,0,indications,1,0,0
+Enzapridepate is not indicated for the treatment of anal bleepischema.,Enzapridepate,anal bleepischema,"Faminal disorders, anal bleepischema",0,1,0,1,0,indications,1,0,0
+Toramine is not indicated for the treatment of lupus cell lunguium.,Toramine,lupus cell lunguium,"lupus cell lunguium, akine disorders",0,1,0,1,0,indications,0,1,0
+Tocaprolol is not indicated for the treatment of prolone.,Tocaprolol,prolone,"prolone, carction",0,1,0,1,0,indications,0,0,1
+PX-1024 is indicated for the treatment of reticers.,PX-1024,reticers,"atori infective Disease, migranitabias",0,0,0,1,0,indications,0,0,1
+Phentantannic acid is indicated for the treatment of lupus cell lunguium.,Phentantannic acid,lupus cell lunguium,"lupus cell lunguium, prema migrain",0,0,0,1,0,indications,0,1,0
+Cilastine is not indicated for the treatment of kidnessive disorders.,Cilastine,kidnessive disorders,"panmyelock, Zellitis",0,1,0,1,0,indications,1,0,0
+Bipene oil is not indicated for the treatment of perlipidematory loss.,Bipene oil,perlipidematory loss,"Zellitis, hyperampsies",0,1,0,1,0,indications,0,0,1
+Bemidectacin is not indicated for the treatment of sleediciencer.,Bemidectacin,sleediciencer,"deliriurinency, sleediciencer",0,1,0,1,0,indications,0,1,0
+Lotene is indicated for the treatment of aneous carcinoma.,Lotene,aneous carcinoma,"aneous carcinoma, Chageal infections",0,0,0,1,0,indications,0,1,0
+Hydrol is indicated for the treatment of asperpetiformis.,Hydrol,asperpetiformis,"asperpetiformis, tube cardioblastoma",0,0,0,1,0,indications,1,0,0
+Midostate is indicated for the treatment of left ventions.,Midostate,left ventions,"reticers, left ventions",0,0,0,1,0,indications,0,0,1
+Tianic sularin is indicated for the treatment of tobact infection.,Tianic sularin,tobact infection,"ery tumor, Fabry cell Carcinoma",0,0,0,1,0,indications,1,0,0
+Prazolevudine is indicated for the treatment of hypotenoma.,Prazolevudine,hypotenoma,"septocorphylaxis, akine disorders",0,0,0,1,0,indications,0,0,1
+Thiamterferrin is indicated for the treatment of ventitivitive disorder.,Thiamterferrin,ventitivitive disorder,"Fabry cell Carcinoma, ventitivitive disorder",0,0,0,1,0,indications,0,1,0
+Tenoxazole is not indicated for the treatment of molynes.,Tenoxazole,molynes,"infectal hea, molynes",0,1,0,1,0,indications,0,1,0
+Motene glanzapril is not indicated for the treatment of megallergic colic.,Motene glanzapril,megallergic colic,"opic gangioedema, septocorphylaxis",0,1,0,1,0,indications,0,1,0
+Terbutamide is indicated for the treatment of acute lymphobladders.,Terbutamide,acute lymphobladders,"teethronchiectiver cancer, hypoteineal disorder",0,0,0,1,0,indications,0,1,0
+Olophentiramide is indicated for the treatment of Onychoticus.,Olophentiramide,Onychoticus,"perebrilepsies, Onychoticus",0,0,0,1,0,indications,0,0,1
+Idarone is indicated for the treatment of postolorhythemia.,Idarone,postolorhythemia,"megallergic colic, memogloblasms",0,0,0,1,0,indications,0,0,1
+Taurtin genem is indicated for the treatment of deliriurinency.,Taurtin genem,deliriurinency,"deliriurinency, atori infective Disease",0,0,0,1,0,indications,1,0,0
+Methadiol is not indicated for the treatment of memogloblasms.,Methadiol,memogloblasms,"chronchol dism, acquired diabetiformiasis",0,1,0,1,0,indications,1,0,0
+Thiazepam is indicated for the treatment of aneous carcinoma.,Thiazepam,aneous carcinoma,"Onychoticus, hepathe overampsis",0,0,0,1,0,indications,0,1,0
+Technetaminum Rb-82 is indicated for the treatment of vasophage.,Technetaminum Rb-82,vasophage,"vasophage, poisorders",0,0,0,1,0,indications,0,1,0
+Trimeproflurosate is indicated for the treatment of coroparalgia.,Trimeproflurosate,coroparalgia,"delial brease, Zellitis",0,0,0,1,0,indications,0,1,0
+Technetamine is not indicated for the treatment of throparasis.,Technetamine,throparasis,"dyslipolyneury, acquired diabetiformiasis",0,1,0,1,0,indications,0,1,0
+Procortuzumab is not indicated for the treatment of brometric.,Procortuzumab,brometric,"brometric, GI abusease",0,1,0,1,0,indications,1,0,0
+Vorepvec is not indicated for the treatment of amous labyrias.,Vorepvec,amous labyrias,"panmyelock, allergic anding",0,1,0,1,0,indications,0,1,0
+Pentan medoran is not indicated for the treatment of sorder cand vomiasis.,Pentan medoran,sorder cand vomiasis,"adrenitic carcinomas, sorder cand vomiasis",0,1,0,1,0,indications,1,0,0
+Fluoridilast is indicated for the treatment of live sleedity.,Fluoridilast,live sleedity,"live sleedity, nonvalvulgaris",0,0,0,1,0,indications,1,0,0
+Bendazosentan is not indicated for the treatment of cerebral canceratitis.,Bendazosentan,cerebral canceratitis,"acteridematoid leukemias, cerebral canceratitis",0,1,0,1,0,indications,1,0,0
+Cefoxoprozil is indicated for the treatment of keraticancrease.,Cefoxoprozil,keraticancrease,"keraticancrease, perebrilepsies",0,0,0,1,0,indications,0,1,0
+SR 1207 is indicated for the treatment of arrhythmianic.,SR 1207,arrhythmianic,"scortis, hypoesotroendomycosis",0,0,0,1,0,indications,0,1,0
+Alemetamolimus is not indicated for the treatment of sinusion.,Alemetamolimus,sinusion,"myotroid andrombosis bulitis, ovagillar disease",0,1,0,1,0,indications,1,0,0
+Droxomide is indicated for the treatment of toothy.,Droxomide,toothy,"toothy, sleediciencer",0,0,0,1,0,indications,1,0,0
+Gadoproster is indicated for the treatment of opic gangioedema.,Gadoproster,opic gangioedema,"coroparalgia, galarva microblasia",0,0,0,1,0,indications,0,1,0
+Flurbide is indicated for the treatment of leprematus angiopathy.,Flurbide,leprematus angiopathy,"leprematus angiopathy, live sleedity",0,0,0,1,0,indications,1,0,0
+Trolazole is indicated for the treatment of muscular agina.,Trolazole,muscular agina,"amous labyrias, muscular agina",0,0,0,1,0,indications,0,1,0
+Pinaproxyverin is indicated for the treatment of allergic anding.,Pinaproxyverin,allergic anding,"toothy, allergic anding",0,0,0,1,0,indications,1,0,0
+Isopate Ga-68 is indicated for the treatment of muscular agina.,Isopate Ga-68,muscular agina,"herammation, carction",0,0,0,1,0,indications,1,0,0
+Zonium arcinoxacin is indicated for the treatment of acute lymphobladders.,Zonium arcinoxacin,acute lymphobladders,"acute lymphobladders, Shore disorders",0,0,0,1,0,indications,0,1,0
+Tasquemipropion is not indicated for the treatment of opic gangioedema.,Tasquemipropion,opic gangioedema,"opic gangioedema, prolone",0,1,0,1,0,indications,0,0,1
+Loterolidone is not indicated for the treatment of septocorphylaxis.,Loterolidone,septocorphylaxis,"adrenitic carcinomas, septocorphylaxis",0,1,0,1,0,indications,0,1,0
+Phenyltoridast is indicated for the treatment of red mout.,Phenyltoridast,red mout,"poisorders, allular diseases",0,0,0,1,0,indications,0,1,0
+Idarone is indicated for the treatment of memogloblasms.,Idarone,memogloblasms,"megallergic colic, memogloblasms",0,0,0,1,0,indications,1,0,0
+Chlorphalonobucin is not indicated for the treatment of acquired diabetiformiasis.,Chlorphalonobucin,acquired diabetiformiasis,"carction, GI abusease",0,1,0,1,0,indications,1,0,0
+Aleglitrate is indicated for the treatment of coroparalgia.,Aleglitrate,coroparalgia,"acteridematoid leukemias, coroparalgia",0,0,0,1,0,indications,1,0,0
+Tibofloxazide is indicated for the treatment of ventions.,Tibofloxazide,ventions,"memolycemia, ventions",0,0,0,1,0,indications,0,1,0
+Alethylnafil is not indicated for the treatment of ventions.,Alethylnafil,ventions,"muscular agina, neumatotory ostomia",0,1,0,1,0,indications,0,0,1
+Amifanidazole is indicated for the treatment of vasophage.,Amifanidazole,vasophage,"infectrum disease, coppendomycosis",0,0,0,1,0,indications,0,1,0
+Deutenone is not indicated for the treatment of Zellitis.,Deutenone,Zellitis,"Zellitis, acquired diabetiformiasis",0,1,0,1,0,indications,0,1,0
+Fluoridimetaxolol is indicated for the treatment of chronchol dism.,Fluoridimetaxolol,chronchol dism,"Faminal disorders, hyperampsies",0,0,0,1,0,indications,0,0,1
+Calcitabine is not indicated for the treatment of acute lymphobladders.,Calcitabine,acute lymphobladders,"trapyramin tumonic, hematocellitus",0,1,0,1,0,indications,0,1,0
+Deutenone is not indicated for the treatment of keraticancrease.,Deutenone,keraticancrease,"Zellitis, acquired diabetiformiasis",0,1,0,1,0,indications,0,1,0
+Argase ant is not indicated for the treatment of hypoteineal disorder.,Argase ant,hypoteineal disorder,"fibronary hyperal infection, hypoteineal disorder",0,1,0,1,0,indications,1,0,0
+Nylindenol is not indicated for the treatment of anal bleepischema.,Nylindenol,anal bleepischema,"keraticancrease, Onychoticus",0,1,0,1,0,indications,1,0,0
+Azelanzamide is not indicated for the treatment of acute lymphobladders.,Azelanzamide,acute lymphobladders,"hepathe overampsis, acular acidosis",0,1,0,1,0,indications,1,0,0
+Fluoridilast is indicated for the treatment of nonvalvulgaris.,Fluoridilast,nonvalvulgaris,"live sleedity, nonvalvulgaris",0,0,0,1,0,indications,0,1,0
+Fluconatat is not indicated for the treatment of bronary hea.,Fluconatat,bronary hea,"aneous carcinoma, bronary hea",0,1,0,1,0,indications,0,0,1
+Olophentiramide is indicated for the treatment of lungococclusteoplain.,Olophentiramide,lungococclusteoplain,"perebrilepsies, Onychoticus",0,0,0,1,0,indications,0,1,0
+Magnesartan is not indicated for the treatment of throparasis.,Magnesartan,throparasis,"throparasis, coroparalgia",0,1,0,1,0,indications,0,1,0
+Technetamine is indicated for the treatment of fibronary hyperal infection.,Technetamine,fibronary hyperal infection,"dyslipolyneury, acquired diabetiformiasis",0,0,0,1,0,indications,0,1,0
+Midostate is indicated for the treatment of reticers.,Midostate,reticers,"reticers, left ventions",0,0,0,1,0,indications,0,0,1
+Aldehydrocin is not indicated for the treatment of thromegalar distruction.,Aldehydrocin,thromegalar distruction,"abnorrhosis, CMV reathyosis",0,1,0,1,0,indications,0,0,1
+Fimab govobex is indicated for the treatment of tube cardioblastoma.,Fimab govobex,tube cardioblastoma,"carcolitis, tube cardioblastoma",0,0,0,1,0,indications,1,0,0
+Exentan is indicated for the treatment of toothy.,Exentan,toothy,"toothy, adrenitic carcinomas",0,0,0,1,0,indications,1,0,0
+Alanthenprofloxisentol is not indicated for the treatment of acid cancer disorders.,Alanthenprofloxisentol,acid cancer disorders,"infectrum disease, Zellitis",0,1,0,1,0,indications,0,0,1
+Amlodron is indicated for the treatment of nonvalvulgaris.,Amlodron,nonvalvulgaris,"nonvalvulgaris, Onychoticus",0,0,0,1,0,indications,0,1,0
+Isopate Ga-68 is indicated for the treatment of endocrinessiver.,Isopate Ga-68,endocrinessiver,"herammation, carction",0,0,0,1,0,indications,1,0,0
+Lumab medane is indicated for the treatment of bipolysis infections.,Lumab medane,bipolysis infections,"acteridematoid leukemias, kidnessive disorders",0,0,0,1,0,indications,1,0,0
+Pyrimetan is not indicated for the treatment of senic reptic sexual ostableeding.,Pyrimetan,senic reptic sexual ostableeding,"megallergic colic, senic reptic sexual ostableeding",0,1,0,1,0,indications,1,0,0
+Diethetahistat is not indicated for the treatment of hypoesotroendomycosis.,Diethetahistat,hypoesotroendomycosis,"hypoesotroendomycosis, galarva microblasia",0,1,0,1,0,indications,0,1,0
+Ambrostin is not indicated for the treatment of myotroid andrombosis bulitis.,Ambrostin,myotroid andrombosis bulitis,"prema migrain, perlipidematory loss",0,1,0,1,0,indications,1,0,0
+Desvenin is not indicated for the treatment of acquired diabetiformiasis.,Desvenin,acquired diabetiformiasis,"acute mucoronia, gastropatopioid hearthosis",0,1,0,1,0,indications,1,0,0
+Pinaproxyverin is not indicated for the treatment of toothy.,Pinaproxyverin,toothy,"toothy, allergic anding",0,1,0,1,0,indications,1,0,0
+Talnetium is not indicated for the treatment of hypotenoma.,Talnetium,hypotenoma,"ventions, Shore disorders",0,1,0,1,0,indications,1,0,0
+Oxazinezocain is not indicated for the treatment of migranitabias.,Oxazinezocain,migranitabias,"migranitabias, hepathe overampsis",0,1,0,1,0,indications,0,1,0
+Ramoteprazole is not indicated for the treatment of nonal disease.,Ramoteprazole,nonal disease,"sleepilar hea, brometric",0,1,0,1,0,indications,1,0,0
+Virgide is indicated for the treatment of brometric.,Virgide,brometric,"Vasophyria, brometric",0,0,0,1,0,indications,1,0,0
+Trimeproflurosate is not indicated for the treatment of delial brease.,Trimeproflurosate,delial brease,"delial brease, Zellitis",0,1,0,1,0,indications,0,1,0
+Benzylacetylcholix is indicated for the treatment of kidnessive disorders.,Benzylacetylcholix,kidnessive disorders,"perlipidematory loss, ery tumor",0,0,0,1,0,indications,0,0,1
+Nicarbonabinobamate is not indicated for the treatment of anal bleepischema.,Nicarbonabinobamate,anal bleepischema,"anal bleepischema, hyperacterythmia",0,1,0,1,0,indications,1,0,0
+Clofugin is indicated for the treatment of breation.,Clofugin,breation,"meiboflammatitis, breation",0,0,0,1,0,indications,0,1,0
+Amlodron is indicated for the treatment of nonal disease.,Amlodron,nonal disease,"nonvalvulgaris, Onychoticus",0,0,0,1,0,indications,1,0,0
+Talazotam is indicated for the treatment of malact infarcinoma.,Talazotam,malact infarcinoma,"malact infarcinoma, acular acidosis",0,0,0,1,0,indications,0,1,0
+Elocytoin is not indicated for the treatment of poisorders.,Elocytoin,poisorders,"poisorders, sorder cand vomiasis",0,1,0,1,0,indications,0,0,1
+Tramaltolamide is indicated for the treatment of hyperampsies.,Tramaltolamide,hyperampsies,"hyperampsies, anal bleepischema",0,0,0,1,0,indications,1,0,0
+Daltol is indicated for the treatment of gastropatopioid hearthosis.,Daltol,gastropatopioid hearthosis,"obstrophy, deliriurinency",0,0,0,1,0,indications,0,1,0
+Edarol is not indicated for the treatment of CMV reathyosis.,Edarol,CMV reathyosis,"Onychoticus, chrombolism",0,1,0,1,0,indications,0,0,1
+Vorepvec is not indicated for the treatment of allergic anding.,Vorepvec,allergic anding,"panmyelock, allergic anding",0,1,0,1,0,indications,1,0,0
+Loraprimezantoin is indicated for the treatment of chrombolism.,Loraprimezantoin,chrombolism,"acute mucoronia, chrombolism",0,0,0,1,0,indications,1,0,0
+Lipoterole is not indicated for the treatment of chromboembolism.,Lipoterole,chromboembolism,"acteridematoid leukemias, tube cardioblastoma",0,1,0,1,0,indications,0,1,0
+HZT-51803 is not indicated for the treatment of cer pyloid cancer.,HZT-51803,cer pyloid cancer,"erythe blockage, hypoteineal disorder",0,1,0,1,0,indications,1,0,0
+Idarone is not indicated for the treatment of memogloblasms.,Idarone,memogloblasms,"megallergic colic, memogloblasms",0,1,0,1,0,indications,1,0,0
+Limazeparin is indicated for the treatment of herammation.,Limazeparin,herammation,"sleepilar hea, herammation",0,0,0,1,0,indications,0,0,1
+Buspirapressine is indicated for the treatment of Faminal disorders.,Buspirapressine,Faminal disorders,"Faminal disorders, chronchol dism",0,0,0,1,0,indications,0,0,1
+Estronic tril is indicated for the treatment of delial brease.,Estronic tril,delial brease,"meiboflammatitis, arrhythmianic",0,0,0,1,0,indications,0,1,0
+Dersat is indicated for the treatment of prema migrain.,Dersat,prema migrain,"neumatotory ostomia, prema migrain",0,0,0,1,0,indications,0,1,0
+Mibefradionate is indicated for the treatment of allular diseases.,Mibefradionate,allular diseases,"breation, chronchol dism",0,0,0,1,0,indications,1,0,0
+Limazeparin is indicated for the treatment of sleepilar hea.,Limazeparin,sleepilar hea,"sleepilar hea, herammation",0,0,0,1,0,indications,0,0,1
+Dipyrazone is not indicated for the treatment of memogloblasms.,Dipyrazone,memogloblasms,"hematocellitus, Onychoticus",0,1,0,1,0,indications,1,0,0
+Alostat is not indicated for the treatment of kidnessive disorders.,Alostat,kidnessive disorders,"kidnessive disorders, live sleedity",0,1,0,1,0,indications,0,0,1
+Lotene is not indicated for the treatment of aneous carcinoma.,Lotene,aneous carcinoma,"aneous carcinoma, Chageal infections",0,1,0,1,0,indications,0,1,0
+Exemetate is indicated for the treatment of rhearian cancer.,Exemetate,rhearian cancer,"CMV reathyosis, rhearian cancer",0,0,0,1,0,indications,1,0,0
+Fimab govobex is indicated for the treatment of nonal disease.,Fimab govobex,nonal disease,"carcolitis, tube cardioblastoma",0,0,0,1,0,indications,1,0,0
+Azelanzamide is not indicated for the treatment of hypoesotroendomycosis.,Azelanzamide,hypoesotroendomycosis,"hepathe overampsis, acular acidosis",0,1,0,1,0,indications,1,0,0
+Taurtin genem is not indicated for the treatment of lungococclusteoplain.,Taurtin genem,lungococclusteoplain,"deliriurinency, atori infective Disease",0,1,0,1,0,indications,0,1,0
+Oxymorphate is not indicated for the treatment of allergic anding.,Oxymorphate,allergic anding,"acute mucoronia, sinusion",0,1,0,1,0,indications,1,0,0
+Icosartisodenib is not indicated for the treatment of infectal hea.,Icosartisodenib,infectal hea,"hematocellitus, Faminal disorders",0,1,0,1,0,indications,1,0,0
+Vorepvec is indicated for the treatment of allergic anding.,Vorepvec,allergic anding,"panmyelock, allergic anding",0,0,0,1,0,indications,1,0,0
+Olanolon is not indicated for the treatment of delial brease.,Olanolon,delial brease,"opic gangioedema, chromboembolism",0,1,0,1,0,indications,0,1,0
+Enzapridepate is indicated for the treatment of hematocellitus.,Enzapridepate,hematocellitus,"Faminal disorders, anal bleepischema",0,0,0,1,0,indications,0,0,1
+Virgide is not indicated for the treatment of brometric.,Virgide,brometric,"Vasophyria, brometric",0,1,0,1,0,indications,1,0,0
+Fimab govobex is indicated for the treatment of amous labyrias.,Fimab govobex,amous labyrias,"carcolitis, tube cardioblastoma",0,0,0,1,0,indications,0,1,0
+Oxymorphate is indicated for the treatment of acute mucoronia.,Oxymorphate,acute mucoronia,"acute mucoronia, sinusion",0,0,0,1,0,indications,1,0,0
+Lumab medane is not indicated for the treatment of kidnessive disorders.,Lumab medane,kidnessive disorders,"acteridematoid leukemias, kidnessive disorders",0,1,0,1,0,indications,0,0,1
+Tesorbilinib is not indicated for the treatment of myotroid andrombosis bulitis.,Tesorbilinib,myotroid andrombosis bulitis,"nonal disease, poisorders",0,1,0,1,0,indications,0,1,0
+Seletic acid is indicated for the treatment of tensitis.,Seletic acid,tensitis,"acute mucoronia, galarva microblasia",0,0,0,1,0,indications,0,0,1
+Benzylacetylcholix is not indicated for the treatment of myotroid andrombosis bulitis.,Benzylacetylcholix,myotroid andrombosis bulitis,"perlipidematory loss, ery tumor",0,1,0,1,0,indications,1,0,0
+Hydrol is indicated for the treatment of left ventions.,Hydrol,left ventions,"asperpetiformis, tube cardioblastoma",0,0,0,1,0,indications,0,0,1
+Benzylacetylcholix is indicated for the treatment of vasophage.,Benzylacetylcholix,vasophage,"perlipidematory loss, ery tumor",0,0,0,1,0,indications,0,0,1
+Thaleplosanetide is not indicated for the treatment of gastropatopioid hearthosis.,Thaleplosanetide,gastropatopioid hearthosis,"tobact infection, senic reptic sexual ostableeding",0,1,0,1,0,indications,0,0,1
+"Bens, B is not indicated for the treatment of Vasophyria.","Bens, B",Vasophyria,"infectal hea, neumatotory ostomia",0,1,0,1,0,indications,1,0,0
+Filgraplate is not indicated for the treatment of ovasospasmosis.,Filgraplate,ovasospasmosis,"coppendomycosis, migranitabias",0,1,0,1,0,indications,0,1,0
+Bivampridinib is indicated for the treatment of Faminal disorders.,Bivampridinib,Faminal disorders,"rheumors, hyperampsies",0,0,0,1,0,indications,1,0,0
+Ularomethate is not indicated for the treatment of nonvalvulgaris.,Ularomethate,nonvalvulgaris,"acid cancer disorders, arrhythmianic",0,1,0,1,0,indications,0,1,0
+Tetroate is not indicated for the treatment of ovasospasmosis.,Tetroate,ovasospasmosis,"endocrinessiver, aneous carcinoma",0,1,0,1,0,indications,0,1,0
+Paclose is indicated for the treatment of perebrilepsies.,Paclose,perebrilepsies,"perebrilepsies, obstrophy",0,0,0,1,0,indications,0,1,0
+Pipamide is indicated for the treatment of ceral infarcinoma.,Pipamide,ceral infarcinoma,"anal bleepischema, memogloblasms",0,0,0,1,0,indications,0,1,0
+Olanolon is indicated for the treatment of scortis.,Olanolon,scortis,"opic gangioedema, chromboembolism",0,0,0,1,0,indications,1,0,0
+Momethiomab is not indicated for the treatment of herammation.,Momethiomab,herammation,"acute lymphobladders, prolone",0,1,0,1,0,indications,0,1,0
+Fluoridimetaxolol is not indicated for the treatment of intriculatus.,Fluoridimetaxolol,intriculatus,"Faminal disorders, hyperampsies",0,1,0,1,0,indications,0,0,1
+Ambrozil is indicated for the treatment of perebrilepsies.,Ambrozil,perebrilepsies,"astroid cancer, GI abusease",0,0,0,1,0,indications,0,1,0
+SR 1207 is not indicated for the treatment of uronchospastoma.,SR 1207,uronchospastoma,"scortis, hypoesotroendomycosis",0,1,0,1,0,indications,1,0,0
+Desvenin is not indicated for the treatment of acute mucoronia.,Desvenin,acute mucoronia,"acute mucoronia, gastropatopioid hearthosis",0,1,0,1,0,indications,1,0,0
+Dapoxen is indicated for the treatment of back parkine bral verniasis.,Dapoxen,back parkine bral verniasis,"sinusion, arrhythmianic",0,0,0,1,0,indications,1,0,0
+Inosenadrin is indicated for the treatment of acute lymphobladders.,Inosenadrin,acute lymphobladders,"acute lymphobladders, infectal hea",0,0,0,1,0,indications,1,0,0
+Ursodenesanib is not indicated for the treatment of extracterium.,Ursodenesanib,extracterium,"extracterium, Shore disorders",0,1,0,1,0,indications,0,1,0
+Rasburine is indicated for the treatment of trapyramin tumonic.,Rasburine,trapyramin tumonic,"scortis, trapyramin tumonic",0,0,0,1,0,indications,1,0,0
+Zonium arcinoxacin is indicated for the treatment of rhearian cancer.,Zonium arcinoxacin,rhearian cancer,"acute lymphobladders, Shore disorders",0,0,0,1,0,indications,1,0,0
+Glutalacine is indicated for the treatment of hypoesotroendomycosis.,Glutalacine,hypoesotroendomycosis,"asperpetiformis, sorder cand vomiasis",0,0,0,1,0,indications,0,1,0
+Dietharin B is indicated for the treatment of reticers.,Dietharin B,reticers,"chrombolism, perlipidematory loss",0,0,0,1,0,indications,0,0,1
+Deutetractone is indicated for the treatment of molynes.,Deutetractone,molynes,"atori infective Disease, intriculatus",0,0,0,1,0,indications,1,0,0
+Thaleplosanetide is indicated for the treatment of tobact infection.,Thaleplosanetide,tobact infection,"tobact infection, senic reptic sexual ostableeding",0,0,0,1,0,indications,1,0,0
+Diethetahistat is not indicated for the treatment of galarva microblasia.,Diethetahistat,galarva microblasia,"hypoesotroendomycosis, galarva microblasia",0,1,0,1,0,indications,1,0,0
+Loterolidone is indicated for the treatment of septocorphylaxis.,Loterolidone,septocorphylaxis,"adrenitic carcinomas, septocorphylaxis",0,0,0,1,0,indications,0,1,0
+Cefusionate is not indicated for the treatment of panmyelock.,Cefusionate,panmyelock,"anemic malis, Fabry cell Carcinoma",0,1,0,1,0,indications,1,0,0
+Bivampridinib is indicated for the treatment of Faminal disorders.,Bivampridinib,Faminal disorders,"rheumors, hyperampsies",0,0,0,1,0,indications,1,0,0
+Thiazepam is indicated for the treatment of hepathe overampsis.,Thiazepam,hepathe overampsis,"Onychoticus, hepathe overampsis",0,0,0,1,0,indications,0,0,1
+Terlisodipinib is indicated for the treatment of amous labyrias.,Terlisodipinib,amous labyrias,"amous labyrias, breatory disorders",0,0,0,1,0,indications,0,1,0
+Talazotam is not indicated for the treatment of malact infarcinoma.,Talazotam,malact infarcinoma,"malact infarcinoma, acular acidosis",0,1,0,1,0,indications,0,1,0
+Phentantannic acid is indicated for the treatment of prema migrain.,Phentantannic acid,prema migrain,"lupus cell lunguium, prema migrain",0,0,0,1,0,indications,0,1,0
+Azelanzamide is indicated for the treatment of chromboembolism.,Azelanzamide,chromboembolism,"hepathe overampsis, acular acidosis",0,0,0,1,0,indications,1,0,0
+Nabine is not indicated for the treatment of prema migrain.,Nabine,prema migrain,"hematocellitus, prema migrain",0,1,0,1,0,indications,0,0,1
+Efavirenol is indicated for the treatment of carction.,Efavirenol,carction,"bactive tumors, molynes",0,0,0,1,0,indications,0,1,0
+Olophentiramide is indicated for the treatment of perebrilepsies.,Olophentiramide,perebrilepsies,"perebrilepsies, Onychoticus",0,0,0,1,0,indications,0,1,0
+Tesorbilinib is indicated for the treatment of memogloblasms.,Tesorbilinib,memogloblasms,"nonal disease, poisorders",0,0,0,1,0,indications,1,0,0
+Neostonicone is indicated for the treatment of delial brease.,Neostonicone,delial brease,"delial brease, breatory disorders",0,0,0,1,0,indications,0,1,0
+Artemciclon is not indicated for the treatment of fibronary hyperal infection.,Artemciclon,fibronary hyperal infection,"adrenitic carcinomas, asperpetiformis",0,1,0,1,0,indications,1,0,0
+Taurtin genem is not indicated for the treatment of deliriurinency.,Taurtin genem,deliriurinency,"deliriurinency, atori infective Disease",0,1,0,1,0,indications,1,0,0
+Dolastuzumab is not indicated for the treatment of sinusion.,Dolastuzumab,sinusion,"gastropatopioid hearthosis, perlipidematory loss",0,1,0,1,0,indications,1,0,0
+Potason is indicated for the treatment of extracterium.,Potason,extracterium,"bipolysis infections, extracterium",0,0,0,1,0,indications,0,0,1
+Regovidole is not indicated for the treatment of perebrilepsies.,Regovidole,perebrilepsies,"abnorrhosis, neumatotory ostomia",0,1,0,1,0,indications,0,1,0
+Pinaproxyverin is not indicated for the treatment of perlipidematory loss.,Pinaproxyverin,perlipidematory loss,"toothy, allergic anding",0,1,0,1,0,indications,0,0,1
+Trolazole is not indicated for the treatment of muscular agina.,Trolazole,muscular agina,"amous labyrias, muscular agina",0,1,0,1,0,indications,0,1,0
+Phentantannic acid is not indicated for the treatment of lupus cell lunguium.,Phentantannic acid,lupus cell lunguium,"lupus cell lunguium, prema migrain",0,1,0,1,0,indications,0,1,0
+Tofazide is not indicated for the treatment of Fabry cell Carcinoma.,Tofazide,Fabry cell Carcinoma,"astroid cancer, Fabry cell Carcinoma",0,1,0,1,0,indications,1,0,0
+Tianic sularin is not indicated for the treatment of Fabry cell Carcinoma.,Tianic sularin,Fabry cell Carcinoma,"ery tumor, Fabry cell Carcinoma",0,1,0,1,0,indications,1,0,0
+Estracalla-zose is indicated for the treatment of endocrinessiver.,Estracalla-zose,endocrinessiver,"infectal hea, acquired diabetiformiasis",0,0,0,1,0,indications,0,0,1
+Vilonate is indicated for the treatment of tensitis.,Vilonate,tensitis,"ovasospasmosis, cer pyloid cancer",0,0,0,1,0,indications,0,0,1
+Diethetahistat is indicated for the treatment of hypoesotroendomycosis.,Diethetahistat,hypoesotroendomycosis,"hypoesotroendomycosis, galarva microblasia",0,0,0,1,0,indications,0,1,0
+Exemetate is not indicated for the treatment of prema migrain.,Exemetate,prema migrain,"CMV reathyosis, rhearian cancer",0,1,0,1,0,indications,0,1,0
+Aspatroglifluoxetigmin is not indicated for the treatment of ventitivitive disorder.,Aspatroglifluoxetigmin,ventitivitive disorder,"ventitivitive disorder, hepathe overampsis",0,1,0,1,0,indications,0,0,1
+Chlorphalonobucin is indicated for the treatment of GI abusease.,Chlorphalonobucin,GI abusease,"carction, GI abusease",0,0,0,1,0,indications,0,0,1
+Nabine is indicated for the treatment of uronchospastoma.,Nabine,uronchospastoma,"hematocellitus, prema migrain",0,0,0,1,0,indications,1,0,0
+Gadoproster is indicated for the treatment of ovasospasmosis.,Gadoproster,ovasospasmosis,"coroparalgia, galarva microblasia",0,0,0,1,0,indications,0,1,0
+Nicarpindoleate is indicated for the treatment of ceral infarcinoma.,Nicarpindoleate,ceral infarcinoma,"tobact infection, ceral infarcinoma",0,0,0,1,0,indications,0,0,1
+Alanthenprofloxisentol is indicated for the treatment of Zellitis.,Alanthenprofloxisentol,Zellitis,"infectrum disease, Zellitis",0,0,0,1,0,indications,1,0,0
+Alanthenprofloxisentol is not indicated for the treatment of infectrum disease.,Alanthenprofloxisentol,infectrum disease,"infectrum disease, Zellitis",0,1,0,1,0,indications,0,0,1
+Ciminumab is indicated for the treatment of malact infarcinoma.,Ciminumab,malact infarcinoma,"malact infarcinoma, arrhythmianic",0,0,0,1,0,indications,0,0,1
+Tran is indicated for the treatment of hematocellitus.,Tran,hematocellitus,"breation, vasophage",0,0,0,1,0,indications,0,0,1
+Pargylinoin is not indicated for the treatment of kidnessive disorders.,Pargylinoin,kidnessive disorders,"kidnessive disorders, senic reptic sexual ostableeding",0,1,0,1,0,indications,0,0,1
+Disobenofolide is indicated for the treatment of hypotenoma.,Disobenofolide,hypotenoma,"hypotenoma, cerebral canceratitis",0,0,0,1,0,indications,0,0,1
+Thiamterferrin is not indicated for the treatment of sorder cand vomiasis.,Thiamterferrin,sorder cand vomiasis,"Fabry cell Carcinoma, ventitivitive disorder",0,1,0,1,0,indications,1,0,0
+Loraprimezantoin is not indicated for the treatment of ovagillar disease.,Loraprimezantoin,ovagillar disease,"acute mucoronia, chrombolism",0,1,0,1,0,indications,1,0,0
+Edotoxibef is indicated for the treatment of hepathe overampsis.,Edotoxibef,hepathe overampsis,"postolorhythemia, hepathe overampsis",0,0,0,1,0,indications,0,0,1
+Ambrostin is indicated for the treatment of prema migrain.,Ambrostin,prema migrain,"prema migrain, perlipidematory loss",0,0,0,1,0,indications,1,0,0
+Strexacid is indicated for the treatment of brometric.,Strexacid,brometric,"astronchoplasm, brometric",0,0,0,1,0,indications,1,0,0
+Latantetrol is indicated for the treatment of megallergic colic.,Latantetrol,megallergic colic,"extracterium, tube cardioblastoma",0,0,0,1,0,indications,0,1,0
+Miglipranel is not indicated for the treatment of uronchospastoma.,Miglipranel,uronchospastoma,"uronchospastoma, ceral infarcinoma",0,1,0,1,0,indications,1,0,0
+Disobenofolide is indicated for the treatment of opic gangioedema.,Disobenofolide,opic gangioedema,"hypotenoma, cerebral canceratitis",0,0,0,1,0,indications,0,0,1
+Limazeparin is not indicated for the treatment of herammation.,Limazeparin,herammation,"sleepilar hea, herammation",0,1,0,1,0,indications,0,0,1
+Propiclen is indicated for the treatment of leprematus angiopathy.,Propiclen,leprematus angiopathy,"prolone, hematocellitus",0,0,0,1,0,indications,1,0,0
+Auracarboxacid is not indicated for the treatment of uronchospastoma.,Auracarboxacid,uronchospastoma,"astronchoplasm, toothy",0,1,0,1,0,indications,1,0,0
+Ethiomazine is not indicated for the treatment of Chageal infections.,Ethiomazine,Chageal infections,"Vasophyria, opic gangioedema",0,1,0,1,0,indications,0,1,0
+Alumil is not indicated for the treatment of erythe blockage.,Alumil,erythe blockage,"candigemia, reticers",0,1,0,1,0,indications,1,0,0
+Fenose is not indicated for the treatment of Onychoticus.,Fenose,Onychoticus,"Onychoticus, dyslipolyneury",0,1,0,1,0,indications,0,0,1
+Bipene oil is not indicated for the treatment of hyperampsies.,Bipene oil,hyperampsies,"Zellitis, hyperampsies",0,1,0,1,0,indications,0,0,1
+Clopa is not indicated for the treatment of left ventions.,Clopa,left ventions,"reticers, intriculatus",0,1,0,1,0,indications,0,0,1
+Fluconatat is indicated for the treatment of bronary hea.,Fluconatat,bronary hea,"aneous carcinoma, bronary hea",0,0,0,1,0,indications,0,0,1
+Nabine is not indicated for the treatment of throparasis.,Nabine,throparasis,"hematocellitus, prema migrain",0,1,0,1,0,indications,0,0,1
+Tasquemipropion is not indicated for the treatment of prolone.,Tasquemipropion,prolone,"opic gangioedema, prolone",0,1,0,1,0,indications,0,0,1
+Alemetamolimus is indicated for the treatment of tensitis.,Alemetamolimus,tensitis,"myotroid andrombosis bulitis, ovagillar disease",0,0,0,1,0,indications,0,0,1
+Miglipranel is indicated for the treatment of toothy.,Miglipranel,toothy,"uronchospastoma, ceral infarcinoma",0,0,0,1,0,indications,1,0,0
+Fenose is not indicated for the treatment of tensitis.,Fenose,tensitis,"Onychoticus, dyslipolyneury",0,1,0,1,0,indications,0,0,1
+Buspirapressine is indicated for the treatment of chromboembolism.,Buspirapressine,chromboembolism,"Faminal disorders, chronchol dism",0,0,0,1,0,indications,0,1,0
+Phenadionam is indicated for the treatment of akine disorders.,Phenadionam,akine disorders,"perebrilepsies, coroparalgia",0,0,0,1,0,indications,0,1,0
+Terlisodipinib is not indicated for the treatment of amous labyrias.,Terlisodipinib,amous labyrias,"amous labyrias, breatory disorders",0,1,0,1,0,indications,0,1,0
+Terlisodipinib is not indicated for the treatment of hyperacterythmia.,Terlisodipinib,hyperacterythmia,"amous labyrias, breatory disorders",0,1,0,1,0,indications,0,1,0
+Tesorbilinib is not indicated for the treatment of arrhythmianic.,Tesorbilinib,arrhythmianic,"nonal disease, poisorders",0,1,0,1,0,indications,0,1,0
+Droxomide is indicated for the treatment of Shore disorders.,Droxomide,Shore disorders,"toothy, sleediciencer",0,0,0,1,0,indications,0,1,0
+Cefoxoprozil is not indicated for the treatment of keraticancrease.,Cefoxoprozil,keraticancrease,"keraticancrease, perebrilepsies",0,1,0,1,0,indications,0,1,0
+Tezafil is indicated for the treatment of hyperampsies.,Tezafil,hyperampsies,"hyperampsies, tumocytic disorder",0,0,0,1,0,indications,0,0,1
+Tocaprolol is indicated for the treatment of carction.,Tocaprolol,carction,"prolone, carction",0,0,0,1,0,indications,1,0,0
+Denolonate is not indicated for the treatment of left ventions.,Denolonate,left ventions,"coppendomycosis, arrhythmianic",0,1,0,1,0,indications,0,0,1
+Isopate Ga-68 is indicated for the treatment of herammation.,Isopate Ga-68,herammation,"herammation, carction",0,0,0,1,0,indications,1,0,0
+Chlorotermin is not indicated for the treatment of hyperacterythmia.,Chlorotermin,hyperacterythmia,"hyperacterythmia, astronchoplasm",0,1,0,1,0,indications,1,0,0
+Olophentiramide is indicated for the treatment of acteridematoid leukemias.,Olophentiramide,acteridematoid leukemias,"perebrilepsies, Onychoticus",0,0,0,1,0,indications,1,0,0
+Phenyltoridast is indicated for the treatment of allular diseases.,Phenyltoridast,allular diseases,"poisorders, allular diseases",0,0,0,1,0,indications,1,0,0
+Trolazole is indicated for the treatment of adrenitic carcinomas.,Trolazole,adrenitic carcinomas,"amous labyrias, muscular agina",0,0,0,1,0,indications,0,1,0
+Rofenavin is indicated for the treatment of anal bleepischema.,Rofenavin,anal bleepischema,"memogloblasms, trapyramin tumonic",0,0,0,1,0,indications,1,0,0
+Pentan medoran is indicated for the treatment of hypoesotroendomycosis.,Pentan medoran,hypoesotroendomycosis,"adrenitic carcinomas, sorder cand vomiasis",0,0,0,1,0,indications,0,1,0
+Droniazirin is not indicated for the treatment of erythe blockage.,Droniazirin,erythe blockage,"erythe blockage, memogloblasms",0,1,0,1,0,indications,0,0,1
+Lumab medane is indicated for the treatment of acteridematoid leukemias.,Lumab medane,acteridematoid leukemias,"acteridematoid leukemias, kidnessive disorders",0,0,0,1,0,indications,1,0,0
+Dersat is not indicated for the treatment of neumatotory ostomia.,Dersat,neumatotory ostomia,"neumatotory ostomia, prema migrain",0,1,0,1,0,indications,1,0,0
+Tramaltolamide is not indicated for the treatment of acute mucoronia.,Tramaltolamide,acute mucoronia,"hyperampsies, anal bleepischema",0,1,0,1,0,indications,1,0,0
+Dapineethamide is indicated for the treatment of lungococclusteoplain.,Dapineethamide,lungococclusteoplain,"lungococclusteoplain, ovagillar disease",0,0,0,1,0,indications,0,1,0
+INO-166 is not indicated for the treatment of reticers.,INO-166,reticers,"memolycemia, reticers",0,1,0,1,0,indications,0,0,1
+Virgide is not indicated for the treatment of keraticancrease.,Virgide,keraticancrease,"Vasophyria, brometric",0,1,0,1,0,indications,0,1,0
+Salide is not indicated for the treatment of uronchospastoma.,Salide,uronchospastoma,"arrhythmianic, Vasophyria",0,1,0,1,0,indications,1,0,0
+Terbutethylen is indicated for the treatment of hypoesotroendomycosis.,Terbutethylen,hypoesotroendomycosis,"coppendomycosis, hypoesotroendomycosis",0,0,0,1,0,indications,1,0,0
+Estracalla-zose is indicated for the treatment of leprematus angiopathy.,Estracalla-zose,leprematus angiopathy,"infectal hea, acquired diabetiformiasis",0,0,0,1,0,indications,0,0,1
+Ceforoquinib is not indicated for the treatment of chrombolism.,Ceforoquinib,chrombolism,"scortis, chrombolism",0,1,0,1,0,indications,0,0,1
+Pramphenytoin is not indicated for the treatment of acteridematoid leukemias.,Pramphenytoin,acteridematoid leukemias,"tumocytic disorder, cologic diseases",0,1,0,1,0,indications,1,0,0
+Droxomide is not indicated for the treatment of sleediciencer.,Droxomide,sleediciencer,"toothy, sleediciencer",0,1,0,1,0,indications,0,1,0
+Magnesartan is indicated for the treatment of bact barbancercolis.,Magnesartan,bact barbancercolis,"throparasis, coroparalgia",0,0,0,1,0,indications,0,1,0
+Fluoridilast is indicated for the treatment of astroid cancer.,Fluoridilast,astroid cancer,"live sleedity, nonvalvulgaris",0,0,0,1,0,indications,0,1,0
+Denolonate is indicated for the treatment of coppendomycosis.,Denolonate,coppendomycosis,"coppendomycosis, arrhythmianic",0,0,0,1,0,indications,0,0,1
+Travoprefusion is not indicated for the treatment of Vasophyria.,Travoprefusion,Vasophyria,"Vasophyria, memogloblasms",0,1,0,1,0,indications,1,0,0
+Ravuconabederum is indicated for the treatment of coppendomycosis.,Ravuconabederum,coppendomycosis,"adrenitic carcinomas, nonvalvulgaris",0,0,0,1,0,indications,0,1,0
+Melphenic acid is not indicated for the treatment of lupus cell lunguium.,Melphenic acid,lupus cell lunguium,"hematocellitus, teethronchiectiver cancer",0,1,0,1,0,indications,0,1,0
+Olanolon is not indicated for the treatment of chromboembolism.,Olanolon,chromboembolism,"opic gangioedema, chromboembolism",0,1,0,1,0,indications,0,1,0
+Ethamide is not indicated for the treatment of atori infective Disease.,Ethamide,atori infective Disease,"acute mucoronia, atori infective Disease",0,1,0,1,0,indications,1,0,0
+Alemetamolimus is not indicated for the treatment of ovagillar disease.,Alemetamolimus,ovagillar disease,"myotroid andrombosis bulitis, ovagillar disease",0,1,0,1,0,indications,0,1,0
+Tran is not indicated for the treatment of vasophage.,Tran,vasophage,"breation, vasophage",0,1,0,1,0,indications,0,1,0
+ABT-501 is not indicated for the treatment of red mout.,ABT-501,red mout,"opic gangioedema, red mout",0,1,0,1,0,indications,0,1,0
+Alanthenprofloxisentol is indicated for the treatment of infectrum disease.,Alanthenprofloxisentol,infectrum disease,"infectrum disease, Zellitis",0,0,0,1,0,indications,0,0,1
+Potason is indicated for the treatment of lupus cell lunguium.,Potason,lupus cell lunguium,"bipolysis infections, extracterium",0,0,0,1,0,indications,0,0,1
+Nabinterolam is not indicated for the treatment of chromboembolism.,Nabinterolam,chromboembolism,"Zellitis, chromboembolism",0,1,0,1,0,indications,0,1,0
+Guanadione is indicated for the treatment of tumocytic disorder.,Guanadione,tumocytic disorder,"panmyelock, megallergic colic",0,0,0,1,0,indications,1,0,0
+Amlodron is not indicated for the treatment of nonvalvulgaris.,Amlodron,nonvalvulgaris,"nonvalvulgaris, Onychoticus",0,1,0,1,0,indications,0,1,0
+Tocaprolol is not indicated for the treatment of galarva microblasia.,Tocaprolol,galarva microblasia,"prolone, carction",0,1,0,1,0,indications,1,0,0
+Nalmisapenib is not indicated for the treatment of hypoteineal disorder.,Nalmisapenib,hypoteineal disorder,"astroid cancer, Zellitis",0,1,0,1,0,indications,0,0,1
+Terbutethylen is not indicated for the treatment of coppendomycosis.,Terbutethylen,coppendomycosis,"coppendomycosis, hypoesotroendomycosis",0,1,0,1,0,indications,0,0,1
+Pentan medoran is not indicated for the treatment of adrenitic carcinomas.,Pentan medoran,adrenitic carcinomas,"adrenitic carcinomas, sorder cand vomiasis",0,1,0,1,0,indications,0,1,0
+Fluconatat is not indicated for the treatment of cerebral canceratitis.,Fluconatat,cerebral canceratitis,"aneous carcinoma, bronary hea",0,1,0,1,0,indications,1,0,0
+Triakinum Rb-82 is not indicated for the treatment of rheumors.,Triakinum Rb-82,rheumors,"itchiection, carcolitis",0,1,0,1,0,indications,1,0,0
+Desvenin is not indicated for the treatment of fract disease.,Desvenin,fract disease,"acute mucoronia, gastropatopioid hearthosis",0,1,0,1,0,indications,0,1,0
+99m trivatuzumab is indicated for the treatment of acquired diabetiformiasis.,99m trivatuzumab,acquired diabetiformiasis,"back parkine bral verniasis, acquired diabetiformiasis",0,0,0,1,0,indications,1,0,0
+Latantetrol is indicated for the treatment of extracterium.,Latantetrol,extracterium,"extracterium, tube cardioblastoma",0,0,0,1,0,indications,0,1,0
+Lefradine is indicated for the treatment of allergic anding.,Lefradine,allergic anding,"lupus cell lunguium, allergic anding",0,0,0,1,0,indications,1,0,0
+Zipramide is not indicated for the treatment of live sleedity.,Zipramide,live sleedity,"live sleedity, aneous carcinoma",0,1,0,1,0,indications,1,0,0
+Rituzumab mon is indicated for the treatment of red mout.,Rituzumab mon,red mout,"herammation, red mout",0,0,0,1,0,indications,1,0,0
+Daltol is indicated for the treatment of deliriurinency.,Daltol,deliriurinency,"obstrophy, deliriurinency",0,0,0,1,0,indications,1,0,0
+Terifloxacid is not indicated for the treatment of coroparalgia.,Terifloxacid,coroparalgia,"coroparalgia, neumatotory ostomia",0,1,0,1,0,indications,0,1,0
+Imiplizumab is not indicated for the treatment of obstrophy.,Imiplizumab,obstrophy,"malact infarcinoma, obstrophy",0,1,0,1,0,indications,0,1,0
+Roban is indicated for the treatment of obstatitic colism.,Roban,obstatitic colism,"senic reptic sexual ostableeding, red mout",0,0,0,1,0,indications,1,0,0
+Amifanidazole is not indicated for the treatment of CMV reathyosis.,Amifanidazole,CMV reathyosis,"infectrum disease, coppendomycosis",0,1,0,1,0,indications,0,1,0
+Talnetium is not indicated for the treatment of obstatitic colism.,Talnetium,obstatitic colism,"ventions, Shore disorders",0,1,0,1,0,indications,1,0,0
+Telaic acetat is not indicated for the treatment of amous labyrias.,Telaic acetat,amous labyrias,"leprematus angiopathy, sorder cand vomiasis",0,1,0,1,0,indications,0,1,0
+Nalmitrigitol is indicated for the treatment of reticers.,Nalmitrigitol,reticers,"coroparalgia, Vasophyria",0,0,0,1,0,indications,0,0,1
+Edotoxibef is indicated for the treatment of postolorhythemia.,Edotoxibef,postolorhythemia,"postolorhythemia, hepathe overampsis",0,0,0,1,0,indications,0,0,1
+Artemciclon is indicated for the treatment of scortis.,Artemciclon,scortis,"adrenitic carcinomas, asperpetiformis",0,0,0,1,0,indications,1,0,0
+Alemetamolimus is not indicated for the treatment of myotroid andrombosis bulitis.,Alemetamolimus,myotroid andrombosis bulitis,"myotroid andrombosis bulitis, ovagillar disease",0,1,0,1,0,indications,0,1,0
+99m trivatuzumab is not indicated for the treatment of Fabry cell Carcinoma.,99m trivatuzumab,Fabry cell Carcinoma,"back parkine bral verniasis, acquired diabetiformiasis",0,1,0,1,0,indications,1,0,0
+Calcitimumab is not indicated for the treatment of neumatotory ostomia.,Calcitimumab,neumatotory ostomia,"cer pyloid cancer, sinusion",0,1,0,1,0,indications,1,0,0
+Tramaltolamide is indicated for the treatment of anal bleepischema.,Tramaltolamide,anal bleepischema,"hyperampsies, anal bleepischema",0,0,0,1,0,indications,1,0,0
+Annam is not indicated for the treatment of ventions.,Annam,ventions,"akine disorders, prolone",0,1,0,1,0,indications,0,0,1
+Eprazepothetazole is not indicated for the treatment of perlipidematory loss.,Eprazepothetazole,perlipidematory loss,"ventions, amous labyrias",0,1,0,1,0,indications,0,1,0
+Auracarboxacid is indicated for the treatment of reticers.,Auracarboxacid,reticers,"astronchoplasm, toothy",0,0,0,1,0,indications,1,0,0
+Ursodenesanib is not indicated for the treatment of Shore disorders.,Ursodenesanib,Shore disorders,"extracterium, Shore disorders",0,1,0,1,0,indications,0,1,0
+Grisoxacid is indicated for the treatment of hematocellitus.,Grisoxacid,hematocellitus,"nonal disease, hematocellitus",0,0,0,1,0,indications,0,0,1
+Tegase is not indicated for the treatment of panmyelock.,Tegase,panmyelock,"panmyelock, nonal disease",0,1,0,1,0,indications,1,0,0
+Calcitin is not indicated for the treatment of herammation.,Calcitin,herammation,"GI abusease, herammation",0,1,0,1,0,indications,0,1,0
+ABT-501 is not indicated for the treatment of tobact infection.,ABT-501,tobact infection,"opic gangioedema, red mout",0,1,0,1,0,indications,1,0,0
+Elocytoin is indicated for the treatment of Vasophyria.,Elocytoin,Vasophyria,"poisorders, sorder cand vomiasis",0,0,0,1,0,indications,1,0,0
+Estronic tril is indicated for the treatment of arrhythmianic.,Estronic tril,arrhythmianic,"meiboflammatitis, arrhythmianic",0,0,0,1,0,indications,0,1,0
+Trimeproflurosate is not indicated for the treatment of leprematus angiopathy.,Trimeproflurosate,leprematus angiopathy,"delial brease, Zellitis",0,1,0,1,0,indications,0,0,1
+Elocytoin is not indicated for the treatment of neumatotory ostomia.,Elocytoin,neumatotory ostomia,"poisorders, sorder cand vomiasis",0,1,0,1,0,indications,1,0,0
+Thiamterferrin is indicated for the treatment of opic gangioedema.,Thiamterferrin,opic gangioedema,"Fabry cell Carcinoma, ventitivitive disorder",0,0,0,1,0,indications,0,1,0
+INO-166 is not indicated for the treatment of dyslipolyneury.,INO-166,dyslipolyneury,"memolycemia, reticers",0,1,0,1,0,indications,0,0,1
+Virgide is indicated for the treatment of atori infective Disease.,Virgide,atori infective Disease,"Vasophyria, brometric",0,0,0,1,0,indications,1,0,0
+Zibosenacost is not indicated for the treatment of neumatotory ostomia.,Zibosenacost,neumatotory ostomia,"GI abusease, senic reptic sexual ostableeding",0,1,0,1,0,indications,1,0,0
+Chlorotermin is not indicated for the treatment of nonal disease.,Chlorotermin,nonal disease,"hyperacterythmia, astronchoplasm",0,1,0,1,0,indications,1,0,0
+Idarone is not indicated for the treatment of infectal hea.,Idarone,infectal hea,"megallergic colic, memogloblasms",0,1,0,1,0,indications,1,0,0
+Fluoridilast is not indicated for the treatment of rhearian cancer.,Fluoridilast,rhearian cancer,"live sleedity, nonvalvulgaris",0,1,0,1,0,indications,1,0,0
+Rituzumab mon is indicated for the treatment of herammation.,Rituzumab mon,herammation,"herammation, red mout",0,0,0,1,0,indications,1,0,0
+Alethylnafil is not indicated for the treatment of poisorders.,Alethylnafil,poisorders,"muscular agina, neumatotory ostomia",0,1,0,1,0,indications,0,0,1
+Remoclose is indicated for the treatment of anal bleepischema.,Remoclose,anal bleepischema,"anal bleepischema, Vasophyria",0,0,0,1,0,indications,1,0,0
+Dipyrazone is indicated for the treatment of panmyelock.,Dipyrazone,panmyelock,"hematocellitus, Onychoticus",0,0,0,1,0,indications,1,0,0
+Propa is not indicated for the treatment of ovasospasmosis.,Propa,ovasospasmosis,"ovasospasmosis, astroid cancer",0,1,0,1,0,indications,1,0,0
+Mibefradionate is not indicated for the treatment of chronchol dism.,Mibefradionate,chronchol dism,"breation, chronchol dism",0,1,0,1,0,indications,1,0,0
+Prazolevudine is indicated for the treatment of septocorphylaxis.,Prazolevudine,septocorphylaxis,"septocorphylaxis, akine disorders",0,0,0,1,0,indications,0,1,0
+Ethiomazine is indicated for the treatment of Vasophyria.,Ethiomazine,Vasophyria,"Vasophyria, opic gangioedema",0,0,0,1,0,indications,1,0,0
+Cilastine is not indicated for the treatment of panmyelock.,Cilastine,panmyelock,"panmyelock, Zellitis",0,1,0,1,0,indications,1,0,0
+Dinoetiapride is not indicated for the treatment of throparasis.,Dinoetiapride,throparasis,"cologic diseases, throparasis",0,1,0,1,0,indications,0,1,0
+HZT-51803 is indicated for the treatment of hypoteineal disorder.,HZT-51803,hypoteineal disorder,"erythe blockage, hypoteineal disorder",0,0,0,1,0,indications,1,0,0
+Chlorphalonobucin is indicated for the treatment of carction.,Chlorphalonobucin,carction,"carction, GI abusease",0,0,0,1,0,indications,1,0,0
+Clofuginide is not indicated for the treatment of CMV reathyosis.,Clofuginide,CMV reathyosis,"CMV reathyosis, senic reptic sexual ostableeding",0,1,0,1,0,indications,0,0,1
+Talinoglitat is indicated for the treatment of perlipidematory loss.,Talinoglitat,perlipidematory loss,"panmyelock, left ventions",0,0,0,1,0,indications,0,1,0
+Serden is not indicated for the treatment of senic reptic sexual ostableeding.,Serden,senic reptic sexual ostableeding,"Shore disorders, senic reptic sexual ostableeding",0,1,0,1,0,indications,1,0,0
+Buspium is not indicated for the treatment of uronchospastoma.,Buspium,uronchospastoma,"perlipidematory loss, uronchospastoma",0,1,0,1,0,indications,1,0,0
+INO-166 is indicated for the treatment of hyperacterythmia.,INO-166,hyperacterythmia,"memolycemia, reticers",0,0,0,1,0,indications,0,1,0
+Sorasentol is indicated for the treatment of dyslipolyneury.,Sorasentol,dyslipolyneury,"thromegalar distruction, fibronary hyperal infection",0,0,0,1,0,indications,0,0,1
+Inosuvast is indicated for the treatment of left ventions.,Inosuvast,left ventions,"left ventions, intriculatus",0,0,0,1,0,indications,0,0,1
+Argase ant is not indicated for the treatment of fibronary hyperal infection.,Argase ant,fibronary hyperal infection,"fibronary hyperal infection, hypoteineal disorder",0,1,0,1,0,indications,1,0,0
+Androximab is not indicated for the treatment of memogloblasms.,Androximab,memogloblasms,"sleepilar hea, toothy",0,1,0,1,0,indications,1,0,0
+Strexacid is not indicated for the treatment of kidnessive disorders.,Strexacid,kidnessive disorders,"astronchoplasm, brometric",0,1,0,1,0,indications,0,0,1
+Oxazinezocain is indicated for the treatment of hepathe overampsis.,Oxazinezocain,hepathe overampsis,"migranitabias, hepathe overampsis",0,0,0,1,0,indications,0,0,1
+Calcitimumab is not indicated for the treatment of bipolysis infections.,Calcitimumab,bipolysis infections,"cer pyloid cancer, sinusion",0,1,0,1,0,indications,1,0,0
+Sofan is not indicated for the treatment of intriculatus.,Sofan,intriculatus,"migranitabias, bact barbancercolis",0,1,0,1,0,indications,0,0,1
+Clofugin is indicated for the treatment of breatory disorders.,Clofugin,breatory disorders,"meiboflammatitis, breation",0,0,0,1,0,indications,0,1,0
+Isopate Ga-68 is not indicated for the treatment of carction.,Isopate Ga-68,carction,"herammation, carction",0,1,0,1,0,indications,1,0,0
+Hydroxamfetamesate is indicated for the treatment of breatory disorders.,Hydroxamfetamesate,breatory disorders,"coppendomycosis, breatory disorders",0,0,0,1,0,indications,0,1,0
+Imiplizumab is not indicated for the treatment of malact infarcinoma.,Imiplizumab,malact infarcinoma,"malact infarcinoma, obstrophy",0,1,0,1,0,indications,0,1,0
+Deutenone is indicated for the treatment of gastropatopioid hearthosis.,Deutenone,gastropatopioid hearthosis,"Zellitis, acquired diabetiformiasis",0,0,0,1,0,indications,0,1,0
+Hydrol is not indicated for the treatment of perebrilepsies.,Hydrol,perebrilepsies,"asperpetiformis, tube cardioblastoma",0,1,0,1,0,indications,0,1,0
+Droxomide is not indicated for the treatment of toothy.,Droxomide,toothy,"toothy, sleediciencer",0,1,0,1,0,indications,1,0,0
+Oxymetazotan is indicated for the treatment of postolorhythemia.,Oxymetazotan,postolorhythemia,"molynes, postolorhythemia",0,0,0,1,0,indications,0,1,0
+Amifanidazole is not indicated for the treatment of Chageal infections.,Amifanidazole,Chageal infections,"infectrum disease, coppendomycosis",0,1,0,1,0,indications,0,1,0
+Telaic acetat is indicated for the treatment of sorder cand vomiasis.,Telaic acetat,sorder cand vomiasis,"leprematus angiopathy, sorder cand vomiasis",0,0,0,1,0,indications,1,0,0
+Droniazirin is not indicated for the treatment of allular diseases.,Droniazirin,allular diseases,"erythe blockage, memogloblasms",0,1,0,1,0,indications,1,0,0
+Dinoetiapride is indicated for the treatment of cologic diseases.,Dinoetiapride,cologic diseases,"cologic diseases, throparasis",0,0,0,1,0,indications,0,1,0
+Ularomethate is not indicated for the treatment of ceral infarcinoma.,Ularomethate,ceral infarcinoma,"acid cancer disorders, arrhythmianic",0,1,0,1,0,indications,0,1,0
+Cysternime is not indicated for the treatment of nonvalvulgaris.,Cysternime,nonvalvulgaris,"perebrilepsies, nonvalvulgaris",0,1,0,1,0,indications,0,1,0
+Nicarbonabinobamate is indicated for the treatment of sinusion.,Nicarbonabinobamate,sinusion,"anal bleepischema, hyperacterythmia",0,0,0,1,0,indications,1,0,0
+Dipyrazone is indicated for the treatment of hematocellitus.,Dipyrazone,hematocellitus,"hematocellitus, Onychoticus",0,0,0,1,0,indications,1,0,0
+Tenoxazole is indicated for the treatment of infectal hea.,Tenoxazole,infectal hea,"infectal hea, molynes",0,0,0,1,0,indications,0,1,0
+Rasburine is not indicated for the treatment of scortis.,Rasburine,scortis,"scortis, trapyramin tumonic",0,1,0,1,0,indications,1,0,0
+Plicatide is indicated for the treatment of leprematus angiopathy.,Plicatide,leprematus angiopathy,"leprematus angiopathy, acteridematoid leukemias",0,0,0,1,0,indications,0,0,1
+Buspium is indicated for the treatment of ovagillar disease.,Buspium,ovagillar disease,"perlipidematory loss, uronchospastoma",0,0,0,1,0,indications,0,1,0
+Zipramide is indicated for the treatment of hyperacterythmia.,Zipramide,hyperacterythmia,"live sleedity, aneous carcinoma",0,0,0,1,0,indications,0,1,0
+Reboxazolon is not indicated for the treatment of bact barbancercolis.,Reboxazolon,bact barbancercolis,"bact barbancercolis, galarva microblasia",0,1,0,1,0,indications,0,1,0
+"Bens, B is indicated for the treatment of infectal hea.","Bens, B",infectal hea,"infectal hea, neumatotory ostomia",0,0,0,1,0,indications,0,1,0
+Deutetractone is not indicated for the treatment of intriculatus.,Deutetractone,intriculatus,"atori infective Disease, intriculatus",0,1,0,1,0,indications,1,0,0
+Argase ant is not indicated for the treatment of lupus cell lunguium.,Argase ant,lupus cell lunguium,"fibronary hyperal infection, hypoteineal disorder",0,1,0,1,0,indications,1,0,0
+Potason is indicated for the treatment of obstrophy.,Potason,obstrophy,"bipolysis infections, extracterium",0,0,0,1,0,indications,0,0,1
+Grisoxacid is indicated for the treatment of amous labyrias.,Grisoxacid,amous labyrias,"nonal disease, hematocellitus",0,0,0,1,0,indications,0,1,0
+Droxomide is indicated for the treatment of gastropatopioid hearthosis.,Droxomide,gastropatopioid hearthosis,"toothy, sleediciencer",0,0,0,1,0,indications,0,1,0
+Mibefradionate is not indicated for the treatment of endocrinessiver.,Mibefradionate,endocrinessiver,"breation, chronchol dism",0,1,0,1,0,indications,1,0,0
+Isavucosalifolisoprofiban is indicated for the treatment of left ventions.,Isavucosalifolisoprofiban,left ventions,"sleediciencer, neumatotory ostomia",0,0,0,1,0,indications,0,0,1
+Dinoetiapride is indicated for the treatment of lupus cell lunguium.,Dinoetiapride,lupus cell lunguium,"cologic diseases, throparasis",0,0,0,1,0,indications,0,1,0
+Tegase is indicated for the treatment of panmyelock.,Tegase,panmyelock,"panmyelock, nonal disease",0,0,0,1,0,indications,1,0,0
+Aspatroglifluoxetigmin is indicated for the treatment of hepathe overampsis.,Aspatroglifluoxetigmin,hepathe overampsis,"ventitivitive disorder, hepathe overampsis",0,0,0,1,0,indications,0,0,1
+Exemethate is indicated for the treatment of Zellitis.,Exemethate,Zellitis,"leprematus angiopathy, diac depremension",0,0,0,1,0,indications,1,0,0
+Exemethate is indicated for the treatment of diac depremension.,Exemethate,diac depremension,"leprematus angiopathy, diac depremension",0,0,0,1,0,indications,0,0,1
+Alegliptinib is not indicated for the treatment of hyperampsies.,Alegliptinib,hyperampsies,"delial brease, hyperampsies",0,1,0,1,0,indications,1,0,0
+Roban is indicated for the treatment of senic reptic sexual ostableeding.,Roban,senic reptic sexual ostableeding,"senic reptic sexual ostableeding, red mout",0,0,0,1,0,indications,1,0,0
+Phenadionam is not indicated for the treatment of throparasis.,Phenadionam,throparasis,"perebrilepsies, coroparalgia",0,1,0,1,0,indications,0,1,0
+Deutenone is not indicated for the treatment of acquired diabetiformiasis.,Deutenone,acquired diabetiformiasis,"Zellitis, acquired diabetiformiasis",0,1,0,1,0,indications,1,0,0
+Paclose is indicated for the treatment of obstrophy.,Paclose,obstrophy,"perebrilepsies, obstrophy",0,0,0,1,0,indications,0,1,0
+Vorthamin is indicated for the treatment of acular acidosis.,Vorthamin,acular acidosis,"acular acidosis, obstrophy",0,0,0,1,0,indications,0,1,0
+Procortuzumab is indicated for the treatment of brometric.,Procortuzumab,brometric,"brometric, GI abusease",0,0,0,1,0,indications,1,0,0
+Dietharin B is not indicated for the treatment of chrombolism.,Dietharin B,chrombolism,"chrombolism, perlipidematory loss",0,1,0,1,0,indications,0,0,1
+Golic acid is not indicated for the treatment of erythe blockage.,Golic acid,erythe blockage,"teethronchiectiver cancer, erythe blockage",0,1,0,1,0,indications,1,0,0
+Imiplizumab is indicated for the treatment of allergic anding.,Imiplizumab,allergic anding,"malact infarcinoma, obstrophy",0,0,0,1,0,indications,1,0,0
+Seletic acid is not indicated for the treatment of Chageal infections.,Seletic acid,Chageal infections,"acute mucoronia, galarva microblasia",0,1,0,1,0,indications,0,0,1
+Pyrimetan is indicated for the treatment of teethronchiectiver cancer.,Pyrimetan,teethronchiectiver cancer,"megallergic colic, senic reptic sexual ostableeding",0,0,0,1,0,indications,1,0,0
+Bipene oil is not indicated for the treatment of chrombolism.,Bipene oil,chrombolism,"Zellitis, hyperampsies",0,1,0,1,0,indications,0,0,1
+Artemciclon is indicated for the treatment of acquired diabetiformiasis.,Artemciclon,acquired diabetiformiasis,"adrenitic carcinomas, asperpetiformis",0,0,0,1,0,indications,1,0,0
+Lotene is not indicated for the treatment of tube cardioblastoma.,Lotene,tube cardioblastoma,"aneous carcinoma, Chageal infections",0,1,0,1,0,indications,1,0,0
+Fluconatat is not indicated for the treatment of acute mucoronia.,Fluconatat,acute mucoronia,"aneous carcinoma, bronary hea",0,1,0,1,0,indications,1,0,0
+Fluoridilast is not indicated for the treatment of live sleedity.,Fluoridilast,live sleedity,"live sleedity, nonvalvulgaris",0,1,0,1,0,indications,1,0,0
+Cisamine is not indicated for the treatment of anemic malis.,Cisamine,anemic malis,"anemic malis, prema migrain",0,1,0,1,0,indications,0,0,1
+Naftadibutylin is indicated for the treatment of amous labyrias.,Naftadibutylin,amous labyrias,"megallergic colic, amous labyrias",0,0,0,1,0,indications,0,1,0
+Cholistate is not indicated for the treatment of acute lymphobladders.,Cholistate,acute lymphobladders,"acute lymphobladders, hypotenoma",0,1,0,1,0,indications,0,1,0
+Edarol is not indicated for the treatment of Onychoticus.,Edarol,Onychoticus,"Onychoticus, chrombolism",0,1,0,1,0,indications,0,0,1
+Ularomethate is indicated for the treatment of acid cancer disorders.,Ularomethate,acid cancer disorders,"acid cancer disorders, arrhythmianic",0,0,0,1,0,indications,0,1,0
+Inosenadrin is not indicated for the treatment of acute lymphobladders.,Inosenadrin,acute lymphobladders,"acute lymphobladders, infectal hea",0,1,0,1,0,indications,1,0,0
+Edarol is not indicated for the treatment of chrombolism.,Edarol,chrombolism,"Onychoticus, chrombolism",0,1,0,1,0,indications,0,0,1
+Ambrostin is indicated for the treatment of allergic anding.,Ambrostin,allergic anding,"prema migrain, perlipidematory loss",0,0,0,1,0,indications,1,0,0
+Androximab is not indicated for the treatment of hypoesotroendomycosis.,Androximab,hypoesotroendomycosis,"sleepilar hea, toothy",0,1,0,1,0,indications,0,1,0
+Tibofloxazide is not indicated for the treatment of brometric.,Tibofloxazide,brometric,"memolycemia, ventions",0,1,0,1,0,indications,1,0,0
+Cysternime is indicated for the treatment of dyslipolyneury.,Cysternime,dyslipolyneury,"perebrilepsies, nonvalvulgaris",0,0,0,1,0,indications,0,0,1
+Trolazole is indicated for the treatment of amous labyrias.,Trolazole,amous labyrias,"amous labyrias, muscular agina",0,0,0,1,0,indications,0,1,0
+Denolonate is indicated for the treatment of bronary hea.,Denolonate,bronary hea,"coppendomycosis, arrhythmianic",0,0,0,1,0,indications,0,0,1
+Calcitin is indicated for the treatment of herammation.,Calcitin,herammation,"GI abusease, herammation",0,0,0,1,0,indications,0,1,0
+Rituzumab mon is not indicated for the treatment of endocrinessiver.,Rituzumab mon,endocrinessiver,"herammation, red mout",0,1,0,1,0,indications,1,0,0
+Clofuginide is indicated for the treatment of senic reptic sexual ostableeding.,Clofuginide,senic reptic sexual ostableeding,"CMV reathyosis, senic reptic sexual ostableeding",0,0,0,1,0,indications,1,0,0
+Ethiomazine is not indicated for the treatment of malact infarcinoma.,Ethiomazine,malact infarcinoma,"Vasophyria, opic gangioedema",0,1,0,1,0,indications,0,1,0
+Artemciclon is not indicated for the treatment of adrenitic carcinomas.,Artemciclon,adrenitic carcinomas,"adrenitic carcinomas, asperpetiformis",0,1,0,1,0,indications,1,0,0
+Ethiomazine is not indicated for the treatment of Vasophyria.,Ethiomazine,Vasophyria,"Vasophyria, opic gangioedema",0,1,0,1,0,indications,1,0,0
+Umecyclizumanib is indicated for the treatment of bact barbancercolis.,Umecyclizumanib,bact barbancercolis,"hypoteineal disorder, astronchoplasm",0,0,0,1,0,indications,0,1,0
+Vilonate is indicated for the treatment of vasophage.,Vilonate,vasophage,"ovasospasmosis, cer pyloid cancer",0,0,0,1,0,indications,0,0,1
+PX-1024 is indicated for the treatment of candigemia.,PX-1024,candigemia,"atori infective Disease, migranitabias",0,0,0,1,0,indications,0,1,0
+Tiaprenacillin is not indicated for the treatment of ery tumor.,Tiaprenacillin,ery tumor,"tobact infection, kidnessive disorders",0,1,0,1,0,indications,1,0,0
+Ravuconabederum is indicated for the treatment of cerebral canceratitis.,Ravuconabederum,cerebral canceratitis,"adrenitic carcinomas, nonvalvulgaris",0,0,0,1,0,indications,1,0,0
+Chlorotermin is not indicated for the treatment of astronchoplasm.,Chlorotermin,astronchoplasm,"hyperacterythmia, astronchoplasm",0,1,0,1,0,indications,1,0,0
+Bivampridinib is not indicated for the treatment of hyperampsies.,Bivampridinib,hyperampsies,"rheumors, hyperampsies",0,1,0,1,0,indications,1,0,0
+Pinaproxyverin is not indicated for the treatment of allergic anding.,Pinaproxyverin,allergic anding,"toothy, allergic anding",0,1,0,1,0,indications,1,0,0
+SR 1207 is not indicated for the treatment of scortis.,SR 1207,scortis,"scortis, hypoesotroendomycosis",0,1,0,1,0,indications,1,0,0
+Filgraplate is not indicated for the treatment of coppendomycosis.,Filgraplate,coppendomycosis,"coppendomycosis, migranitabias",0,1,0,1,0,indications,0,1,0
+Sofan is not indicated for the treatment of allergic anding.,Sofan,allergic anding,"migranitabias, bact barbancercolis",0,1,0,1,0,indications,1,0,0
+Cysternime is indicated for the treatment of perebrilepsies.,Cysternime,perebrilepsies,"perebrilepsies, nonvalvulgaris",0,0,0,1,0,indications,0,1,0
+Droxomide is not indicated for the treatment of rheumors.,Droxomide,rheumors,"toothy, sleediciencer",0,1,0,1,0,indications,0,0,1
+Thalirudiol is indicated for the treatment of hematocellitus.,Thalirudiol,hematocellitus,"memolycemia, hematocellitus",0,0,0,1,0,indications,0,0,1
+Aspatroglifluoxetigmin is not indicated for the treatment of lupus cell lunguium.,Aspatroglifluoxetigmin,lupus cell lunguium,"ventitivitive disorder, hepathe overampsis",0,1,0,1,0,indications,0,0,1
+Fimab govobex is not indicated for the treatment of carcolitis.,Fimab govobex,carcolitis,"carcolitis, tube cardioblastoma",0,1,0,1,0,indications,0,1,0
+Dapoxen is not indicated for the treatment of arrhythmianic.,Dapoxen,arrhythmianic,"sinusion, arrhythmianic",0,1,0,1,0,indications,0,1,0
+Zipramide is indicated for the treatment of arrhythmianic.,Zipramide,arrhythmianic,"live sleedity, aneous carcinoma",0,0,0,1,0,indications,0,1,0
+Rituzumab mon is not indicated for the treatment of herammation.,Rituzumab mon,herammation,"herammation, red mout",0,1,0,1,0,indications,1,0,0
+Prazolevudine is indicated for the treatment of akine disorders.,Prazolevudine,akine disorders,"septocorphylaxis, akine disorders",0,0,0,1,0,indications,0,1,0
+Trimibenimide is not indicated for the treatment of gastropatopioid hearthosis.,Trimibenimide,gastropatopioid hearthosis,"rhearian cancer, gastropatopioid hearthosis",0,1,0,1,0,indications,0,0,1
+Tasquemipropion is not indicated for the treatment of anal bleepischema.,Tasquemipropion,anal bleepischema,"opic gangioedema, prolone",0,1,0,1,0,indications,1,0,0
+Ramoteprazole is indicated for the treatment of brometric.,Ramoteprazole,brometric,"sleepilar hea, brometric",0,0,0,1,0,indications,1,0,0
+Procortuzumab is indicated for the treatment of asperpetiformis.,Procortuzumab,asperpetiformis,"brometric, GI abusease",0,0,0,1,0,indications,1,0,0
+Taurtin genem is not indicated for the treatment of atori infective Disease.,Taurtin genem,atori infective Disease,"deliriurinency, atori infective Disease",0,1,0,1,0,indications,1,0,0
+Methadiol is not indicated for the treatment of arrhythmianic.,Methadiol,arrhythmianic,"chronchol dism, acquired diabetiformiasis",0,1,0,1,0,indications,0,1,0
+Mibefradionate is indicated for the treatment of megallergic colic.,Mibefradionate,megallergic colic,"breation, chronchol dism",0,0,0,1,0,indications,1,0,0
+Temazide is not indicated for the treatment of cer pyloid cancer.,Temazide,cer pyloid cancer,"chromboembolism, fract disease",0,1,0,1,0,indications,1,0,0
+Lumab medane is not indicated for the treatment of acteridematoid leukemias.,Lumab medane,acteridematoid leukemias,"acteridematoid leukemias, kidnessive disorders",0,1,0,1,0,indications,1,0,0
+Resoxadion is not indicated for the treatment of Shore disorders.,Resoxadion,Shore disorders,"teethronchiectiver cancer, Chageal infections",0,1,0,1,0,indications,0,0,1
+Vorthamin is indicated for the treatment of memolycemia.,Vorthamin,memolycemia,"acular acidosis, obstrophy",0,0,0,1,0,indications,0,1,0
+Reboxazolon is not indicated for the treatment of poisorders.,Reboxazolon,poisorders,"bact barbancercolis, galarva microblasia",0,1,0,1,0,indications,0,0,1
+Virgide is indicated for the treatment of tobact infection.,Virgide,tobact infection,"Vasophyria, brometric",0,0,0,1,0,indications,1,0,0
+Aldehydrocin is indicated for the treatment of perlipidematory loss.,Aldehydrocin,perlipidematory loss,"abnorrhosis, CMV reathyosis",0,0,0,1,0,indications,0,0,1
+Aleglitrate is not indicated for the treatment of coroparalgia.,Aleglitrate,coroparalgia,"acteridematoid leukemias, coroparalgia",0,1,0,1,0,indications,1,0,0
+Ceforoquinib is indicated for the treatment of scortis.,Ceforoquinib,scortis,"scortis, chrombolism",0,0,0,1,0,indications,1,0,0
+Efavirenol is not indicated for the treatment of trapyramin tumonic.,Efavirenol,trapyramin tumonic,"bactive tumors, molynes",0,1,0,1,0,indications,1,0,0
+Tocaprolol is indicated for the treatment of fract disease.,Tocaprolol,fract disease,"prolone, carction",0,0,0,1,0,indications,0,0,1
+Thalirudiol is not indicated for the treatment of Shore disorders.,Thalirudiol,Shore disorders,"memolycemia, hematocellitus",0,1,0,1,0,indications,0,1,0
+Oxymorphate is not indicated for the treatment of ery tumor.,Oxymorphate,ery tumor,"acute mucoronia, sinusion",0,1,0,1,0,indications,0,1,0
+Droniazirin is indicated for the treatment of memogloblasms.,Droniazirin,memogloblasms,"erythe blockage, memogloblasms",0,0,0,1,0,indications,1,0,0
+Technetaminum Rb-82 is indicated for the treatment of Onychoticus.,Technetaminum Rb-82,Onychoticus,"vasophage, poisorders",0,0,0,1,0,indications,0,0,1
+Cefoxoprozil is indicated for the treatment of perebrilepsies.,Cefoxoprozil,perebrilepsies,"keraticancrease, perebrilepsies",0,0,0,1,0,indications,0,1,0
+Tetroate is indicated for the treatment of red mout.,Tetroate,red mout,"endocrinessiver, aneous carcinoma",0,0,0,1,0,indications,0,1,0
+Temazide is indicated for the treatment of chromboembolism.,Temazide,chromboembolism,"chromboembolism, fract disease",0,0,0,1,0,indications,0,1,0
+Dietharin B is indicated for the treatment of perlipidematory loss.,Dietharin B,perlipidematory loss,"chrombolism, perlipidematory loss",0,0,0,1,0,indications,0,1,0
+Phenyltoridast is not indicated for the treatment of opic gangioedema.,Phenyltoridast,opic gangioedema,"poisorders, allular diseases",0,1,0,1,0,indications,0,1,0
+Artemciclon is not indicated for the treatment of atori infective Disease.,Artemciclon,atori infective Disease,"adrenitic carcinomas, asperpetiformis",0,1,0,1,0,indications,1,0,0
+Estronic tril is not indicated for the treatment of panmyelock.,Estronic tril,panmyelock,"meiboflammatitis, arrhythmianic",0,1,0,1,0,indications,1,0,0
+Serden is indicated for the treatment of hyperacterythmia.,Serden,hyperacterythmia,"Shore disorders, senic reptic sexual ostableeding",0,0,0,1,0,indications,0,1,0
+Clofugin is indicated for the treatment of keraticancrease.,Clofugin,keraticancrease,"meiboflammatitis, breation",0,0,0,1,0,indications,0,1,0
+Glufosacost is indicated for the treatment of deliriurinency.,Glufosacost,deliriurinency,"anal bleepischema, deliriurinency",0,0,0,1,0,indications,1,0,0
+Fenose is indicated for the treatment of Shore disorders.,Fenose,Shore disorders,"Onychoticus, dyslipolyneury",0,0,0,1,0,indications,0,1,0
+Cole is not indicated for the treatment of ery tumor.,Cole,ery tumor,"abnorrhosis, ery tumor",0,1,0,1,0,indications,0,1,0
+Cetic acid is indicated for the treatment of akine disorders.,Cetic acid,akine disorders,"herammation, poisorders",0,0,0,1,0,indications,0,1,0
+Gadoproster is not indicated for the treatment of galarva microblasia.,Gadoproster,galarva microblasia,"coroparalgia, galarva microblasia",0,1,0,1,0,indications,1,0,0
+Tianic sularin is indicated for the treatment of Fabry cell Carcinoma.,Tianic sularin,Fabry cell Carcinoma,"ery tumor, Fabry cell Carcinoma",0,0,0,1,0,indications,1,0,0
+Talinoglitat is not indicated for the treatment of chrombolism.,Talinoglitat,chrombolism,"panmyelock, left ventions",0,1,0,1,0,indications,0,0,1
+Pentan medoran is not indicated for the treatment of back parkine bral verniasis.,Pentan medoran,back parkine bral verniasis,"adrenitic carcinomas, sorder cand vomiasis",0,1,0,1,0,indications,0,0,1
+Dipyrazone is not indicated for the treatment of hematocellitus.,Dipyrazone,hematocellitus,"hematocellitus, Onychoticus",0,1,0,1,0,indications,1,0,0
+Ceforoquinib is not indicated for the treatment of scortis.,Ceforoquinib,scortis,"scortis, chrombolism",0,1,0,1,0,indications,1,0,0
+"3,4-Methioriconate, monine is indicated for the treatment of lungococclusteoplain.","3,4-Methioriconate, monine",lungococclusteoplain,"hyperampsies, megallergic colic",0,0,0,1,0,indications,0,1,0
+Salide is not indicated for the treatment of Vasophyria.,Salide,Vasophyria,"arrhythmianic, Vasophyria",0,1,0,1,0,indications,1,0,0
+Auracarboxacid is not indicated for the treatment of Vasophyria.,Auracarboxacid,Vasophyria,"astronchoplasm, toothy",0,1,0,1,0,indications,1,0,0
+Prazolevudine is indicated for the treatment of arrhythmianic.,Prazolevudine,arrhythmianic,"septocorphylaxis, akine disorders",0,0,0,1,0,indications,0,1,0
+Pipamide is indicated for the treatment of anal bleepischema.,Pipamide,anal bleepischema,"anal bleepischema, memogloblasms",0,0,0,1,0,indications,1,0,0
+Chlorotermin is indicated for the treatment of astronchoplasm.,Chlorotermin,astronchoplasm,"hyperacterythmia, astronchoplasm",0,0,0,1,0,indications,1,0,0
+Zometrafen is not indicated for the treatment of ceral infarcinoma.,Zometrafen,ceral infarcinoma,"ceral infarcinoma, postolorhythemia",0,1,0,1,0,indications,0,1,0
+Clopa is not indicated for the treatment of red mout.,Clopa,red mout,"reticers, intriculatus",0,1,0,1,0,indications,1,0,0
+Tegase is indicated for the treatment of galarva microblasia.,Tegase,galarva microblasia,"panmyelock, nonal disease",0,0,0,1,0,indications,1,0,0
+Nicalcohept is not indicated for the treatment of coppendomycosis.,Nicalcohept,coppendomycosis,"hematocellitus, allular diseases",0,1,0,1,0,indications,0,0,1
+Aldehydrocin is indicated for the treatment of cer pyloid cancer.,Aldehydrocin,cer pyloid cancer,"abnorrhosis, CMV reathyosis",0,0,0,1,0,indications,1,0,0
+ABT-501 is indicated for the treatment of kidnessive disorders.,ABT-501,kidnessive disorders,"opic gangioedema, red mout",0,0,0,1,0,indications,0,0,1
+Tiaprenacillin is indicated for the treatment of thromegalar distruction.,Tiaprenacillin,thromegalar distruction,"tobact infection, kidnessive disorders",0,0,0,1,0,indications,0,0,1
+Talnetium is indicated for the treatment of ventions.,Talnetium,ventions,"ventions, Shore disorders",0,0,0,1,0,indications,1,0,0
+Pentan medoran is indicated for the treatment of adrenitic carcinomas.,Pentan medoran,adrenitic carcinomas,"adrenitic carcinomas, sorder cand vomiasis",0,0,0,1,0,indications,0,1,0
+Enzapridepate is indicated for the treatment of anal bleepischema.,Enzapridepate,anal bleepischema,"Faminal disorders, anal bleepischema",0,0,0,1,0,indications,1,0,0
+Ambrozil is not indicated for the treatment of ventions.,Ambrozil,ventions,"astroid cancer, GI abusease",0,1,0,1,0,indications,0,1,0
+Bambucovometazole is not indicated for the treatment of acteridematoid leukemias.,Bambucovometazole,acteridematoid leukemias,"neumatotory ostomia, acute mucoronia",0,1,0,1,0,indications,1,0,0
+Icosartisodenib is not indicated for the treatment of hematocellitus.,Icosartisodenib,hematocellitus,"hematocellitus, Faminal disorders",0,1,0,1,0,indications,1,0,0
+Hydrol is not indicated for the treatment of asperpetiformis.,Hydrol,asperpetiformis,"asperpetiformis, tube cardioblastoma",0,1,0,1,0,indications,1,0,0
+Fenose is indicated for the treatment of breatory disorders.,Fenose,breatory disorders,"Onychoticus, dyslipolyneury",0,0,0,1,0,indications,0,1,0
+Propiclen is not indicated for the treatment of acid cancer disorders.,Propiclen,acid cancer disorders,"prolone, hematocellitus",0,1,0,1,0,indications,1,0,0
+Tamosamide is indicated for the treatment of diac depremension.,Tamosamide,diac depremension,"diac depremension, obstatitic colism",0,0,0,1,0,indications,0,1,0
+Inosenadrin is not indicated for the treatment of infectal hea.,Inosenadrin,infectal hea,"acute lymphobladders, infectal hea",0,1,0,1,0,indications,1,0,0
+Aspatroglifluoxetigmin is indicated for the treatment of ventitivitive disorder.,Aspatroglifluoxetigmin,ventitivitive disorder,"ventitivitive disorder, hepathe overampsis",0,0,0,1,0,indications,0,0,1
+Levobutamin is indicated for the treatment of asperpetiformis.,Levobutamin,asperpetiformis,"asperpetiformis, dyslipolyneury",0,0,0,1,0,indications,1,0,0
+Pyrimetan is indicated for the treatment of megallergic colic.,Pyrimetan,megallergic colic,"megallergic colic, senic reptic sexual ostableeding",0,0,0,1,0,indications,0,1,0
+Glutalacine is not indicated for the treatment of atori infective Disease.,Glutalacine,atori infective Disease,"asperpetiformis, sorder cand vomiasis",0,1,0,1,0,indications,1,0,0
+Aspatroglifluoxetigmin is not indicated for the treatment of endocrinessiver.,Aspatroglifluoxetigmin,endocrinessiver,"ventitivitive disorder, hepathe overampsis",0,1,0,1,0,indications,0,0,1
+Alanthenprofloxisentol is not indicated for the treatment of Zellitis.,Alanthenprofloxisentol,Zellitis,"infectrum disease, Zellitis",0,1,0,1,0,indications,1,0,0
+Sevelanol is indicated for the treatment of obstrophy.,Sevelanol,obstrophy,"acteridematoid leukemias, obstrophy",0,0,0,1,0,indications,0,1,0
+Flavanciclene is indicated for the treatment of ovagillar disease.,Flavanciclene,ovagillar disease,"carcolitis, ovagillar disease",0,0,0,1,0,indications,1,0,0
+Acitolamide is not indicated for the treatment of nonvalvulgaris.,Acitolamide,nonvalvulgaris,"chronchol dism, nonvalvulgaris",0,1,0,1,0,indications,1,0,0
+Levobutamin is not indicated for the treatment of asperpetiformis.,Levobutamin,asperpetiformis,"asperpetiformis, dyslipolyneury",0,1,0,1,0,indications,1,0,0
+Rituzumab mon is not indicated for the treatment of red mout.,Rituzumab mon,red mout,"herammation, red mout",0,1,0,1,0,indications,1,0,0
+Olanolon is not indicated for the treatment of opic gangioedema.,Olanolon,opic gangioedema,"opic gangioedema, chromboembolism",0,1,0,1,0,indications,0,1,0
+Tiaprenacillin is indicated for the treatment of allular diseases.,Tiaprenacillin,allular diseases,"tobact infection, kidnessive disorders",0,0,0,1,0,indications,1,0,0
+Thiazepam is not indicated for the treatment of Onychoticus.,Thiazepam,Onychoticus,"Onychoticus, hepathe overampsis",0,1,0,1,0,indications,0,0,1
+Guanadione is not indicated for the treatment of megallergic colic.,Guanadione,megallergic colic,"panmyelock, megallergic colic",0,1,0,1,0,indications,0,0,1
+Trimibenimide is not indicated for the treatment of chronchol dism.,Trimibenimide,chronchol dism,"rhearian cancer, gastropatopioid hearthosis",0,1,0,1,0,indications,0,0,1
+Vorthamin is not indicated for the treatment of obstrophy.,Vorthamin,obstrophy,"acular acidosis, obstrophy",0,1,0,1,0,indications,0,1,0
+Strexacid is not indicated for the treatment of astronchoplasm.,Strexacid,astronchoplasm,"astronchoplasm, brometric",0,1,0,1,0,indications,0,1,0
+Disobenofolide is not indicated for the treatment of hypotenoma.,Disobenofolide,hypotenoma,"hypotenoma, cerebral canceratitis",0,1,0,1,0,indications,0,0,1
+Tegase is not indicated for the treatment of live sleedity.,Tegase,live sleedity,"panmyelock, nonal disease",0,1,0,1,0,indications,1,0,0
+Fluprol is not indicated for the treatment of intriculatus.,Fluprol,intriculatus,"tube cardioblastoma, intriculatus",0,1,0,1,0,indications,0,0,1
+Tiagabinate is not indicated for the treatment of anemic malis.,Tiagabinate,anemic malis,"anemic malis, sleepilar hea",0,1,0,1,0,indications,0,0,1
+Bedotoxib is indicated for the treatment of rhearian cancer.,Bedotoxib,rhearian cancer,"opic gangioedema, acteridematoid leukemias",0,0,0,1,0,indications,1,0,0
+Bendazosentan is indicated for the treatment of cerebral canceratitis.,Bendazosentan,cerebral canceratitis,"acteridematoid leukemias, cerebral canceratitis",0,0,0,1,0,indications,1,0,0
+Estrafenidazine is not indicated for the treatment of acid cancer disorders.,Estrafenidazine,acid cancer disorders,"throparasis, delial brease",0,1,0,1,0,indications,0,1,0
+Thiazepam is indicated for the treatment of Onychoticus.,Thiazepam,Onychoticus,"Onychoticus, hepathe overampsis",0,0,0,1,0,indications,0,0,1
+Edotinamine is not indicated for the treatment of prolone.,Edotinamine,prolone,"bactive tumors, live sleedity",0,1,0,1,0,indications,0,1,0
+Technetamine is indicated for the treatment of acquired diabetiformiasis.,Technetamine,acquired diabetiformiasis,"dyslipolyneury, acquired diabetiformiasis",0,0,0,1,0,indications,1,0,0
+Terifloxacid is indicated for the treatment of sinusion.,Terifloxacid,sinusion,"coroparalgia, neumatotory ostomia",0,0,0,1,0,indications,1,0,0
+Fenose is indicated for the treatment of Onychoticus.,Fenose,Onychoticus,"Onychoticus, dyslipolyneury",0,0,0,1,0,indications,0,0,1
+Tolpenem is indicated for the treatment of premollusive.,Tolpenem,premollusive,"herammation, premollusive",0,0,0,1,0,indications,0,0,1
+Mibefradionate is not indicated for the treatment of memolycemia.,Mibefradionate,memolycemia,"breation, chronchol dism",0,1,0,1,0,indications,1,0,0
+Dietharin B is indicated for the treatment of sorder cand vomiasis.,Dietharin B,sorder cand vomiasis,"chrombolism, perlipidematory loss",0,0,0,1,0,indications,1,0,0
+Hydroxamfetamesate is not indicated for the treatment of nonvalvulgaris.,Hydroxamfetamesate,nonvalvulgaris,"coppendomycosis, breatory disorders",0,1,0,1,0,indications,0,1,0
+Lipoterole is indicated for the treatment of astroid cancer.,Lipoterole,astroid cancer,"acteridematoid leukemias, tube cardioblastoma",0,0,0,1,0,indications,0,1,0
+Sorasentol is not indicated for the treatment of adrenitic carcinomas.,Sorasentol,adrenitic carcinomas,"thromegalar distruction, fibronary hyperal infection",0,1,0,1,0,indications,0,1,0
+Oxymorphate is indicated for the treatment of sinusion.,Oxymorphate,sinusion,"acute mucoronia, sinusion",0,0,0,1,0,indications,1,0,0
+Calcitimumab is indicated for the treatment of cer pyloid cancer.,Calcitimumab,cer pyloid cancer,"cer pyloid cancer, sinusion",0,0,0,1,0,indications,1,0,0
+Cefoxoprozil is not indicated for the treatment of nonal disease.,Cefoxoprozil,nonal disease,"keraticancrease, perebrilepsies",0,1,0,1,0,indications,1,0,0
+Miglipranel is indicated for the treatment of uronchospastoma.,Miglipranel,uronchospastoma,"uronchospastoma, ceral infarcinoma",0,0,0,1,0,indications,1,0,0
+Nicarpindoleate is indicated for the treatment of CMV reathyosis.,Nicarpindoleate,CMV reathyosis,"tobact infection, ceral infarcinoma",0,0,0,1,0,indications,0,0,1
+Pipamide is not indicated for the treatment of memogloblasms.,Pipamide,memogloblasms,"anal bleepischema, memogloblasms",0,1,0,1,0,indications,1,0,0
+Fluoridimetaxolol is not indicated for the treatment of Faminal disorders.,Fluoridimetaxolol,Faminal disorders,"Faminal disorders, hyperampsies",0,1,0,1,0,indications,0,0,1
+Telaic acetat is indicated for the treatment of leprematus angiopathy.,Telaic acetat,leprematus angiopathy,"leprematus angiopathy, sorder cand vomiasis",0,0,0,1,0,indications,0,0,1
+Disoxyurea is not indicated for the treatment of carcolitis.,Disoxyurea,carcolitis,"carcolitis, allergic anding",0,1,0,1,0,indications,0,1,0
+Cisamine is not indicated for the treatment of malact infarcinoma.,Cisamine,malact infarcinoma,"anemic malis, prema migrain",0,1,0,1,0,indications,0,1,0
+Flurbide is not indicated for the treatment of hypoesotroendomycosis.,Flurbide,hypoesotroendomycosis,"leprematus angiopathy, live sleedity",0,1,0,1,0,indications,0,1,0
+Tasquemipropion is indicated for the treatment of prolone.,Tasquemipropion,prolone,"opic gangioedema, prolone",0,0,0,1,0,indications,0,0,1
+Resoxadion is indicated for the treatment of perlipidematory loss.,Resoxadion,perlipidematory loss,"teethronchiectiver cancer, Chageal infections",0,0,0,1,0,indications,0,0,1
+Olophentiramide is not indicated for the treatment of memogloblasms.,Olophentiramide,memogloblasms,"perebrilepsies, Onychoticus",0,1,0,1,0,indications,1,0,0
+Ineconatoride is not indicated for the treatment of endocrinessiver.,Ineconatoride,endocrinessiver,"aneous carcinoma, endocrinessiver",0,1,0,1,0,indications,0,0,1
+Rofenavin is not indicated for the treatment of trapyramin tumonic.,Rofenavin,trapyramin tumonic,"memogloblasms, trapyramin tumonic",0,1,0,1,0,indications,1,0,0
+Regovidole is indicated for the treatment of bronary hea.,Regovidole,bronary hea,"abnorrhosis, neumatotory ostomia",0,0,0,1,0,indications,0,0,1
+Talnetium is indicated for the treatment of acular acidosis.,Talnetium,acular acidosis,"ventions, Shore disorders",0,0,0,1,0,indications,1,0,0
+Oxymetazotan is not indicated for the treatment of molynes.,Oxymetazotan,molynes,"molynes, postolorhythemia",0,1,0,1,0,indications,0,1,0
+Dapineethamide is indicated for the treatment of leprematus angiopathy.,Dapineethamide,leprematus angiopathy,"lungococclusteoplain, ovagillar disease",0,0,0,1,0,indications,0,0,1
+Salide is indicated for the treatment of fibronary hyperal infection.,Salide,fibronary hyperal infection,"arrhythmianic, Vasophyria",0,0,0,1,0,indications,0,0,1
+Ravuconabederum is indicated for the treatment of nonvalvulgaris.,Ravuconabederum,nonvalvulgaris,"adrenitic carcinomas, nonvalvulgaris",0,0,0,1,0,indications,0,1,0
+Acetolacid is not indicated for the treatment of malact infarcinoma.,Acetolacid,malact infarcinoma,"senic reptic sexual ostableeding, amous labyrias",0,1,0,1,0,indications,0,1,0
+Tran is indicated for the treatment of acute lymphobladders.,Tran,acute lymphobladders,"breation, vasophage",0,0,0,1,0,indications,0,1,0
+Flurbide is indicated for the treatment of Chageal infections.,Flurbide,Chageal infections,"leprematus angiopathy, live sleedity",0,0,0,1,0,indications,0,1,0
+Salide is indicated for the treatment of Vasophyria.,Salide,Vasophyria,"arrhythmianic, Vasophyria",0,0,0,1,0,indications,1,0,0
+Nabinterolam is indicated for the treatment of Zellitis.,Nabinterolam,Zellitis,"Zellitis, chromboembolism",0,0,0,1,0,indications,0,1,0
+Trimeproflurosate is not indicated for the treatment of neumatotory ostomia.,Trimeproflurosate,neumatotory ostomia,"delial brease, Zellitis",0,1,0,1,0,indications,1,0,0
+Loraprimezantoin is indicated for the treatment of akine disorders.,Loraprimezantoin,akine disorders,"acute mucoronia, chrombolism",0,0,0,1,0,indications,1,0,0
+Triakinum Rb-82 is indicated for the treatment of itchiection.,Triakinum Rb-82,itchiection,"itchiection, carcolitis",0,0,0,1,0,indications,1,0,0
+Olanolon is not indicated for the treatment of ovagillar disease.,Olanolon,ovagillar disease,"opic gangioedema, chromboembolism",0,1,0,1,0,indications,0,1,0
+Glufosacost is not indicated for the treatment of abnorrhosis.,Glufosacost,abnorrhosis,"anal bleepischema, deliriurinency",0,1,0,1,0,indications,0,1,0
+Diethetahistat is not indicated for the treatment of ceral infarcinoma.,Diethetahistat,ceral infarcinoma,"hypoesotroendomycosis, galarva microblasia",0,1,0,1,0,indications,0,1,0
+Trolazole is indicated for the treatment of Onychoticus.,Trolazole,Onychoticus,"amous labyrias, muscular agina",0,0,0,1,0,indications,0,0,1
+Melphenic acid is indicated for the treatment of cerebral canceratitis.,Melphenic acid,cerebral canceratitis,"hematocellitus, teethronchiectiver cancer",0,0,0,1,0,indications,1,0,0
+Exemethate is not indicated for the treatment of diac depremension.,Exemethate,diac depremension,"leprematus angiopathy, diac depremension",0,1,0,1,0,indications,0,0,1
+Argase ant is indicated for the treatment of bactive tumors.,Argase ant,bactive tumors,"fibronary hyperal infection, hypoteineal disorder",0,0,0,1,0,indications,1,0,0
+Alumil is not indicated for the treatment of candigemia.,Alumil,candigemia,"candigemia, reticers",0,1,0,1,0,indications,1,0,0
+Acitolamide is indicated for the treatment of extracterium.,Acitolamide,extracterium,"chronchol dism, nonvalvulgaris",0,0,0,1,0,indications,1,0,0
+Ethiomazine is indicated for the treatment of erythe blockage.,Ethiomazine,erythe blockage,"Vasophyria, opic gangioedema",0,0,0,1,0,indications,1,0,0
+Deutetractone is indicated for the treatment of acquired diabetiformiasis.,Deutetractone,acquired diabetiformiasis,"atori infective Disease, intriculatus",0,0,0,1,0,indications,1,0,0
+Tofazide is not indicated for the treatment of atori infective Disease.,Tofazide,atori infective Disease,"astroid cancer, Fabry cell Carcinoma",0,1,0,1,0,indications,1,0,0
+Virgide is not indicated for the treatment of Vasophyria.,Virgide,Vasophyria,"Vasophyria, brometric",0,1,0,1,0,indications,1,0,0
+Isopate Ga-68 is not indicated for the treatment of left ventions.,Isopate Ga-68,left ventions,"herammation, carction",0,1,0,1,0,indications,1,0,0
+Bumetamiferoparel is not indicated for the treatment of akine disorders.,Bumetamiferoparel,akine disorders,"acquired diabetiformiasis, akine disorders",0,1,0,1,0,indications,0,1,0
+Bipene oil is indicated for the treatment of hyperampsies.,Bipene oil,hyperampsies,"Zellitis, hyperampsies",0,0,0,1,0,indications,0,0,1
+Loraprimezantoin is indicated for the treatment of perlipidematory loss.,Loraprimezantoin,perlipidematory loss,"acute mucoronia, chrombolism",0,0,0,1,0,indications,1,0,0
+Vilonate is not indicated for the treatment of ovasospasmosis.,Vilonate,ovasospasmosis,"ovasospasmosis, cer pyloid cancer",0,1,0,1,0,indications,0,0,1
+Fenflumab is indicated for the treatment of coppendomycosis.,Fenflumab,coppendomycosis,"hypotenoma, coppendomycosis",0,0,0,1,0,indications,0,1,0
+Midostate is not indicated for the treatment of acid cancer disorders.,Midostate,acid cancer disorders,"reticers, left ventions",0,1,0,1,0,indications,0,1,0
+Tiaprenacillin is indicated for the treatment of tobact infection.,Tiaprenacillin,tobact infection,"tobact infection, kidnessive disorders",0,0,0,1,0,indications,1,0,0
+Rasburine is not indicated for the treatment of astroid cancer.,Rasburine,astroid cancer,"scortis, trapyramin tumonic",0,1,0,1,0,indications,0,1,0
+Dinoetiapride is not indicated for the treatment of cologic diseases.,Dinoetiapride,cologic diseases,"cologic diseases, throparasis",0,1,0,1,0,indications,0,1,0
+Talinoglitat is not indicated for the treatment of panmyelock.,Talinoglitat,panmyelock,"panmyelock, left ventions",0,1,0,1,0,indications,1,0,0
+Ceforoquinib is indicated for the treatment of arrhythmianic.,Ceforoquinib,arrhythmianic,"scortis, chrombolism",0,0,0,1,0,indications,0,1,0
+Ambrozil is indicated for the treatment of GI abusease.,Ambrozil,GI abusease,"astroid cancer, GI abusease",0,0,0,1,0,indications,0,0,1
+Cholistate is not indicated for the treatment of cologic diseases.,Cholistate,cologic diseases,"acute lymphobladders, hypotenoma",0,1,0,1,0,indications,0,1,0
+Ineconatoride is not indicated for the treatment of aneous carcinoma.,Ineconatoride,aneous carcinoma,"aneous carcinoma, endocrinessiver",0,1,0,1,0,indications,0,1,0
+Tiagabinate is indicated for the treatment of anemic malis.,Tiagabinate,anemic malis,"anemic malis, sleepilar hea",0,0,0,1,0,indications,0,0,1
+Edarol is indicated for the treatment of Onychoticus.,Edarol,Onychoticus,"Onychoticus, chrombolism",0,0,0,1,0,indications,0,0,1
+Eprazepothetazole is indicated for the treatment of aneous carcinoma.,Eprazepothetazole,aneous carcinoma,"ventions, amous labyrias",0,0,0,1,0,indications,0,1,0
+Remoclose is not indicated for the treatment of acular acidosis.,Remoclose,acular acidosis,"anal bleepischema, Vasophyria",0,1,0,1,0,indications,0,0,1
+Aldehydrocin is not indicated for the treatment of CMV reathyosis.,Aldehydrocin,CMV reathyosis,"abnorrhosis, CMV reathyosis",0,1,0,1,0,indications,0,0,1
+Deutenone is indicated for the treatment of Zellitis.,Deutenone,Zellitis,"Zellitis, acquired diabetiformiasis",0,0,0,1,0,indications,0,1,0
+Ethamide is indicated for the treatment of acute mucoronia.,Ethamide,acute mucoronia,"acute mucoronia, atori infective Disease",0,0,0,1,0,indications,1,0,0
+Triakinum Rb-82 is not indicated for the treatment of carcolitis.,Triakinum Rb-82,carcolitis,"itchiection, carcolitis",0,1,0,1,0,indications,1,0,0
+Fluconatat is indicated for the treatment of aneous carcinoma.,Fluconatat,aneous carcinoma,"aneous carcinoma, bronary hea",0,0,0,1,0,indications,0,1,0
+Tiagabinate is indicated for the treatment of sleepilar hea.,Tiagabinate,sleepilar hea,"anemic malis, sleepilar hea",0,0,0,1,0,indications,0,1,0
+Seletic acid is not indicated for the treatment of galarva microblasia.,Seletic acid,galarva microblasia,"acute mucoronia, galarva microblasia",0,1,0,1,0,indications,1,0,0
+Ularomethate is not indicated for the treatment of arrhythmianic.,Ularomethate,arrhythmianic,"acid cancer disorders, arrhythmianic",0,1,0,1,0,indications,0,1,0
+Naftadibutylin is not indicated for the treatment of amous labyrias.,Naftadibutylin,amous labyrias,"megallergic colic, amous labyrias",0,1,0,1,0,indications,0,1,0
+Fimab govobex is not indicated for the treatment of sleepilar hea.,Fimab govobex,sleepilar hea,"carcolitis, tube cardioblastoma",0,1,0,1,0,indications,0,1,0
+Hydroxamfetamesate is indicated for the treatment of coppendomycosis.,Hydroxamfetamesate,coppendomycosis,"coppendomycosis, breatory disorders",0,0,0,1,0,indications,0,1,0
+Olophentiramide is not indicated for the treatment of perebrilepsies.,Olophentiramide,perebrilepsies,"perebrilepsies, Onychoticus",0,1,0,1,0,indications,0,1,0
+Latantetrol is not indicated for the treatment of itchiection.,Latantetrol,itchiection,"extracterium, tube cardioblastoma",0,1,0,1,0,indications,0,1,0
+Aleglitrate is indicated for the treatment of akine disorders.,Aleglitrate,akine disorders,"acteridematoid leukemias, coroparalgia",0,0,0,1,0,indications,1,0,0
+Terifloxacid is not indicated for the treatment of neumatotory ostomia.,Terifloxacid,neumatotory ostomia,"coroparalgia, neumatotory ostomia",0,1,0,1,0,indications,1,0,0
+Desvenin is indicated for the treatment of acute mucoronia.,Desvenin,acute mucoronia,"acute mucoronia, gastropatopioid hearthosis",0,0,0,1,0,indications,1,0,0
+Talinoglitat is not indicated for the treatment of breatory disorders.,Talinoglitat,breatory disorders,"panmyelock, left ventions",0,1,0,1,0,indications,0,1,0
+Sevelanol is indicated for the treatment of acteridematoid leukemias.,Sevelanol,acteridematoid leukemias,"acteridematoid leukemias, obstrophy",0,0,0,1,0,indications,1,0,0
+Momethiomab is indicated for the treatment of uronchospastoma.,Momethiomab,uronchospastoma,"acute lymphobladders, prolone",0,0,0,1,0,indications,1,0,0
+Regovidole is indicated for the treatment of neumatotory ostomia.,Regovidole,neumatotory ostomia,"abnorrhosis, neumatotory ostomia",0,0,0,1,0,indications,1,0,0
+Estrafenidazine is indicated for the treatment of ovagillar disease.,Estrafenidazine,ovagillar disease,"throparasis, delial brease",0,0,0,1,0,indications,0,1,0
+Estrafenidazine is indicated for the treatment of throparasis.,Estrafenidazine,throparasis,"throparasis, delial brease",0,0,0,1,0,indications,0,1,0
+Gadoproster is not indicated for the treatment of coroparalgia.,Gadoproster,coroparalgia,"coroparalgia, galarva microblasia",0,1,0,1,0,indications,0,1,0
+Disobenofolide is indicated for the treatment of cerebral canceratitis.,Disobenofolide,cerebral canceratitis,"hypotenoma, cerebral canceratitis",0,0,0,1,0,indications,1,0,0
+Rilurbide is not indicated for the treatment of live sleedity.,Rilurbide,live sleedity,"left ventions, live sleedity",0,1,0,1,0,indications,1,0,0
+Glufosacost is not indicated for the treatment of deliriurinency.,Glufosacost,deliriurinency,"anal bleepischema, deliriurinency",0,1,0,1,0,indications,1,0,0
+Benzylacetylcholix is indicated for the treatment of ery tumor.,Benzylacetylcholix,ery tumor,"perlipidematory loss, ery tumor",0,0,0,1,0,indications,1,0,0
+Bifen is not indicated for the treatment of prema migrain.,Bifen,prema migrain,"prema migrain, ventitivitive disorder",0,1,0,1,0,indications,0,1,0
+Nemoxetan is not indicated for the treatment of muscular agina.,Nemoxetan,muscular agina,"muscular agina, allergic anding",0,1,0,1,0,indications,0,1,0
+Dapineethamide is indicated for the treatment of Fabry cell Carcinoma.,Dapineethamide,Fabry cell Carcinoma,"lungococclusteoplain, ovagillar disease",0,0,0,1,0,indications,1,0,0
+Fenose is not indicated for the treatment of adrenitic carcinomas.,Fenose,adrenitic carcinomas,"Onychoticus, dyslipolyneury",0,1,0,1,0,indications,0,1,0
+Aspatroglifluoxetigmin is indicated for the treatment of sleepilar hea.,Aspatroglifluoxetigmin,sleepilar hea,"ventitivitive disorder, hepathe overampsis",0,0,0,1,0,indications,0,0,1
+SR 1207 is indicated for the treatment of scortis.,SR 1207,scortis,"scortis, hypoesotroendomycosis",0,0,0,1,0,indications,1,0,0
+Fimab govobex is not indicated for the treatment of cerebral canceratitis.,Fimab govobex,cerebral canceratitis,"carcolitis, tube cardioblastoma",0,1,0,1,0,indications,1,0,0
+Potason is not indicated for the treatment of keraticancrease.,Potason,keraticancrease,"bipolysis infections, extracterium",0,1,0,1,0,indications,0,0,1
+Fimab govobex is not indicated for the treatment of tube cardioblastoma.,Fimab govobex,tube cardioblastoma,"carcolitis, tube cardioblastoma",0,1,0,1,0,indications,1,0,0
+Imiplizumab is indicated for the treatment of malact infarcinoma.,Imiplizumab,malact infarcinoma,"malact infarcinoma, obstrophy",0,0,0,1,0,indications,0,1,0
+Glufosacost is indicated for the treatment of ovasospasmosis.,Glufosacost,ovasospasmosis,"anal bleepischema, deliriurinency",0,0,0,1,0,indications,0,1,0
+Chlorphalonobucin is not indicated for the treatment of GI abusease.,Chlorphalonobucin,GI abusease,"carction, GI abusease",0,1,0,1,0,indications,0,0,1
+Potason is not indicated for the treatment of extracterium.,Potason,extracterium,"bipolysis infections, extracterium",0,1,0,1,0,indications,0,0,1
+Imiplizumab is indicated for the treatment of obstrophy.,Imiplizumab,obstrophy,"malact infarcinoma, obstrophy",0,0,0,1,0,indications,0,1,0
+Loterolidone is not indicated for the treatment of adrenitic carcinomas.,Loterolidone,adrenitic carcinomas,"adrenitic carcinomas, septocorphylaxis",0,1,0,1,0,indications,0,1,0
+Chlorphalonobucin is indicated for the treatment of cerebral canceratitis.,Chlorphalonobucin,cerebral canceratitis,"carction, GI abusease",0,0,0,1,0,indications,1,0,0
+Hydroxamfetamesate is not indicated for the treatment of lupus cell lunguium.,Hydroxamfetamesate,lupus cell lunguium,"coppendomycosis, breatory disorders",0,1,0,1,0,indications,0,1,0
+Edotinamine is indicated for the treatment of cer pyloid cancer.,Edotinamine,cer pyloid cancer,"bactive tumors, live sleedity",0,0,0,1,0,indications,1,0,0
+Limazeparin is not indicated for the treatment of carcolitis.,Limazeparin,carcolitis,"sleepilar hea, herammation",0,1,0,1,0,indications,0,0,1
+Aleglitrate is not indicated for the treatment of tumocytic disorder.,Aleglitrate,tumocytic disorder,"acteridematoid leukemias, coroparalgia",0,1,0,1,0,indications,1,0,0
+Paclose is not indicated for the treatment of akine disorders.,Paclose,akine disorders,"perebrilepsies, obstrophy",0,1,0,1,0,indications,0,1,0
+Miglipranel is not indicated for the treatment of ceral infarcinoma.,Miglipranel,ceral infarcinoma,"uronchospastoma, ceral infarcinoma",0,1,0,1,0,indications,0,1,0
+Ambrostin is not indicated for the treatment of abnorrhosis.,Ambrostin,abnorrhosis,"prema migrain, perlipidematory loss",0,1,0,1,0,indications,1,0,0
+Denolonate is not indicated for the treatment of coppendomycosis.,Denolonate,coppendomycosis,"coppendomycosis, arrhythmianic",0,1,0,1,0,indications,0,0,1
+Cimer succid is indicated for the treatment of myotroid andrombosis bulitis.,Cimer succid,myotroid andrombosis bulitis,"throparasis, myotroid andrombosis bulitis",0,0,0,1,0,indications,0,1,0
+Tolpenem is not indicated for the treatment of premollusive.,Tolpenem,premollusive,"herammation, premollusive",0,1,0,1,0,indications,0,0,1
+"3,4-Methioriconate, monine is not indicated for the treatment of deliriurinency.","3,4-Methioriconate, monine",deliriurinency,"hyperampsies, megallergic colic",0,1,0,1,0,indications,1,0,0
+Salide is not indicated for the treatment of arrhythmianic.,Salide,arrhythmianic,"arrhythmianic, Vasophyria",0,1,0,1,0,indications,0,0,1
+Cimer succid is indicated for the treatment of throparasis.,Cimer succid,throparasis,"throparasis, myotroid andrombosis bulitis",0,0,0,1,0,indications,0,1,0
+Cetic acid is not indicated for the treatment of poisorders.,Cetic acid,poisorders,"herammation, poisorders",0,1,0,1,0,indications,0,0,1
+Clopa is indicated for the treatment of allergic anding.,Clopa,allergic anding,"reticers, intriculatus",0,0,0,1,0,indications,1,0,0
+Zibosenacost is not indicated for the treatment of senic reptic sexual ostableeding.,Zibosenacost,senic reptic sexual ostableeding,"GI abusease, senic reptic sexual ostableeding",0,1,0,1,0,indications,1,0,0
+Glufosacost is indicated for the treatment of anal bleepischema.,Glufosacost,anal bleepischema,"anal bleepischema, deliriurinency",0,0,0,1,0,indications,1,0,0
+Icosartisodenib is indicated for the treatment of Faminal disorders.,Icosartisodenib,Faminal disorders,"hematocellitus, Faminal disorders",0,0,0,1,0,indications,1,0,0
+Bedotoxib is indicated for the treatment of opic gangioedema.,Bedotoxib,opic gangioedema,"opic gangioedema, acteridematoid leukemias",0,0,0,1,0,indications,0,1,0
+Trolazole is not indicated for the treatment of amous labyrias.,Trolazole,amous labyrias,"amous labyrias, muscular agina",0,1,0,1,0,indications,0,1,0
+Isopate Ga-68 is not indicated for the treatment of CMV reathyosis.,Isopate Ga-68,CMV reathyosis,"herammation, carction",0,1,0,1,0,indications,1,0,0
+Buspirapressine is not indicated for the treatment of Faminal disorders.,Buspirapressine,Faminal disorders,"Faminal disorders, chronchol dism",0,1,0,1,0,indications,0,0,1
+Motene glanzapril is indicated for the treatment of septocorphylaxis.,Motene glanzapril,septocorphylaxis,"opic gangioedema, septocorphylaxis",0,0,0,1,0,indications,0,1,0
+Vorthamin is not indicated for the treatment of acular acidosis.,Vorthamin,acular acidosis,"acular acidosis, obstrophy",0,1,0,1,0,indications,0,1,0
+Calcitimumab is not indicated for the treatment of sinusion.,Calcitimumab,sinusion,"cer pyloid cancer, sinusion",0,1,0,1,0,indications,1,0,0
+Alethylnafil is indicated for the treatment of muscular agina.,Alethylnafil,muscular agina,"muscular agina, neumatotory ostomia",0,0,0,1,0,indications,1,0,0
+Edotoxibef is not indicated for the treatment of postolorhythemia.,Edotoxibef,postolorhythemia,"postolorhythemia, hepathe overampsis",0,1,0,1,0,indications,0,0,1
+Rofenavin is indicated for the treatment of trapyramin tumonic.,Rofenavin,trapyramin tumonic,"memogloblasms, trapyramin tumonic",0,0,0,1,0,indications,1,0,0
+Estracalla-zose is not indicated for the treatment of cologic diseases.,Estracalla-zose,cologic diseases,"infectal hea, acquired diabetiformiasis",0,1,0,1,0,indications,0,0,1
+Oxyprosphaloxamine is not indicated for the treatment of deliriurinency.,Oxyprosphaloxamine,deliriurinency,"deliriurinency, tensitis",0,1,0,1,0,indications,1,0,0
+Cimer succid is not indicated for the treatment of throparasis.,Cimer succid,throparasis,"throparasis, myotroid andrombosis bulitis",0,1,0,1,0,indications,0,1,0
+Tofazide is not indicated for the treatment of astroid cancer.,Tofazide,astroid cancer,"astroid cancer, Fabry cell Carcinoma",0,1,0,1,0,indications,0,1,0
+Annam is indicated for the treatment of akine disorders.,Annam,akine disorders,"akine disorders, prolone",0,0,0,1,0,indications,1,0,0
+Thioprofugin is indicated for the treatment of septocorphylaxis.,Thioprofugin,septocorphylaxis,"prema migrain, coppendomycosis",0,0,0,1,0,indications,0,1,0
+Tasquemipropion is indicated for the treatment of ery tumor.,Tasquemipropion,ery tumor,"opic gangioedema, prolone",0,0,0,1,0,indications,1,0,0
+Cetic acid is not indicated for the treatment of red mout.,Cetic acid,red mout,"herammation, poisorders",0,1,0,1,0,indications,0,1,0
+Inosenadrin is not indicated for the treatment of endocrinessiver.,Inosenadrin,endocrinessiver,"acute lymphobladders, infectal hea",0,1,0,1,0,indications,1,0,0
+Roban is not indicated for the treatment of red mout.,Roban,red mout,"senic reptic sexual ostableeding, red mout",0,1,0,1,0,indications,1,0,0
+Thioprofugin is not indicated for the treatment of prema migrain.,Thioprofugin,prema migrain,"prema migrain, coppendomycosis",0,1,0,1,0,indications,0,1,0
+Flavanciclene is not indicated for the treatment of ovagillar disease.,Flavanciclene,ovagillar disease,"carcolitis, ovagillar disease",0,1,0,1,0,indications,1,0,0
+Imiplizumab is not indicated for the treatment of breatory disorders.,Imiplizumab,breatory disorders,"malact infarcinoma, obstrophy",0,1,0,1,0,indications,0,1,0
+"3,4-Methioriconate, monine is not indicated for the treatment of cerebral canceratitis.","3,4-Methioriconate, monine",cerebral canceratitis,"hyperampsies, megallergic colic",0,1,0,1,0,indications,1,0,0
+Amifanidazole is indicated for the treatment of teethronchiectiver cancer.,Amifanidazole,teethronchiectiver cancer,"infectrum disease, coppendomycosis",0,0,0,1,0,indications,1,0,0
+Flurbide is indicated for the treatment of live sleedity.,Flurbide,live sleedity,"leprematus angiopathy, live sleedity",0,0,0,1,0,indications,1,0,0
+Lipoterole is not indicated for the treatment of tube cardioblastoma.,Lipoterole,tube cardioblastoma,"acteridematoid leukemias, tube cardioblastoma",0,1,0,1,0,indications,1,0,0
+Toramine is indicated for the treatment of lupus cell lunguium.,Toramine,lupus cell lunguium,"lupus cell lunguium, akine disorders",0,0,0,1,0,indications,0,1,0
+Terlisodipinib is indicated for the treatment of Fabry cell Carcinoma.,Terlisodipinib,Fabry cell Carcinoma,"amous labyrias, breatory disorders",0,0,0,1,0,indications,1,0,0
+Reboxazolon is not indicated for the treatment of galarva microblasia.,Reboxazolon,galarva microblasia,"bact barbancercolis, galarva microblasia",0,1,0,1,0,indications,1,0,0
+Bivampridinib is not indicated for the treatment of ceral infarcinoma.,Bivampridinib,ceral infarcinoma,"rheumors, hyperampsies",0,1,0,1,0,indications,0,1,0
+Dapoxen is indicated for the treatment of infectrum disease.,Dapoxen,infectrum disease,"sinusion, arrhythmianic",0,0,0,1,0,indications,1,0,0
+Phenadionam is not indicated for the treatment of throparasis.,Phenadionam,throparasis,"perebrilepsies, coroparalgia",0,1,0,1,0,indications,0,1,0
+99m trivatuzumab is indicated for the treatment of atori infective Disease.,99m trivatuzumab,atori infective Disease,"back parkine bral verniasis, acquired diabetiformiasis",0,0,0,1,0,indications,1,0,0
+Remoclose is not indicated for the treatment of Vasophyria.,Remoclose,Vasophyria,"anal bleepischema, Vasophyria",0,1,0,1,0,indications,1,0,0
+Prazolevudine is not indicated for the treatment of septocorphylaxis.,Prazolevudine,septocorphylaxis,"septocorphylaxis, akine disorders",0,1,0,1,0,indications,0,1,0
+Technetamine is not indicated for the treatment of memogloblasms.,Technetamine,memogloblasms,"dyslipolyneury, acquired diabetiformiasis",0,1,0,1,0,indications,1,0,0
+Deutetractone is indicated for the treatment of atori infective Disease.,Deutetractone,atori infective Disease,"atori infective Disease, intriculatus",0,0,0,1,0,indications,1,0,0
+Tramaltolamide is indicated for the treatment of akine disorders.,Tramaltolamide,akine disorders,"hyperampsies, anal bleepischema",0,0,0,1,0,indications,1,0,0
+Glutalacine is indicated for the treatment of sorder cand vomiasis.,Glutalacine,sorder cand vomiasis,"asperpetiformis, sorder cand vomiasis",0,0,0,1,0,indications,1,0,0
+Fenose is not indicated for the treatment of dyslipolyneury.,Fenose,dyslipolyneury,"Onychoticus, dyslipolyneury",0,1,0,1,0,indications,0,0,1
+Propa is not indicated for the treatment of breatory disorders.,Propa,breatory disorders,"ovasospasmosis, astroid cancer",0,1,0,1,0,indications,1,0,0

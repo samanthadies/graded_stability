@@ -1,0 +1,34 @@
+# Textual realizations of semantic (x, P) pairs.
+#
+# Pair identity is stored independently in outputs/pairs. Later scoring code
+# reconstructs the two atomic statements and renders one of these named
+# variants on the fly.
+#
+# New surface forms can be added here without changing the pair table.
+
+conditional:
+  default: given_x_P
+
+  templates:
+    given_x_P:
+      template: "Given {x}, {P}."
+      strip_final_period: true
+      lowercase_initial_the:
+        - x
+        - P
+
+joint:
+  default: x_then_P
+
+  templates:
+    x_then_P:
+      template: "{x} and {P}."
+      strip_final_period: true
+      lowercase_initial_the:
+        - P
+
+    P_then_x:
+      template: "{P} and {x}."
+      strip_final_period: true
+      lowercase_initial_the:
+        - x

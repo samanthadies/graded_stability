@@ -1,0 +1,17 @@
+probes:
+  - sawmil
+  - svm
+  - mean_difference
+
+semantics: cooper_cantwell
+template: given_x_P
+
+train_per_pair_type: 750
+cal_per_pair_type: 250
+
+score_chunk_size: 5000
+
+batch_size: 8
+max_length: 64
+seed: 0
+device: cuda

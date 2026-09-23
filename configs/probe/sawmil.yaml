@@ -1,0 +1,18 @@
+name: sawmil
+
+training:
+  C: 1.0
+  epochs: 5
+  standardize: true
+
+mil:
+  init_mode: last_k
+  k_init: 2
+  k_top: 2
+  tail_k: 2
+  max_tokens_per_bag: 256
+
+calibration:
+  C: 1.0
+  max_iter: 2000
+  tol: 1.0e-6

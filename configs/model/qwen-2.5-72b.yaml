@@ -1,0 +1,23 @@
+defaults:
+  - base_llama
+  - _self_
+
+name: qwen-2.5-72b
+model: Qwen/Qwen2.5-72B
+dtype: bfloat16
+layers: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79]
+instruct: False
+
+selected_layers:
+  sawmil:
+    cities_loc: 55
+    med_indications: 55
+    defs: 55
+  svm:
+    cities_loc: 60
+    med_indications: 57
+    defs: 55
+  mean_difference:
+    cities_loc: 13
+    med_indications: 55
+    defs: 23

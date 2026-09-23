@@ -1,0 +1,19 @@
+construction: atomic
+
+probes:
+  - sawmil
+  - svm
+  - mean_difference
+
+batch_size: 16
+max_length: 64
+seed: 0
+device: cuda
+
+selection_metric: test_log_loss
+
+paths:
+  data_dir: data
+  model_config_dir: configs/model
+  probe_config_dir: configs/probe
+  output_dir: outputs/layer_sweep

@@ -1,0 +1,25 @@
+defaults:
+  - base_llama
+  - _self_
+
+name: _mistral-3.1-24b
+model: mistralai/Mistral-Small-3.1-24B-Instruct-2503
+dtype: bfloat16
+layers: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39]
+instruct: True
+
+chat_system_prompt: ""
+
+selected_layers:
+  sawmil:
+    cities_loc: 15
+    med_indications: 19
+    defs: 15
+  svm:
+    cities_loc: 19
+    med_indications: 19
+    defs: 18
+  mean_difference:
+    cities_loc: 21
+    med_indications: 17
+    defs: 20

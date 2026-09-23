@@ -1,0 +1,13 @@
+probes:
+  - sawmil
+  - svm
+  - mean_difference
+
+template: x_then_P
+
+score_chunk_size: 5000
+
+batch_size: 8
+max_length: 64
+seed: 0
+device: cuda

@@ -1,0 +1,15 @@
+model: ???
+name: ???
+module: model
+encoders: layers
+submodule_att: self_attn
+submodule_mlp: mlp
+submodule_norm: norm
+submodule_head: lm_head
+layers: []
+instruct: False
+dtype: bfloat16
+system_role: user
+user_role: user
+assist_role: model
+end_token: '<end_of_turn>'
