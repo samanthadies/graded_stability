@@ -1,3 +1,8 @@
+"""
+Constructs balanced training and calibration data for the ordered nine-class joint probe,
+representing every combination of trivalent states for x and P.
+"""
+
 from __future__ import annotations
 
 from dataclasses import dataclass

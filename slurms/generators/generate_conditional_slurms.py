@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 """
 Generate the full 24-model x 3-dataset Slurm matrix for Phase 2:
 direct-conditional credence estimation.

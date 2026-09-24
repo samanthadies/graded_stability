@@ -1,3 +1,8 @@
+"""
+Loads and combines the benchmark sources into a unified probe dataset with aligned
+statements, epistemic labels, source metadata, and train/calibration/test splits.
+"""
+
 from __future__ import annotations
 
 from dataclasses import dataclass

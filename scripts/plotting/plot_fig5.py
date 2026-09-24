@@ -1,3 +1,11 @@
+"""
+Generates main-text Figure 5, showing matched-pair behavioral-resilience effects for
+instruction-tuned models with sequence-stratified bootstrap uncertainty estimates.
+
+Example:
+    python -m scripts.plotting.plot_fig5 --probe sawmil --overwrite
+"""
+
 from __future__ import annotations
 
 import argparse

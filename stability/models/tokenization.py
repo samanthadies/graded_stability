@@ -1,3 +1,8 @@
+"""
+Renders statements in the model-specific input format and tokenizes them for
+batched activation extraction and scoring.
+"""
+
 from __future__ import annotations
 
 from collections.abc import Sequence

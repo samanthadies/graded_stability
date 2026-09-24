@@ -1,3 +1,12 @@
+"""
+Summarizes the probability-matched behavioral pairs and generates the SI LaTeX tables
+reporting sample sizes, atomic-probability gaps, and graded-stability separation.
+
+Examples:
+    python -m scripts.analysis.make_behavioral_matching_tables --probe sawmil --sample round0_agreement --overwrite
+    python -m scripts.analysis.make_behavioral_matching_tables --probe svm --sample round0_agreement --overwrite
+"""
+
 from __future__ import annotations
 
 import argparse

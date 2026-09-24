@@ -1,3 +1,8 @@
+"""
+Constructs balanced training and calibration examples for the Direct Conditional probe,
+assigning trivalent conditional labels under the paper's non-bivalent semantics.
+"""
+
 from __future__ import annotations
 
 from dataclasses import dataclass

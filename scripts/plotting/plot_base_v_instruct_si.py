@@ -1,3 +1,11 @@
+"""
+Generates the SI comparison of matched pretrained and instruction-tuned checkpoints,
+measuring the within-proposition change in Direct Conditional graded stability.
+
+Example:
+    python -m scripts.plotting.plot_base_v_instruct_si --probe sawmil --overwrite
+"""
+
 from __future__ import annotations
 
 import argparse

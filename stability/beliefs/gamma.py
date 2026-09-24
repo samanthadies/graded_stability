@@ -1,3 +1,8 @@
+"""
+Converts Direct Conditional or Joint probe outputs into scalar conditional credences
+and aggregates them across conditioning beliefs to compute graded stability gamma(P).
+"""
+
 from __future__ import annotations
 
 from typing import Iterable

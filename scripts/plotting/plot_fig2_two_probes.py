@@ -1,3 +1,12 @@
+"""
+Generates the SVM and Mass Mean SI robustness counterpart to Figure 2, comparing
+stability-vs.-credence predictive power and residual cross-model agreement.
+
+Examples:
+    python -m scripts.plotting.plot_fig2_two_probes --overwrite
+    python -m scripts.plotting.plot_fig2_two_probes --r2_max 0.8 --rho_min -0.5 --rho_max 0.5 --overwrite
+"""
+
 from __future__ import annotations
 
 import argparse

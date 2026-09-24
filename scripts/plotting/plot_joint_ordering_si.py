@@ -1,3 +1,11 @@
+"""
+Generates the SI sensitivity figure comparing the Joint-to-Conditional estimator under
+"x and P" versus "P and x" conjunction order at both pair and proposition levels.
+
+Example:
+    python -m scripts.plotting.plot_joint_ordering_si --overwrite
+"""
+
 from __future__ import annotations
 
 import argparse

@@ -1,3 +1,12 @@
+"""
+Trains Direct Conditional probes and scores each (P, x) pair using representations
+of statements such as "Given x, P.", producing trivalent conditional probabilities.
+
+Examples:
+    python -m scripts.beliefs.score_conditionals --model_name _llama-3.1-8b --dataset cities_loc --resume
+    python -m scripts.beliefs.score_conditionals --model_name _llama-3.1-8b --dataset cities_loc --probes sawmil --resume
+"""
+
 from __future__ import annotations
 
 import argparse

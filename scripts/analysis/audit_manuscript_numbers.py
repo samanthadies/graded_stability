@@ -1,3 +1,12 @@
+"""
+Recomputes manuscript-facing numerical summaries directly from the current analysis
+outputs and records their source files, providing a consistency audit.
+
+Examples:
+    python -m scripts.analysis.audit_manuscript_numbers
+    python -m scripts.analysis.audit_manuscript_numbers --strict
+"""
+
 from __future__ import annotations
 
 import argparse

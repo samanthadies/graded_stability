@@ -1,3 +1,8 @@
+"""
+Defines and loads the configuration for the multi-round behavioral challenge experiment,
+including prompts, answer labels, and scoring parameters.
+"""
+
 from __future__ import annotations
 
 import hashlib

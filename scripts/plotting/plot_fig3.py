@@ -1,3 +1,11 @@
+"""
+Generates main-text Figure 3, showing the pair-level CCK coherence distance for the
+Direct Conditional estimator across the 12 instruction-tuned models and three domains.
+
+Example:
+    python -m scripts.plotting.plot_fig3 --probe sawmil --overwrite
+"""
+
 from __future__ import annotations
 
 import argparse

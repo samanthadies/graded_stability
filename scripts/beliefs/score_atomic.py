@@ -1,3 +1,12 @@
+"""
+Fits the atomic belief probes at their preselected layers and records calibrated
+True/False/Neither probabilities for the held-out statements in each dataset.
+
+Examples:
+    python -m scripts.beliefs.score_atomic --model_name _llama-3.1-8b --dataset cities_loc --resume
+    python -m scripts.beliefs.score_atomic --model_name _llama-3.1-8b --dataset cities_loc --probes sawmil --overwrite
+"""
+
 from __future__ import annotations
 
 import argparse

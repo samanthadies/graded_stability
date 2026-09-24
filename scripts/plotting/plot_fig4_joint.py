@@ -1,3 +1,11 @@
+"""
+Generates the Joint-to-Conditional SI graded-stability distributions for the 12
+instruction-tuned models, paralleling the Direct Conditional domain analysis.
+
+Example:
+    python -m scripts.plotting.plot_fig4_joint --probe sawmil --overwrite
+"""
+
 from __future__ import annotations
 
 import argparse

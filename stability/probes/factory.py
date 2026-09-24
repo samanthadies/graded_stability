@@ -1,3 +1,8 @@
+"""
+Loads probe-specific YAML configurations and constructs the configured sAwMIL,
+linear SVM, or mean-difference probe used throughout the pipeline.
+"""
+
 from __future__ import annotations
 
 from pathlib import Path

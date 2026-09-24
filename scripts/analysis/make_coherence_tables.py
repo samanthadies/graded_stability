@@ -1,3 +1,12 @@
+"""
+Converts the CCK coherence analysis into SI LaTeX tables reporting exact coherence
+rates and violations of the individual coherence constraints by model and domain.
+
+Examples:
+    python -m scripts.analysis.make_coherence_tables --probe sawmil --overwrite
+    python -m scripts.analysis.make_coherence_tables --probe svm --overwrite
+"""
+
 from __future__ import annotations
 
 import argparse

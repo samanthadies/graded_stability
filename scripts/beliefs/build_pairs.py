@@ -1,3 +1,12 @@
+"""
+Constructs the probe-specific pairs (P, x) used to evaluate conditional
+belief and graded stability, excluding self-pairs by default.
+
+Examples:
+    python -m scripts.beliefs.build_pairs --model_name _llama-3.1-8b --dataset cities_loc
+    python -m scripts.beliefs.build_pairs --model_name _llama-3.1-8b --dataset cities_loc --probes sawmil --overwrite
+"""
+
 from __future__ import annotations
 
 import argparse

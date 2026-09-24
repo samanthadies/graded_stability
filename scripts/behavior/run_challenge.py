@@ -1,3 +1,12 @@
+"""
+Runs the multi-round conversational challenge experiment and records each model's
+answers, answer probabilities, changes, support loss, and absolute movement by round.
+
+Examples:
+    python -m scripts.behavior.run_challenge --model_name _llama-3.1-8b --dataset cities_loc --resume
+    python -m scripts.behavior.run_challenge --model_name _llama-3.1-8b --dataset cities_loc --limit 100 --overwrite
+"""
+
 from __future__ import annotations
 
 import argparse

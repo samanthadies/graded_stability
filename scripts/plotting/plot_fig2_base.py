@@ -1,3 +1,11 @@
+"""
+Generates the base-model SI counterpart to Figure 2, showing held-out stability-vs.-
+credence R^2 and cross-model residual agreement for the Direct Conditional estimator.
+
+Examples:
+    python -m scripts.plotting.plot_fig2_base --probe sawmil --overwrite
+"""
+
 from __future__ import annotations
 
 import argparse

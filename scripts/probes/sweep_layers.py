@@ -1,3 +1,13 @@
+"""
+Evaluates each probe across transformer layers for a given model and dataset,
+recording train/calibration/test performance used to choose probe-specific layers.
+
+Examples:
+    python -m scripts.probes.sweep_layers --model_name _llama-3.1-8b --dataset cities_loc --resume
+    python -m scripts.probes.sweep_layers --model_name _llama-3.1-8b --dataset cities_loc --probes sawmil --layers 10 11 12 13 14
+
+"""
+
 from __future__ import annotations
 
 import argparse

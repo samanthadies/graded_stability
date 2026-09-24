@@ -1,3 +1,11 @@
+"""
+Generates the SVM and Mass Mean SI robustness counterpart to Figure 4, showing
+proposition-level Direct Conditional graded-stability distributions for both probes.
+
+Examples:
+    python -m scripts.plotting.plot_fig4_two_probes --overwrite
+"""
+
 from __future__ import annotations
 
 import argparse

@@ -1,3 +1,8 @@
+"""
+Provides shared multiclass probability calibration, mapping each probe's raw class
+scores to normalized and explicitly class-aligned probability distributions.
+"""
+
 from __future__ import annotations
 
 import warnings

@@ -1,3 +1,11 @@
+"""
+Generates the base-model SI behavioral-resilience figure using Direct Conditional
+graded stability and the probability-matched conversational challenge pairs.
+
+Example:
+    python -m scripts.plotting.plot_fig5_base --probe sawmil --overwrite
+"""
+
 from __future__ import annotations
 
 import argparse
@@ -60,8 +68,6 @@ FAMILY_COLORS = {
     "qwen": "#3E8064",
 }
 
-# Exact instruction-tuned checkpoint set used in the other revised main-text
-# figures. Repository keys use a leading underscore for instruction models.
 EXPECTED_MODELS = (
     "llama-3.2-3b",
     "llama-3.1-8b",
@@ -664,7 +670,7 @@ def make_figure(
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
         description=(
-            "Plot Figure SI 5: instruction-tuned Joint behavioral resilience effects."
+            "Plot Figure SI 5: base Direct behavioral resilience effects."
         )
     )
     parser.add_argument(

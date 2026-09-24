@@ -1,3 +1,11 @@
+"""
+Generates the base-model SI counterpart to Figure 3, showing pair-level CCK coherence
+distances for the Direct Conditional estimator across models and domains.
+
+Example:
+    python -m scripts.plotting.plot_fig3_base --probe sawmil --overwrite
+"""
+
 from __future__ import annotations
 
 import argparse

@@ -1,3 +1,12 @@
+"""
+Builds the conversational challenge sets used for behavioral validation, including
+the general challenge sample and probability-matched high/low-stability belief pairs.
+
+Examples:
+    python -m scripts.behavior.build_challenge_set --model_name _llama-3.1-8b --dataset cities_loc --mode both
+    python -m scripts.behavior.build_challenge_set --model_name _llama-3.1-8b --dataset cities_loc --mode matched --overwrite
+"""
+
 from __future__ import annotations
 
 import argparse

@@ -1,3 +1,11 @@
+"""
+Generates the Joint-to-Conditional SI counterpart to Figure 3, showing pair-level
+distances between the measured probability systems and the CCK-coherent set.
+
+Example:
+    python -m scripts.plotting.plot_fig3_joint --probe sawmil --overwrite
+"""
+
 from __future__ import annotations
 
 import argparse

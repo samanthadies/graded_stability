@@ -1,3 +1,12 @@
+"""
+Summarizes the layer-sweep experiments and selects the minimum-test-log-loss layer
+for every model/dataset/probe combination, including manuscript-ready tables.
+
+Examples:
+    python -m scripts.analysis.analyze_layer_selection
+    python -m scripts.analysis.analyze_layer_selection --overwrite
+"""
+
 from __future__ import annotations
 
 import argparse

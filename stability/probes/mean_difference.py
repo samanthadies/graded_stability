@@ -1,5 +1,6 @@
 """
-Generic multiclass one-vs-all mean-difference probe.
+Implements the multiclass mean-difference probe using one-vs-rest representation
+directions and shared probability calibration.
 
 @inproceedings{marks2024geometry,
   title={The Geometry of Truth: {E}mergent Linear Structure in Large Language Model Representations of {T}rue/{F}alse Datasets},

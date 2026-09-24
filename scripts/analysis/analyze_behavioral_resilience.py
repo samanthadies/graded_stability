@@ -1,3 +1,12 @@
+"""
+Aggregates the per-model behavioral validation results into manuscript-level summaries
+and statistical tests for predictive validity and matched-pair behavioral resilience.
+
+Examples:
+    python -m scripts.analysis.analyze_behavioral_resilience --probe sawmil --overwrite
+    python -m scripts.analysis.analyze_behavioral_resilience --model _llama-3.1-8b --dataset cities_loc --probe sawmil --overwrite
+"""
+
 from __future__ import annotations
 
 import argparse

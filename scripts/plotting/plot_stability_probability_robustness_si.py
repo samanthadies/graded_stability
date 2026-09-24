@@ -1,3 +1,11 @@
+"""
+Generates SI robustness checks for the stability-vs.-belief-probability analysis,
+comparing spline specifications and visualizing residual-agreement permutation nulls.
+
+Examples:
+    python -m scripts.plotting.plot_stability_probability_robustness_si --probe sawmil --overwrite
+"""
+
 from __future__ import annotations
 
 import argparse

@@ -1,3 +1,11 @@
+"""
+Visualizes probe performance across transformer layers for all model families and
+records the selected layer for each model/dataset/probe combination.
+
+Examples:
+    python -m scripts.plotting.plot_layersweep_si --overwrite
+"""
+
 from __future__ import annotations
 
 import argparse

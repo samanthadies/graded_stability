@@ -1,3 +1,8 @@
+"""
+Scores binary True/False responses to behavioral challenge prompts using normalized
+sequence probabilities from the language model.
+"""
+
 from __future__ import annotations
 
 from collections.abc import Mapping, Sequence

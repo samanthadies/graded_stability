@@ -1,3 +1,12 @@
+"""
+Quantifies how much graded stability is explained by atomic belief probability using
+cross-fitted splines, then measures cross-model agreement in the remaining residuals.
+
+Examples:
+    python -m scripts.analysis.analyze_stability_vs_credence --probe sawmil --overwrite
+    python -m scripts.analysis.analyze_stability_vs_credence --probe sawmil --estimator direct joint --overwrite
+"""
+
 from __future__ import annotations
 
 import argparse

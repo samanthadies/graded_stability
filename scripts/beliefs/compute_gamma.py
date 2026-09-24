@@ -1,3 +1,12 @@
+"""
+Computes proposition-level graded stability gamma from Direct Conditional and/or
+Joint-to-Conditional probabilities using each probe's empirical belief threshold.
+
+Examples:
+    python -m scripts.beliefs.compute_gamma --model_name _llama-3.1-8b --dataset cities_loc
+    python -m scripts.beliefs.compute_gamma --model_name _llama-3.1-8b --dataset cities_loc --probes sawmil --sources conditional joint --overwrite
+"""
+
 from __future__ import annotations
 
 import argparse

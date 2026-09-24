@@ -1,3 +1,8 @@
+"""
+Manages chunked Parquet checkpoints for large scoring jobs, including resumable part
+files, atomic writes, consolidation into final outputs, and cleanup.
+"""
+
 from __future__ import annotations
 
 import json
@@ -7,7 +12,6 @@ from pathlib import Path
 from typing import Iterable
 
 import pandas as pd
-import pyarrow as pa
 import pyarrow.parquet as pq
 
 

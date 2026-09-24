@@ -1,3 +1,11 @@
+"""
+Generates the Joint-to-Conditional SI behavioral-resilience analysis for the
+instruction-tuned models using the same probability-matched challenge pairs.
+
+Example:
+    python -m scripts.plotting.plot_fig5_joint --probe sawmil --overwrite
+"""
+
 from __future__ import annotations
 
 import argparse

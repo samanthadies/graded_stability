@@ -1,3 +1,8 @@
+"""
+Loads model configurations, Hugging Face language models, and tokenizers while handling
+shared defaults, device placement, compute precision, and architecture-specific settings.
+"""
+
 from __future__ import annotations
 
 import copy

@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 """
 Generate the full 24-model x 3-dataset Slurm matrix for the Joint-probe
 statement-ordering sensitivity analysis.

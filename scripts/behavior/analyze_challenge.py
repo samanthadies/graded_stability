@@ -1,3 +1,12 @@
+"""
+Analyzes one model-dataset behavioral challenge run, including gamma's predictive
+value beyond atomic credence and the matched-pair behavioral-resilience comparison.
+
+Examples:
+    python -m scripts.behavior.analyze_challenge --model_name _llama-3.1-8b --dataset cities_loc
+    python -m scripts.behavior.analyze_challenge --model_name _llama-3.1-8b --dataset cities_loc --overwrite
+"""
+
 from __future__ import annotations
 
 import argparse

@@ -1,3 +1,8 @@
+"""
+Provides crash-safe Parquet I/O and checkpointing utilities for experiment results,
+including keyed result upserts and detection of already completed runs.
+"""
+
 from __future__ import annotations
 
 import os

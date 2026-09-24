@@ -1,3 +1,8 @@
+"""
+Validates benchmark split annotations and constructs aligned train, calibration, and
+test masks across the source files comprising each dataset.
+"""
+
 from __future__ import annotations
 
 from collections.abc import Sequence

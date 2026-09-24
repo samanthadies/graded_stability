@@ -1,7 +1,6 @@
 """
-sAwMIL probe.
-
-This is a clean in-memory port of the working fast-sAwMIL implementation.
+Implements the sAwMIL probe, which learns one-vs-rest epistemic-state classifiers
+from token-level activations using multiple-instance learning and probability calibration.
 
 @inproceedings{savcisens2025trilemma,
   title={Trilemma of Truth in Large Language Models},

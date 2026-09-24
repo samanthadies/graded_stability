@@ -1,3 +1,8 @@
+"""
+Defines each model's belief set P and admissible conditioning set x from atomic probe
+outputs using predicted epistemic states and the empirical Lockean threshold.
+"""
+
 from __future__ import annotations
 
 from typing import Any

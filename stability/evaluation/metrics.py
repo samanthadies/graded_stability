@@ -1,3 +1,8 @@
+"""
+Evaluates fitted probes using classification and probabilistic metrics and summarizes
+performance separately for the training, calibration, and test splits.
+"""
+
 from __future__ import annotations
 
 import numpy as np

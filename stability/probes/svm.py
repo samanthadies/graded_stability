@@ -1,3 +1,8 @@
+"""
+Implements the multiclass linear SVM probe using one-vs-rest classifiers over
+last-token representations followed by shared probability calibration.
+"""
+
 from __future__ import annotations
 
 import numpy as np

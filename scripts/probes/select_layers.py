@@ -1,3 +1,12 @@
+"""
+Selects the best-performing layer for each model, dataset, and probe from the
+layer-sweep outputs, using test log loss by default.
+
+Examples:
+    python -m scripts.probes.select_layers --require_complete
+    python -m scripts.probes.select_layers --metric test_log_loss --require_complete
+"""
+
 from __future__ import annotations
 
 import argparse

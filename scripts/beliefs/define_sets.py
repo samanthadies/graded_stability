@@ -1,4 +1,13 @@
-=from __future__ import annotations
+"""
+Uses atomic probe predictions to define each model's belief set P and admissible
+conditioning set x, including the empirical Lockean belief threshold for each probe.
+
+Examples:
+    python -m scripts.beliefs.define_sets --model_name _llama-3.1-8b --dataset cities_loc
+    python -m scripts.beliefs.define_sets --model_name _llama-3.1-8b --dataset cities_loc --overwrite
+"""
+
+from __future__ import annotations
 
 import argparse
 import json

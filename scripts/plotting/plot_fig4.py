@@ -1,3 +1,11 @@
+"""
+Generates main-text Figure 4, showing proposition-level Direct Conditional graded-
+stability distributions for the 12 instruction-tuned models across the three domains.
+
+Example:
+    python -m scripts.plotting.plot_fig4 --probe sawmil --overwrite
+"""
+
 from __future__ import annotations
 
 import argparse

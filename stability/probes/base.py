@@ -1,3 +1,8 @@
+"""
+Defines the common probe interface and validation utilities shared by all probe
+implementations, including activation, label, mask, and prediction-index checks.
+"""
+
 from __future__ import annotations
 
 from abc import ABC, abstractmethod

@@ -1,3 +1,12 @@
+"""
+Evaluates whether the measured atomic and conditional probabilities satisfy the CCK
+coherence conditions and computes their distance to the nearest coherent system.
+
+Examples:
+    python -m scripts.analysis.analyze_coherence --probe sawmil --overwrite
+    python -m scripts.analysis.analyze_coherence --model _llama-3.1-8b --dataset cities_loc --probe sawmil --overwrite
+"""
+
 from __future__ import annotations
 
 import argparse

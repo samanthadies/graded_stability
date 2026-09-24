@@ -1,3 +1,11 @@
+"""
+Generates the SVM and Mass Mean SI robustness counterpart to Figure 5, showing
+matched-pair behavioral-resilience effects for the two alternative probes.
+
+Examples:
+    python -m scripts.plotting.plot_fig5_two_probes --overwrite
+"""
+
 from __future__ import annotations
 
 import argparse

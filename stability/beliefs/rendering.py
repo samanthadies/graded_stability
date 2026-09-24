@@ -1,3 +1,8 @@
+"""
+Loads statement-rendering conventions and formats atomic statement pairs as either
+explicit conditionals or conjunctions for the Direct Conditional and Joint probes.
+"""
+
 from __future__ import annotations
 
 from pathlib import Path

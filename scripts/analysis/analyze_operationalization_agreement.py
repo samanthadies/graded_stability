@@ -1,3 +1,12 @@
+"""
+Compares Direct Conditional and Joint-to-Conditional graded stability, measuring both
+raw agreement and agreement after removing the effect of atomic belief probability.
+
+Examples:
+    python -m scripts.analysis.analyze_operationalization_agreement --probe sawmil --overwrite
+    python -m scripts.analysis.analyze_operationalization_agreement --model _llama-3.1-8b --dataset cities_loc --probe sawmil --overwrite
+"""
+
 from __future__ import annotations
 
 import argparse

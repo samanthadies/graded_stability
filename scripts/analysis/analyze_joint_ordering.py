@@ -1,3 +1,15 @@
+"""
+Tests the Joint-to-Conditional estimator's sensitivity to conjunction order by comparing
+results from "x and P" with otherwise matched results from "P and x".
+
+Examples:
+    python -m scripts.analysis.analyze_joint_ordering --probes sawmil --overwrite
+    python -m scripts.analysis.analyze_joint_ordering --models _llama-3.1-8b --datasets cities_loc --probes sawmil --overwrite
+
+To generate the alternate-order inputs first:
+    python -m scripts.beliefs.score_joint --model_name _llama-3.1-8b --dataset cities_loc --template P_then_x --output_dir outputs/joint_ordering/P_then_x
+"""
+
 from __future__ import annotations
 
 import argparse

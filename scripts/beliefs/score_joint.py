@@ -1,3 +1,12 @@
+"""
+Trains nine-class joint probes and scores each (P, x) pair from representations
+of conjunctions such as "x and P.", for the Joint-to-Conditional estimator.
+
+Examples:
+    python -m scripts.beliefs.score_joint --model_name _llama-3.1-8b --dataset cities_loc --resume
+    python -m scripts.beliefs.score_joint --model_name _llama-3.1-8b --dataset cities_loc --probes sawmil --resume
+"""
+
 from __future__ import annotations
 
 import argparse

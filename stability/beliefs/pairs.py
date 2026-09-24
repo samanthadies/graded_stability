@@ -1,3 +1,8 @@
+"""
+Validates model-specific belief/conditioning sets and constructs the probe-specific
+(P, x) pair tables used by the conditional and joint estimation stages.
+"""
+
 from __future__ import annotations
 
 from dataclasses import dataclass

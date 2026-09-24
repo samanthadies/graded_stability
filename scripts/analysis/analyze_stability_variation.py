@@ -1,3 +1,12 @@
+"""
+Characterizes variation in graded stability across propositions, domains, models,
+instruction tuning, and model scale for both conditional estimators.
+
+Examples:
+    python -m scripts.analysis.analyze_stability_variation --probe sawmil --overwrite
+    python -m scripts.analysis.analyze_stability_variation --model _llama-3.1-8b --probe sawmil --overwrite
+"""
+
 from __future__ import annotations
 
 import argparse

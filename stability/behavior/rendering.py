@@ -1,3 +1,8 @@
+"""
+Renders the prompts used at each round of the behavioral challenge experiment
+from the configured templates and target statement.
+"""
+
 from __future__ import annotations
 
 from collections.abc import Sequence

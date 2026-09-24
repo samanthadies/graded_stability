@@ -1,3 +1,11 @@
+"""
+Generates the base-model SI graded-stability distributions, providing the pretrained
+counterpart to the instruction-tuned domain comparison in main-text Figure 4.
+
+Example:
+    python -m scripts.plotting.plot_fig4_base --probe sawmil --overwrite
+"""
+
 from __future__ import annotations
 
 import argparse

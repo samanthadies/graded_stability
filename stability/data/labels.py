@@ -1,3 +1,8 @@
+"""
+Defines the canonical epistemic label schema and maps benchmark annotations or source
+types to the integer labels used for atomic probe training.
+"""
+
 from __future__ import annotations
 
 from dataclasses import dataclass

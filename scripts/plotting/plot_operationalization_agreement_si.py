@@ -1,3 +1,11 @@
+"""
+Generates the SI comparison of Direct Conditional and Joint-to-Conditional graded
+stability, summarizing their proposition-level agreement across instruction models.
+
+Examples:
+    python -m scripts.plotting.plot_operationalization_agreement_si --probe sawmil --overwrite
+"""
+
 from __future__ import annotations
 
 import argparse

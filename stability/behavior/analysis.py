@@ -1,3 +1,8 @@
+"""
+Provides the core analysis utilities for the behavioral-resilience experiment,
+including predictive-validity, challenge-order, sequence-effect, and matched-pair analyses.
+"""
+
 from __future__ import annotations
 
 from typing import Any, Iterable

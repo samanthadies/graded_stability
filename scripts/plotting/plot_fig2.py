@@ -1,3 +1,11 @@
+"""
+Generates main-text Figure 2 for instruction-tuned models, showing held-out R^2 for
+predicting graded stability from belief probability and cross-model residual agreement.
+
+Example:
+    python -m scripts.plotting.plot_fig2 --probe sawmil --overwrite
+"""
+
 from __future__ import annotations
 
 import argparse

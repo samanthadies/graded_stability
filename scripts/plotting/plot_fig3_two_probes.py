@@ -1,3 +1,11 @@
+"""
+Generates the SVM and Mass Mean SI robustness counterpart to Figure 3, showing
+Direct Conditional CCK coherence-distance distributions for both alternative probes.
+
+Example:
+    python -m scripts.plotting.plot_fig3_two_probes --overwrite
+"""
+
 from __future__ import annotations
 
 import argparse

@@ -1,3 +1,8 @@
+"""
+Extracts token-level hidden-state activations from specified transformer layers,
+handling decoder-layer discovery, batching, hooks, and attention masks.
+"""
+
 from __future__ import annotations
 
 from dataclasses import dataclass

@@ -1,3 +1,8 @@
+"""
+Constructs the statement sets used for behavioral validation, including the general
+challenge sample and atomic-credence-matched high/low-stability pairs.
+"""
+
 from __future__ import annotations
 
 from collections.abc import Sequence

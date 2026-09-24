@@ -1,3 +1,11 @@
+"""
+Generates the SI model-scale analysis, comparing mean Direct Conditional graded
+stability across instruction models ordered by parameter count and decoder depth.
+
+Examples:
+    python -m scripts.plotting.plot_model_scale_si --probe sawmil --overwrite
+"""
+
 from __future__ import annotations
 
 import argparse
