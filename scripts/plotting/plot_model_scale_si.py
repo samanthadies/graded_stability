@@ -52,7 +52,6 @@ FAMILY_LABELS = {
     "qwen": "Qwen",
 }
 
-# Match the palette used in the other manuscript/SI figures.
 FAMILY_COLORS = {
     "llama": "#A63D4D",
     "gemma": "#3F6699",
@@ -75,7 +74,6 @@ EXPECTED_MODELS = (
     "_qwen-2.5-72b",
 )
 
-# Text-decoder layer counts used elsewhere in the plotting code.
 MODEL_DECODER_LAYERS = {
     "llama-3.2-3b": 28,
     "llama-3.1-8b": 32,
@@ -243,7 +241,6 @@ def ordered_panel(
         summary["dataset"].astype(str).eq(dataset)
     ].copy()
 
-    # Complete the expected model set so accidental missing rows are visible.
     expected = pd.DataFrame({"model": list(EXPECTED_MODELS)})
     expected["family"] = expected["model"].map(model_family)
     expected["params_b"] = expected["model"].map(nominal_parameter_count_b)
@@ -263,8 +260,6 @@ def ordered_panel(
     else:
         raise ValueError(f"Unknown scale {scale!r}.")
 
-    # User-requested tie-break: within equal scale, smaller mean gamma first.
-    # Any missing mean is pushed to the end of its tied block.
     panel["_mean_sort"] = pd.to_numeric(panel["mean_gamma"], errors="coerce").fillna(np.inf)
     panel["_family_sort"] = panel["family"].map({f: i for i, f in enumerate(FAMILY_ORDER)})
 
@@ -461,7 +456,7 @@ def make_figure(
     fig.text(
         0.045,
         (first_row_pos.y0 + first_row_pos.y1) / 2.0,
-        r"Mean graded stability $\bar{\gamma}(P)$",
+        r"Mean graded stability $\overline{\gamma}$",
         ha="center",
         va="center",
         rotation=90,
@@ -470,7 +465,7 @@ def make_figure(
     fig.text(
         0.045,
         (second_row_pos.y0 + second_row_pos.y1) / 2.0,
-        r"Mean graded stability $\bar{\gamma}(P)$",
+        r"Mean graded stability $\overline{\gamma}$",
         ha="center",
         va="center",
         rotation=90,

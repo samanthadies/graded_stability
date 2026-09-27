@@ -25,10 +25,6 @@ logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
 log = logging.getLogger(__name__)
 
 
-# ---------------------------------------------------------------------------
-# Style: matched to plot_fig2.py
-# ---------------------------------------------------------------------------
-
 DATASETS = ("cities_loc", "med_indications", "defs")
 DATASET_NAMES = {
     "cities_loc": "City Locations",
@@ -36,6 +32,21 @@ DATASET_NAMES = {
     "defs": "Word Definitions",
 }
 ESTIMATORS = ("direct",)
+
+INSTRUCTION_TUNED_MODELS = (
+    "llama-3.2-3b",
+    "llama-3.1-8b",
+    "llama-3.1-70b",
+    "gemma-7b",
+    "gemma-2-9b",
+    "gemma-2-27b",
+    "mistral-7b",
+    "mistral-12b",
+    "mistral-3.1-24b",
+    "qwen-2.5-7b",
+    "qwen-2.5-14b",
+    "qwen-2.5-72b",
+)
 
 DIRECT_COLOR = "#765B73"
 GRID_COLOR = "#e3e3e3"
@@ -59,10 +70,6 @@ SPLINE_SPECS = (
 SPLINE_FIGSIZE = (7.2, 2.55)
 PERMUTATION_FIGSIZE = (7.2, 2.25)
 
-
-# ---------------------------------------------------------------------------
-# Generic helpers
-# ---------------------------------------------------------------------------
 
 def require_columns(
     frame: pd.DataFrame,
@@ -190,14 +197,53 @@ def filter_primary_rows(
         source=source,
     )
 
+    model = frame["model"].astype(str)
     out = frame.loc[
         frame["probe"].astype(str).eq(probe)
         & frame["dataset"].astype(str).isin(DATASETS)
         & frame["estimator"].astype(str).isin(ESTIMATORS)
+        & model.isin(INSTRUCTION_TUNED_MODELS)
     ].copy()
 
     if out.empty:
-        raise RuntimeError(f"{source}: no rows for probe={probe!r}.")
+        raise RuntimeError(
+            f"{source}: no instruction-tuned rows for probe={probe!r}. "
+            f"Expected model names from {list(INSTRUCTION_TUNED_MODELS)}."
+        )
+
+    expected_models = set(INSTRUCTION_TUNED_MODELS)
+    problems: list[str] = []
+    for dataset in DATASETS:
+        for estimator in ESTIMATORS:
+            subset = out.loc[
+                out["dataset"].astype(str).eq(dataset)
+                & out["estimator"].astype(str).eq(estimator)
+            ]
+            observed_models = set(subset["model"].astype(str))
+            missing = sorted(expected_models - observed_models)
+            extra = sorted(observed_models - expected_models)
+            duplicates = sorted(
+                subset.loc[
+                    subset["model"].astype(str).duplicated(keep=False),
+                    "model",
+                ]
+                .astype(str)
+                .unique()
+                .tolist()
+            )
+            if missing or extra or duplicates or len(subset) != len(expected_models):
+                problems.append(
+                    f"{dataset}/{estimator}: n={len(subset)}, "
+                    f"missing={missing}, extra={extra}, duplicates={duplicates}"
+                )
+
+    if problems:
+        raise ValueError(
+            f"{source}: expected exactly the 12 instruction-tuned models "
+            "for each dataset/estimator after filtering:\n  "
+            + "\n  ".join(problems)
+        )
+
     return out
 
 
@@ -232,10 +278,6 @@ def validate_spline_df(
             f"found {sorted(values.tolist())}."
         )
 
-
-# ---------------------------------------------------------------------------
-# Figure 1: spline-specification robustness
-# ---------------------------------------------------------------------------
 
 def load_spline_robustness(
     *,
@@ -553,10 +595,6 @@ def make_spline_figure(
     plt.close(fig)
 
 
-# ---------------------------------------------------------------------------
-# Figure 2: residual-agreement permutation nulls
-# ---------------------------------------------------------------------------
-
 def load_permutation_data(
     *,
     canonical_dir: Path,
@@ -861,10 +899,6 @@ def make_permutation_figure(
     plt.close(fig)
 
 
-# ---------------------------------------------------------------------------
-# CLI
-# ---------------------------------------------------------------------------
-
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
         description=(
@@ -922,6 +956,7 @@ def main() -> None:
     print(f"Robustness input: {args.robustness_dir}")
     print(f"Output:           {args.output_dir}")
     print(f"Probe:            {args.probe}")
+    print(f"Population:       {len(INSTRUCTION_TUNED_MODELS)} instruction-tuned models")
     print()
 
     robustness = load_spline_robustness(
