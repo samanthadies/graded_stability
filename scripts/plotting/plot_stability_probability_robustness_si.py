@@ -34,18 +34,18 @@ DATASET_NAMES = {
 ESTIMATORS = ("direct",)
 
 INSTRUCTION_TUNED_MODELS = (
-    "llama-3.2-3b",
-    "llama-3.1-8b",
-    "llama-3.1-70b",
-    "gemma-7b",
-    "gemma-2-9b",
-    "gemma-2-27b",
-    "mistral-7b",
-    "mistral-12b",
-    "mistral-3.1-24b",
-    "qwen-2.5-7b",
-    "qwen-2.5-14b",
-    "qwen-2.5-72b",
+    "_llama-3.2-3b",
+    "_llama-3.1-8b",
+    "_llama-3.1-70b",
+    "_gemma-7b",
+    "_gemma-2-9b",
+    "_gemma-2-27b",
+    "_mistral-7b",
+    "_mistral-12b",
+    "_mistral-3.1-24b",
+    "_qwen-2.5-7b",
+    "_qwen-2.5-14b",
+    "_qwen-2.5-72b",
 )
 
 DIRECT_COLOR = "#765B73"
