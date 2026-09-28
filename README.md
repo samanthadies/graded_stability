@@ -63,7 +63,7 @@ Generated model outputs are not included in the repository. By default, experime
 
 ### 1. Select Probe Layers
 
-Each probe is evaluated across transformer layers, and the selected layer minimizes held-out test log loss. The model configuration files in `configs/model/` already contain the selected layers used in the paper, so this step can be skipped when directly reproducing the reported experiments.
+Each probe is evaluated across transformer layers, and the selected layer minimizes held-out calibration log loss. The model configuration files in `configs/model/` already contain the selected layers used in the paper, so this step can be skipped when directly reproducing the reported experiments.
 
 To reproduce the layer sweep for one model and dataset, for example `_llama-3.1-8b` on City Locations, run:
 
