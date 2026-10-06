@@ -2,6 +2,18 @@
 
 This repository contains the code accompanying *Toward a Graded Measure of Belief Stability in Large Language Models*. We introduce **graded belief stability**, a statement-level measure of how broadly an LLM's belief in a proposition persists when considered alongside the model's other non-disbelieved propositions.
 
+If you use this repository or build on these analyses, please cite our paper:
+
+```bibtex
+@article{dies2026toward,
+  title={Toward a Graded Measure of Belief Stability in Large Language Models},
+  author={Dies, Samantha and Fitelson, Branden and Eliassi-Rad, Tina},
+  journal={arXiv preprint arXiv:2609.34158},
+  doi={10.48550/arXiv.2609.34158},
+  year={2026}
+}
+```
+
 For a belief $P$, graded stability $\gamma_{\mathcal{M}}(P)$ is the proportion of conditioning propositions $x$ for which the model's estimated conditional probability of $P$ remains above its empirical belief threshold. The repository includes scripts for:
 
 - Training calibrated **trivalent probes** over LLM hidden representations
@@ -445,10 +457,24 @@ graded_stability/
 
 ------------------------------------------------------------------------
 
-### Citations
+### Citation
 
-1. Dies, S., Fitelson, B. & Eliassi-Rad, T. *Toward a Graded Measure of Belief Stability in Large Language Models* (2026). Accompanying manuscript.
+If you use this codebase or reproduce its analyses, please cite:
 
-2. Savcisens, G. & Eliassi-Rad, T. *Trilemma of Truth in Large Language Models*, **Mechanistic Interpretability Workshop at NeurIPS 2025**, [https://openreview.net/forum?id=z7dLG2ycRf](https://openreview.net/forum?id=z7dLG2ycRf) (2025).
+> Dies, Samantha, Branden Fitelson, and Tina Eliassi-Rad. *Toward a Graded Measure of Belief Stability in Large Language Models*. arXiv:2609.34158 (2026). https://doi.org/10.48550/arXiv.2609.34158
 
-3. Marks, S. & Tegmark, M. *The Geometry of Truth: Emergent Linear Structure in Large Language Model Representations of True/False Datasets*, **Proceedings of the 1st Conference on Language Modeling (COLM)**, [https://openreview.net/forum?id=aajyHYjjsk](https://openreview.net/forum?id=aajyHYjjsk) (2024).
+```bibtex
+@article{dies2026toward,
+  title={Toward a Graded Measure of Belief Stability in Large Language Models},
+  author={Dies, Samantha and Fitelson, Branden and Eliassi-Rad, Tina},
+  journal={arXiv preprint arXiv:2609.34158},
+  doi={10.48550/arXiv.2609.34158},
+  year={2026}
+}
+```
+
+### References
+
+1. Savcisens, G. & Eliassi-Rad, T. *Trilemma of Truth in Large Language Models*, **Mechanistic Interpretability Workshop at NeurIPS 2025**, [https://openreview.net/forum?id=z7dLG2ycRf](https://openreview.net/forum?id=z7dLG2ycRf) (2025).
+
+2. Marks, S. & Tegmark, M. *The Geometry of Truth: Emergent Linear Structure in Large Language Model Representations of True/False Datasets*, **Proceedings of the 1st Conference on Language Modeling (COLM)**, [https://openreview.net/forum?id=aajyHYjjsk](https://openreview.net/forum?id=aajyHYjjsk) (2024).
